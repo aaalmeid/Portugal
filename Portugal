@@ -1,0 +1,287 @@
+#EXTM3U
+
+
+#EXTINF: -1, RTP 1
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1
+#EXTINF: -1, RTP 2
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/2
+#EXTINF: -1, SIC
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3
+#EXTINF: -1, TVI
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/4
+#EXTIN : -1, RTP 1 FHD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1651
+#EXTINF: -1, RTP 2 FHD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/16
+#EXTINF: -1, SIC FHD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1649
+#EXTINF: -1, TVI FHD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQ
+#EXTINF: -1, SIC NOTICIAS HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/5
+#EXTINF: -1, TVI 24
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/6
+#EXTINF: -1, RTP 3
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/87
+#EXTINF: -1, CMTV HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/10
+#EXTINF: -1, PORTO CANAL HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/12
+#EXTINF: -1, RTP INTERNACIONAL
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1466
+#EXTINF: -1 INTERNACIONAL
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11557
+#EXTINF: -1, TVI INTERNACIONAL
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11559
+#EXTINF: -1 RADICAL HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/9
+#EXTINF: -1, SIC MULHER HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/7
+#EXTINF: -1, SIC CARAS HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/8
+#EXTINF: -1, TVI REALTY
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/397
+#EXTINF: -1 TVI REALTY MOSAICO
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1461
+#EXTINF: -1, TVI REALTY CÂMARA 1
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1465
+#EXTINF: -1, TVI REALTY CAMERA 2
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1464
+#EXTINF: -1, TVI REALTY CAMERA 3
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM 1463
+#EXTINF: -1, CÂMARA TVI REALTY 4
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1462
+#EXTINF: -1, TVI FICCAO
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/88
+#EXTINFICA,
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/220
+#EXTINF: -1, RTP MEMORIA
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/682
+#EXTINF: -1
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/287
+#EXTINF: -1, RTP Açores
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/289
+#EXTINF: -1, a Globo
+http : //serv1.ip4you.kim: 8080 / ViGjR0e4A6 / LS67Ew3LQM / 216
+#EXTINF: -1, GLOBO NOW
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/215
+#EXTINF: -1, TV GLOBO
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11558
+#EXTINF: -1, TV RECORD HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/13
+#EXTINF: -1 NOTÍCIAS
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/940
+#EXTINF: -1, INTERNACIONAL DE TV RECORD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11556
+#EXTINF CANAL Q
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11
+#EXTINF: -1, uma TV BOLA
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/22
+#EXTINF: -1 , SPORTV 4K
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/4558
+#EXTINF: -1, SPORTV + FULL HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1570
+# -1, SPORTV +
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1109
+#EXTINF: -1, SPORTV 1 FULL HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1574
+#EXTINF SPORTV 1 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/14
+#EXTINF: -1, SPORTV 1
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/390
+#EXTINF , SPORTV 2 FULL HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1575
+#EXTINF: -1, 2 SPORTV HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/15
+#EXTINF : -1, SPORTV 2
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/392
+#EXTINF: -1, SPORTV 3 FULL HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/152
+#EXTINF: -1, SPORTV 3 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/16
+#EXTINF: -1, SPORTV 3
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/396
+#EXTINF: -1 FULL HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1572
+#EXTINF: -1, SPORTV 4 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/17
+#EXTINF , SPORTV 4
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/395
+#EXTINF: -1, SPORTV 5 FULL HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1573
+#EXTINF: -1 -1, SPORTV 5 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/18
+#EXTINF: -1, SPORTV 5
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/394
+#EXT : -1, BTV 1 COMPLETO HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1568
+#EXTINF: -1, BTV 1 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/19
+#EXTINF: -1, BTV 1
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/391
+#EXTINF: -1, ONZE SPORTS 1 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/9521
+#EXTINF , ONZE DESPORTO um
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/12801
+#EXTINF: -1, 2 ONZE DESPORTO HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/9520
+#EXTINF : -1, ONZE SPORTS 2
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/12802
+#EXTINF: -1, ONZE SPORTS 3 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3L 9519
+#EXTINF: -1, ONZE SPORTS 3
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/12803
+#EXTINF: -1, ONZE SPORTS 4 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/9524
+#EXTINF ONZE DESPORTO 4
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/12804
+#EXTINF: -1, ONZE DESPORTO 5 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/9523
+#EXTINF: -1, ONZE SPORTS 5
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/12805
+#EXTINF: -1, ONZE SPORTS 6 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQ
+#EXTINF: -1, ONZE SPORTS 6
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/12806
+#EXTINF: -1, NBA SPORTV
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew 11257
+#EXTINF: -1, SPORTING TV HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/21
+#EXTINF: -1, EUROSPORT 1 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQ / 23
+#EXTINF: -1, EUROSPORT 2 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/24
+#EXTINF: -1, PFC
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQ / 25
+#EXTINF: -1, TV REAL MADRID
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/944
+#EXTINF: -1, HD AO AR LIVRE
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/ LS67Ew3LQM / 770
+#EXTINF: -1, FUEL TV HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/109
+#EXTINF: -1, MOTORVISION HD
+http://serv1.ip4you.kim:8080/ViGjR0e4 / LS67Ew3LQM / 26
+#EXTINF: -1, CAÇA E PESCA
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/27
+#EXTINF: -1, CACAVISION
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/91
+#EXTINF: -1KIGHT
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/687
+#EXTINF: -1, KOMBAT SPORT
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/985,
+#EXTINF: HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/28
+#EXTINF: -1, TVCINE 1
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3031
+#EXTINF: -1 2 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/29
+#EXTINF: -1, TVCINE 2
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3030
+#EXTINF: -1 TVCINE 3 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/30
+#EXTINF: -1, TVCINE 3
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3029
+#EXTINF: -1 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/31
+#EXTINF: -1, TVCINE 4
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3028
+#EXTINF: -1 SÉRIE HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/32
+#EXTINF: -1, HOLLYWOOD HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/34
+#EXTINF FOX HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/90
+#EXTINF: -1, FOX LIFE HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/35
+#EXTINF: , FOX CRIME HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/36
+#EXTINF: -1, FOX MOVIES HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/217
+#EXTINF: -1 COMEDY HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/543
+#EXTINF: -1, AXN HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/92
+#EXTINF: -1 AXN WHITE HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/37
+#EXTINF: -1, AXN BLACK HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/38
+#EXTIN 1, SyFy HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/33
+#EXTINF: -1, crime + INVESTIGAÇÃO
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1469
+#EXTINF: -1, AMC HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/227
+#EXTINF: -1, EUROCHANNEL
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11094
+#EXTINF: -1, CINEMUNDO
+http: //serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/223
+#EXTINF: -1, CINEMA_4K
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/8897
+#EXTINF: -1, DISNEY CHANNEL
+http: / /serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/102
+#EXTINF: -1, DISNEY JÚNIOR
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/45
+#EXTINF: -1, ANIMADOS NETWORK
+http: / /serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/225
+#EXTINF: -1, PANDA DE CANAL
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/103
+#EXTINF: -1
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11109
+#EXTINF: -1, Panda BIGGS
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/99
+#EXTINF: -1, NICKELODEON
+http : //serv1.ip4you.kim: 8080 / ViGjR0e4A6 / LS67Ew3LQM / 46
+#EXTINF: -1, Nickelodean JÚNIOR
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3333
+#EXTINF: -1, JIM JAM
+http : //serv1.ip4you.kim: 8080 / ViGjR0e4A6 / LS67Ew3LQM / 101
+#EXTINF: -1, Tiji
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/3091
+#EXTINF: -1, BEB TV
+http: //serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/47
+#EXTINF: -1, SIC K
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/44
+#EXTINF: -1, NAT. GEOGRÁFICO
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/96
+#EXTINF: -1, NAT GEO WILD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/42
+#EXTINF: -1 CHANNEL HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/43
+#EXTINF: -1, DISCOVERY SHOWCASE
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/218EX
+, ID INVESTIGAÇÃO DISCOVERY
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11258
+#EXTINF: -1, HISTÓRIA DO CANAL
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/22
+, ODISSEIA HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/100
+#EXTINF: -1, CANAL DE VIAGENS HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/389
+#EXTINF: -1, E! ENTRETENIMENTO
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/39
+#EXTINF: -1, BLAZE HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/104
+#EXTINF
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/40
+#EXTINF: -1, S + HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/11091
+#EXTINF: -1, CBS REALEX
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/224
+#EXTINF: -1, LUXE TV HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/769
+#EXTINF: -1 TV
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/553
+#EXTINF: -1, REDE ALIMENTAR HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/552
+#EXTINF 24 COZINHA HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/41
+#EXTINF: -1, TOROS TV
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/98
+#EXTINF: -1 HD
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/688
+#EXTINF: -1, MINHA CULINÁRIA
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/879 #
+EXTINFOS--1 TV
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/1652
+#EXTINF: -1, CANÇÂO NOVA
+http://serv1.ip4you.kim:8080/ViGjR0e4A6/LS67Ew3LQM/544
