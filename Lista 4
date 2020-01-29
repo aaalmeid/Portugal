@@ -1,54 +1,260 @@
 # EXTM3U
 
-#‎EXTINF‬:-1,SPORTTV 1 HD http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/31.ts 
-
-#EXTINF:-1,SPORTTV 2 HD http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/56.ts
-
-#EXTINF:-1,SPORTTV 3 HD http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/57.ts 
-
-#EXTINF:-1,SPORTTV 4 HD http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/58.ts 
-
-#EXTINF:-1,SPORTTV 5 HD http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/55.ts
-
-#EXTINF:-1,BENFICA TV 1 HD http://78.31.65.171:20000/live/oObKciJyVd/U7aj98HmJL/53.ts
-
-#‎EXTINF‬:-1,PT: Benfica TV 1 HD http://188.165.142.253:8000/…/tvonline…/iptv-solution/428.ts 
-
-#EXTINF:-1,PT: Benfica TV 2 http://188.165.142.253:8000/…/tvonline…/iptv-solution/429.ts 
-
-#EXTINF:-1,PT: SPORT TV1 HD http://188.165.142.253:8000/…/tvonline…/iptv-solution/430.ts
-
-#EXTINF:-1,PT: SPORT TV2 http://188.165.142.253:8000/…/tvonline…/iptv-solution/431.ts 
-
-#EXTINF:-1,PT: SPORT TV 3 http://188.165.142.253:8000/…/tvonline…/iptv-solution/432.ts 
-
-#EXTINF:-1,PT: SPORT TV 4 http://188.165.142.253:8000/…/tvonline…/iptv-solution/433.ts 
-
-#EXTINF:-1,PT: SPORT TV5 HD http://188.165.142.253:8000/…/tvonline…/iptv-solution/434.ts 
-
-#EXTINF:-1,PT: Sport.TV Americas http://188.165.142.253:8000/…/tvonline…/iptv-solution/472.ts 
-
-#EXTINF:-1,PT: Sporting TV HD http://188.165.142.253:8000/…/tvonline…/iptv-solution/435.ts
-
-#EXTINF:-1,PT: Caca & Pesca http://188.165.142.253:8000/…/tvonline…/iptv-solution/468.ts 
-#EXTINF:-1,PT: TVCINE 1 http://188.165.142.253:8000/…/tvonline…/iptv-solution/444.ts 
-#EXTINF:-1,PT: TVCINE 2 http://188.165.142.253:8000/…/tvonline…/iptv-solution/445.ts 
-#EXTINF:-1,PT: TVCINE 3 http://188.165.142.253:8000/…/tvonline…/iptv-solution/446.ts 
-#EXTINF:-1,PT: TVCINE 4 http://188.165.142.253:8000/…/tvonline…/iptv-solution/447.ts
-#EXTINF:-1,PT: CINEMUNDO http://188.165.142.253:8000/…/tvonline…/iptv-solution/471.ts 
-#EXTINF:-1,PT: Fox hd http://188.165.142.253:8000/…/tvonline…/iptv-solution/440.ts
-#EXTINF:-1,PT: Fox Movies http://188.165.142.253:8000/…/tvonline…/iptv-solution/458.ts
-#EXTINF:-1,PT: Fox Crime http://188.165.142.253:8000/…/tvonline…/iptv-solution/441.ts
-#EXTINF:-1,PT: FoxLife HD http://188.165.142.253:8000/…/tvonline…/iptv-solution/442.ts
-#EXTINF:-1,PT: HollyWood http://188.165.142.253:8000/…/tvonline…/iptv-solution/443.ts 
-#EXTINF:-1,PT: AXN HD http://188.165.142.253:8000/…/tvonline…/iptv-solution/469.ts 
-#EXTINF:-1,PT: AXN BLACK HD http://188.165.142.253:8000/…/tvonline…/iptv-solution/470.ts 
-#EXTINF:-1,PT: AXN White HD http://188.165.142.253:8000/…/tvonline…/iptv-solution/457.ts 
-#EXTINF:-1,PT: SyFy http://188.165.142.253:8000/…/tvonline…/iptv-solution/405.ts 
-#EXTINF:-1,PT: Mov HD http://188.165.142.253:8000/…/tvonline…/iptv-solution/408.ts 
-#EXTINF:-1,PT: Toros TV http://188.165.142.253:8000/…/tvonline…/iptv-solution/404.ts
- #EXTINF:-1,PT: TPA http://188.165.142.253:8000/…/tvonline…/iptv-solution/448.ts 
-#EXTINF:-1,PT: TVseries http://188.165.142.253:8000/…/tvonline…/iptv-solution/436.ts 
-#EXTINF:-1,PT: TVI FicÃ§Ã£o http://188.165.142.253:8000/…/tvonline…/iptv-solution/437.ts 
-#EXTINF:-1,PT: TVI http://188.165.142.253:8000/…/tvonline…/iptv-solution/438.ts 
-#EXTINF:-1,PT: TVI 24 http://188.165.142.253:8000/…/tvonline…/iptv-solution/439.ts #EXTINF:-1,PT: SIC noticias http://188.165.142.253:8000/…/tvonline…/iptv-solution/449.ts #EXTINF:-1,PT: Sic K http://188.165.142.253:8000/…/tvonline…/iptv-solution/450.ts #EXTINF:-1,PT: Sic http://188.165.142.253:8000/…/tvonline…/iptv-solution/451.ts #EXTINF:-1,PT: RTP 2 http://188.165.142.253:8000/…/tvonline…/iptv-solution/452.ts #EXTINF:-1,PT: RTP Internacional http://188.165.142.253:8000/…/tvonline…/iptv-solution/453.ts #EXTINF:-1,PT: RTP http://188.165.142.253:8000/…/tvonline…/iptv-solution/454.ts #EXTINF:-1,PT: Porto canal http://188.165.142.253:8000/…/tvonline…/iptv-solution/455.ts #EXTINF:-1,PT: RTP InformaÃ§Ã£o http://188.165.142.253:8000/…/tvonline…/iptv-solution/456.ts #EXTINF:-1,PT: TV Globo http://188.165.142.253:8000/…/tvonline…/iptv-solution/463.ts #EXTINF:-1,PT: TV Globo Premium http://188.165.142.253:8000/…/tvonline…/iptv-solution/460.ts #EXTINF:-1,PT: CMTV http://188.165.142.253:8000/…/tvonline…/iptv-solution/467.ts #EXTINF:-1,PT: Nickelodeon http://188.165.142.253:8000/…/tvonline…/iptv-solution/473.ts #EXTINF:-1,PT: Disney Channel http://188.165.142.253:8000/…/tvonline…/iptv-solution/465.ts #EXTINF:-1,PT: Disney JR http://188.165.142.253:8000/…/tvonline…/iptv-solution/464.ts #EXTINF:-1,PT: Cartoon NetWork http://188.165.142.253:8000/…/tvonline…/iptv-solution/406.ts #EXTINF:-1,PT: Canal Panda http://188.165.142.253:8000/…/tvonline…/iptv-solution/407.ts #EXTINF:-1,PT: Nat Geo http://188.165.142.253:8000/…/tvonline…/iptv-solution/461.ts #EXTINF:-1,PT: Nat Geographic wild http://188.165.142.253:8000/…/tvonline…/iptv-solution/462.ts #EXTINF:-1,PT: Discovery http://188.165.142.253:8000/…/tvonline…/iptv-solution/466.ts #EXTINF:-1,PT: TVI Reality (A Quinta) http://188.165.142.253:8000/…/tvonline…/iptv-solution/459.ts #EXTINF:-1,PT: Economico TV http://188.165.142.253:8000/…/tvonline…/iptv-solution/409.ts #EXTINF:-1,PT: CBS Reality http://188.165.142.253:8000/…/tvonline…/iptv-solution/410.ts #EXTINF:-1,PT: Afro Music HD http://188.165.142.253:8000/…/tvonline…/iptv-solution/411.ts #EXTINF:-1,Sky Sports News HD http://62.210.251.32:88/live/sb/sb/254.m3u8 #EXTINF:-1,Sky Sports News http://62.210.251.32:88/live/sb/sb/255.m3u8 #EXTINF:-1,Sky News http://62.210.251.32:88/live/sb/sb/268.m3u8 #EXTINF:-1,Sky Sports 1 http://62.210.251.32:88/live/sb/sb/267.m3u8 #EXTINF:-1,Sky Sports 1 HD http://62.210.251.32:88/live/sb/sb/266.m3u8 #EXTINF:-1,Sky Sports 2 http://62.210.251.32:88/live/sb/sb/265.m3u8 #EXTINF:-1,Sky Sports 2 HD http://62.210.251.32:88/live/sb/sb/264.m3u8 #EXTINF:-1,Sky Sports 3 http://62.210.251.32:88/live/sb/sb/263.m3u8 #EXTINF:-1,Sky Sports 3 HD http://62.210.251.32:88/live/sb/sb/262.m3u8 #EXTINF:-1,Sky Sports 4 http://62.210.251.32:88/live/sb/sb/261.m3u8 #EXTINF:-1,Sky Sports 4 HD http://62.210.251.32:88/live/sb/sb/260.m3u8 #EXTINF:-1,Sky Sports 5 http://62.210.251.32:88/live/sb/sb/259.m3u8 #EXTINF:-1,Sky Sports 5 HD http://62.210.251.32:88/live/sb/sb/258.m3u8 #EXTINF:-1,Sky Sports F1 http://62.210.251.32:88/live/sb/sb/257.m3u8 #EXTINF:-1,Sky Sports F1 HD http://62.210.251.32:88/live/sb/sb/256.m3u8 #EXTINF:-1,Setanta Sports 1 http://62.210.251.32:88/live/sb/sb/283.m3u8 #EXTINF:-1,Setanta Ireland http://62.210.251.32:88/live/sb/sb/284.m3u8 #EXTINF:-1,Racing UK http://62.210.251.32:88/live/sb/sb/288.m3u8 #EXTINF:-1,Eurosport http://62.210.251.32:88/live/sb/sb/333.m3u8 #EXTINF:-1,Eurosport 2 http://62.210.251.32:88/live/sb/sb/332.m3u8 #EXTINF:-1,ESPN HD http://62.210.251.32:88/live/sb/sb/334.m3u8 #EXTINF:-1,ESPN http://62.210.251.32:88/live/sb/sb/335.m3u8 #EXTINF:-1,Chelsea TV http://62.210.251.32:88/live/sb/sb/352.m3u8 #EXTINF:-1,BT Sport Europe http://62.210.251.32:88/live/sb/sb/359.m3u8 #EXTINF:-1,BT Sport 1 HD http://62.210.251.32:88/live/sb/sb/362.m3u8 #EXTINF:-1,BT Sport 1 http://62.210.251.32:88/live/sb/sb/363.m3u8 #EXTINF:-1,BT Sport 2 HD http://62.210.251.32:88/live/sb/sb/360.m3u8 #EXTINF:-1,BT Sport 2 http://62.210.251.32:88/live/sb/sb/361.m3u8 #EXTINF:-1,Box Nation http://62.210.251.32:88/live/sb/sb/364.m3u8 #EXTINF:-1,Sportklub 1 http://62.210.251.32:88/live/sb/sb/655.m3u8 #EXTINF:-1,Sportklub 2 http://62.210.251.32:88/live/sb/sb/654.m3u8 #EXTINF:-1,Sportklub 3 http://62.210.251.32:88/live/sb/sb/653.m3u8 #EXTINF:-1,Ote Sports 1 HD http://62.210.251.32:88/live/sb/sb/688.m3u8 #EXTINF:-1,Ote Sports 2 HD http://62.210.251.32:88/live/sb/sb/687.m3u8 #EXTINF:-1,Ote Sports 3 HD http://62.210.251.32:88/live/sb/sb/686.m3u8 #EXTINF:-1,Ote Sports 4 HD http://62.210.251.32:88/live/sb/sb/685.m3u8 #EXTINF:-1,Ote Sports 5 HD http://62.210.251.32:88/live/sb/sb/684.m3u8 #EXTINF:-1,Ote Sports 6 HD http://62.210.251.32:88/live/sb/sb/683.m3u8 #EXTINF:-1,Ote Sports 7HD http://62.210.251.32:88/live/sb/sb/682.m3u8 #EXTINF:-1,Ote Sports 8 HD http://62.210.251.32:88/live/sb/sb/681.m3u8 #EXTINF:-1,Fox Sports 1 (NL) http://62.210.251.32:88/live/sb/sb/668.m3u8 #EXTINF:-1,Fox Sports 2 (NL) http://62.210.251.32:88/live/sb/sb/667.m3u8 #EXTINF:-1,Fox Sports 3 (NL) http://62.210.251.32:88/live/sb/sb/666.m3u8 #EXTINF:-1,Fox Sports 4 (NL) http://62.210.251.32:88/live/sb/sb/665.m3u8 #EXTINF:-1,Fox Sports 5 (NL) http://62.210.251.32:88/live/sb/sb/664.m3u8 #EXTINF:-1,IT: Rai Sport 1 http://62.210.251.32:88/live/sb/sb/673.m3u8 #EXTINF:-1,IT: Rai Sport 2 http://62.210.251.32:88/live/sb/sb/672.m3u8 #EXTINF:-1,Sky Sport 1 (DE) http://62.210.251.32:88/live/sb/sb/675.m3u8 #EXTINF:-1,Sky Sport 2 (DE) http://62.210.251.32:88/live/sb/sb/674.m3u8 #EXTINF:-1,CTH Channel Stadium X HD http://62.210.251.32:88/live/sb/sb/693.m3u8 #EXTINF:-1,CTH Channel Stadium 1 HD http://62.210.251.32:88/live/sb/sb/699.m3u8 #EXTINF:-1,CTH Channel Stadium 2 HD http://62.210.251.32:88/live/sb/sb/698.m3u8 #EXTINF:-1,CTH Channel Stadium 3 HD http://62.210.251.32:88/live/sb/sb/697.m3u8 #EXTINF:-1,CTH Channel Stadium 4 HD http://62.210.251.32:88/live/sb/sb/696.m3u8 #EXTINF:-1,CTH Channel Stadium 5 HD http://62.210.251.32:88/live/sb/sb/695.m3u8 #EXTINF:-1,CTH Channel Stadium 6 HD http://62.210.251.32:88/live/sb/sb/694.m3u8 #EXTINF:-1, Astro 1 http://62.210.251.32:88/live/sb/sb/703.m3u8 #EXTINF:-1,Astro 2 http://62.210.251.32:88/live/sb/sb/702.m3u8 #EXTINF:-1,Astro 3 http://62.210.251.32:88/live/sb/sb/701.m3u8 #EXTINF:-1,Astro 4 http://62.210.251.32:88/live/sb/sb/700.m3u8 #EXTINF:-1,Arena Sports 1 http://62.210.251.32:88/live/sb/sb/680.m3u8 #EXTINF:-1,Arena Sports 2 http://62.210.251.32:88/live/sb/sb/679.m3u8 #EXTINF:-1,Arena Sports 3 http://62.210.251.32:88/live/sb/sb/678.m3u8 #EXTINF:-1,Arena Sports 4 http://62.210.251.32:88/live/sb/sb/677.m3u8 #EXTINF:-1,Arena Sports 5 http://62.210.251.32:88/live/sb/sb/676.m3u8 #EXTINF:-1,BBC News http://62.210.251.32:88/live/sb/sb/374.m3u8 #EXTINF:-1,BBC 1 HD http://62.210.251.32:88/live/sb/sb/372.m3u8 #EXTINF:-1,BBC 1 http://62.210.251.32:88/live/sb/sb/373.m3u8 #EXTINF:-1,BBC 2 HD http://62.210.251.32:88/live/sb/sb/370.m3u8 #EXTINF:-1,BBC 2 http://62.210.251.32:88/live/sb/sb/371.m3u8 #EXTINF:-1,BBC 3 http://62.210.251.32:88/live/sb/sb/368.m3u8 #EXTINF:-1,BBC 4 http://62.210.251.32:88/live/sb/sb/366.m3u8 #EXTINF:-1,ITV 1 HD http://62.210.251.32:88/live/sb/sb/313.m3u8 #EXTINF:-1,ITV 1 http://62.210.251.32:88/live/sb/sb/315.m3u8 #EXTINF:-1,ITV 1 http://62.210.251.32:88/live/sb/sb/314.m3u8 #EXTINF:-1,ITV 2 http://62.210.251.32:88/live/sb/sb/312.m3u8 #EXTINF:-1,ITV 3 http://62.210.251.32:88/live/sb/sb/311.m3u8 #EXTINF:-1,ITV 4 http://62.210.251.32:88/live/sb/sb/310.m3u8 #EXTINF:-1,ITV Encore http://62.210.251.32:88/live/sb/sb/316.m3u8 #EXTINF:-1,ITV Be http://62.210.251.32:88/live/sb/sb/317.m3u8 #EXTINF:-1,Alibi http://62.210.251.32:88/live/sb/sb/377.m3u8 #EXTINF:-1,5 USA http://62.210.251.32:88/live/sb/sb/378.m3u8 #EXTINF:-1,5 Star http://62.210.251.32:88/live/sb/sb/379.m3u8 #EXTINF:-1,4 Seven http://62.210.251.32:88/live/sb/sb/380.m3u8 #EXTINF:-1,3 e http://62.210.251.32:88/live/sb/sb/381.m3u8 #EXTINF:-1,Sky 1 http://62.210.251.32:88/live/sb/sb/253.m3u8 #EXTINF:-1,Sky 2 http://62.210.251.32:88/live/sb/sb/252.m3u8 #EXTINF:-1,Sky Living http://62.210.251.32:88/live/sb/sb/279.m3u8 #EXTINF:-1,Sky Atlantic #EXTINF:-1,Sky Art 1 http://62.210.251.32:88/live/sb/sb/281.m3u8 #EXTINF:-1,Sky Movies Select http://62.210.251.32:88/live/sb/sb/269.m3u8 #EXTINF:-1,Sky Movies SciFi http://62.210.251.32:88/live/sb/sb/270.m3u8 #EXTINF:-1,Sky Movies Premiere http://62.210.251.32:88/live/sb/sb/271.m3u8 #EXTINF:-1,Sky Movies Greats http://62.210.251.32:88/live/sb/sb/272.m3u8 #EXTINF:-1,Sky Movies Family http://62.210.251.32:88/live/sb/sb/273.m3u8 #EXTINF:-1,Sky Movies Drama http://62.210.251.32:88/live/sb/sb/274.m3u8 #EXTINF:-1,Sky Movies Disney http://62.210.251.32:88/live/sb/sb/275.m3u8 #EXTINF:-1,Sky Movies Crime http://62.210.251.32:88/live/sb/sb/276.m3u8 #EXTINF:-1,Sky Movies Comedy http://62.210.251.32:88/live/sb/sb/277.m3u8 #EXTINF:-1,Sky Movies Action & Adventure http://62.210.251.32:88/live/sb/sb/278.m3u8 #EXTINF:-1,Yesterday http://62.210.251.32:88/live/sb/sb/233.m3u8 #EXTINF:-1,Watch http://62.210.251.32:88/live/sb/sb/234.m3u8
+#EXTINF: -1, PT | GLOBO PORTUGAL HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18181
+#EXTINF: -1, PT | MCM TOP
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18182
+#EXTINF: -1, PT | NAT GEO WILD HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18184
+#EXTINF: -1, PT | RTP 2 HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18185
+#EXTINF: -1, PT | RTP 3 HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18186
+#EXTINF: -1, PT | AMC HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18187
+#EXTINF: -1, PT | 24 COZINHA HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18188
+#EXTINF: -1, PT | REDE VIDA FINA HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18189
+#EXTINF: -1, PT | FOX CRIME HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18190
+#EXTINF: -1, PT | CLUBBING TV HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18191
+#EXTINF: -1, PT | FOX MOVIES HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18192
+#EXTINF: -1, PT | FUEL TV HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18193
+#EXTINF: -1, PT | ID INVESTIGAÇÃO DESCOBERTA HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18194
+#EXTINF: -1, PT | NOS STUDIOS HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18195
+#EXTINF: -1, PT | GLOBO NOW HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18196
+#EXTINF: -1, PT | ZAP VIVA HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18197
+#EXTINF: -1, PT | BTV
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18198
+#EXTINF: -1, PT | TVI
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18199
+#EXTINF: -1, PT | SIC
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18200
+#EXTINF: -1, PT | RTP 2
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18201
+#EXTINF: -1, PT | RTP 1
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18202
+#EXTINF: -1, PT | TPA
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18203
+#EXTINF: -1, PT | SANTUARIO FATIMA
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18204
+#EXTINF: -1, PT | 11 HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18206
+#EXTINF: -1, PT | GLOBO NOW
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18089
+#EXTINF: -1, PT | GLOBO PORTUGAL
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18090
+#EXTINF: -1, PT | LOCALVISAO TV HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18091
+#EXTINF: -1, PT | GRAVAÇÃO DE TV
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18092
+#EXTINF: -1, PT | MCM POP
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18093
+#EXTINF: -1, PT | MÚSICA AFRO
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18094
+#EXTINF: -1, PT | VH1
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18095
+#EXTINF: -1, PT | TV DE BEBÊ
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18096
+#EXTINF: -1, PT | JIM JAM
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18097
+#EXTINF: -1, PT | REDE DOS DESENHOS ANIMADOS
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18098
+#EXTINF: -1, PT | NICK JR.
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18099
+#EXTINF: -1, PT | NICKELODEON
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18100
+#EXTINF: -1, PT | PANDA BIGSS
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18101
+#EXTINF: -1, PT | CANAL PANDA
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18102
+#EXTINF: -1, PT | DISNEY JÚNIOR
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18103
+#EXTINF: -1, PT | CANAL DISNEY
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18104
+#EXTINF: -1, PT | TOROS TV HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18105
+#EXTINF: -1, PT | CAÇAVISION
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18106
+#EXTINF: -1, PT | REDE ALIMENTAR HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18107
+#EXTINF: -1, PT | CAÇA E PESCA
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18108
+#EXTINF: -1, PT | MY COZINHA
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18109
+#EXTINF: -1, PT | CBS REALITY
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18110
+#EXTINF: -1, PT | TLC
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18111
+#EXTINF: -1, PT | CHAMA
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18112
+#EXTINF: -1, PT | CANAL DE VIAGENS HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18113
+#EXTINF: -1, PT | INVESTIGAÇÃO CRIMINAL
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18114
+#EXTINF: -1, PT | HISTÓRIA DO CANAL
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18115
+#EXTINF: -1, PT | ODISSEIA HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18116
+#EXTINF: -1, PT | DESCOBERTA
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18117
+#EXTINF: -1, PT | NAT GEO WILD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18118
+#EXTINF: -1, PT | NAT GEO HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18119
+#EXTINF: -1, PT | SYFY-HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18120
+#EXTINF: -1, PT | FOX LIFE HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18121
+#EXTINF: -1, PT | FOX HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18122
+#EXTINF: -1, PT | AXN HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18123
+#EXTINF: -1, PT | HOLLYWOOD HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18124
+#EXTINF: -1, PT | TV SERIES HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18125
+#EXTINF: -1, PT | TVCINE 4 HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18126
+#EXTINF: -1, PT | TVCINE 3 HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18127
+#EXTINF: -1, PT | TVCINE 2 HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18128
+#EXTINF: -1, PT | TVCINE 1 HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18129
+#EXTINF: -1, PT | CANAL Q
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18149
+#EXTINF: -1, PT | RTP AÇORES
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18150
+#EXTINF: -1, PT | RTP MADEIRA
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18151
+#EXTINF: -1, PT | MEMÓRIAS RTP
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18152
+#EXTINF: -1, PT | SIC Kids
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18153
+#EXTINF: -1, PT | SIC RADICAL HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18154
+#EXTINF: -1, PT | SIC CARAS HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18155
+#EXTINF: -1, PT | SIC MULHER HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18156
+#EXTINF: -1, PT | TVI REALITY
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18157
+#EXTINF: -1, PT | TVI FICCAO
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18158
+#EXTINF: -1, PT | A BOLA TV
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18159
+#EXTINF: -1, PT | CMTV HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18160
+#EXTINF: -1, PT | TVI 24
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18161
+#EXTINF: -1, PT | SIC NOTICIAS HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18162
+#EXTINF: -1, PT | TVI HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18163
+#EXTINF: -1, PT | SIC HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18164
+#EXTINF: -1, PT | RTP 1 HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18165
+#EXTINF: -1, PT | TV RECORD HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18166
+#EXTINF: -1, PT | FOX COMEDY HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18167
+#EXTINF: -1, PT | MEZZO-LIVE HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18168
+#EXTINF: -1, PT | CANCAO NOVA
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18169
+#EXTINF: -1, PT | AXN WHITE HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18170
+#EXTINF: -1, PT | AXN BLACK HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18171
+#EXTINF: -1, PT | MTV PORTUGAL HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18172
+#EXTINF: -1, PT | CINEMUNDO HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18173
+#EXTINF: -1, PT | E! ENTRETENIMENTO
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/18174
+#EXTINF: -1, PT | RTP 1 HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35886
+#EXTINF: -1, PT | AMC
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35887
+#EXTINF: -1, PT | National Geographic
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35888
+#EXTINF: -1, PT | Eleven Sports 1
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35889
+#EXTINF: -1, PT | Eleven Sports 2
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35890
+#EXTINF: -1, PT | Eleven Sports 3
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35891
+#EXTINF: -1, PT | Eleven Sports 4
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35892
+#EXTINF: -1, PT | Eleven Sports 5
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35893
+#EXTINF: -1, PT | Eleven Sports 6
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35894
+#EXTINF: -1, PT | Cinemundo
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35895
+#EXTINF: -1, PT | MTV Portugal
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35896
+#EXTINF: -1, PT | AXN Black
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35897
+#EXTINF: -1, PT | AXN White
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35898
+#EXTINF: -1, PT | Fox Comédia
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35899
+#EXTINF: -1, PT | Fox Crime
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35900
+#EXTINF: -1, PT | Fox Life
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35901
+#EXTINF: -1, PT | Fox Filmes
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35902
+#EXTINF: -1, PT | Sic Noticias
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35903
+#EXTINF: -1, PT | CMTV
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35904
+#EXTINF: -1, PT | Sic Mulher
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35905
+#EXTINF: -1, PT | SIC Caras
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35906
+#EXTINF: -1, PT | SIC Radical
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35907
+#EXTINF: -1, PT | Sporting TV
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35908
+#EXTINF: -1, PT | Canal do Porto
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35909
+#EXTINF: -1, PT | Eurosport 1
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35910
+#EXTINF: -1, PT | TVCINE 1
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35912
+#EXTINF: -1, PT | TVCINE 2
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35913
+#EXTINF: -1, PT | TVCINE 3
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35914
+#EXTINF: -1, PT | SÉRIES DE TV
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35916
+#EXTINF: -1, PT | HOLLYWOOD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35917
+#EXTINF: -1, PT | AXN
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35918
+#EXTINF: -1, PT | Galiza
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35919
+#EXTINF: -1, PT | ARTV
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35920
+#EXTINF: -1, PT | BIGGS
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35921
+#EXTINF: -1, PT | Bloomberg
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35922
+#EXTINF: -1, PT | SYFY
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35924
+#EXTINF: -1, PT | DISCOVERY HD
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35925
+#EXTINF: -1, PT | ODISSEIA
+http://z.iptvsubscription.org:80/2ucpNdKgqy/La1LlABcKd/35926
