@@ -1,0 +1,282 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="======== PORTUGAL FULLHD ========" tvg-logo="https://vignette.wikia.nocookie.net/mythology/images/1/12/Portugal.png/revision/latest?cb=20120704163845" group-title="BOUQUET  PORTUGAL",======== PORTUGAL FULLHD ========
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4270.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CANAL 11 FHD" tvg-logo="" group-title="BOUQUET  PORTUGAL",|PT| CANAL 11 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011182.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TVI FHD " tvg-logo="" group-title="BOUQUET  PORTUGAL",|PT| TVI FHD 
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011199.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| INVESTIGATION DISCOVERY HD" tvg-logo="" group-title="BOUQUET  PORTUGAL",|PT| INVESTIGATION DISCOVERY HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011152.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) SPORT TV 1 UHD" tvg-logo="http://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/logo/sporttv4k/v2/medium.jpg" group-title="BOUQUET  PORTUGAL",(PT) SPORT TV 1 UHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5335.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) SIC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f8/SIC_Internacional.png" group-title="BOUQUET  PORTUGAL",(PT) SIC FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5338.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) RTP 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/eb/RTP1_logo.svg/1024px-RTP1_logo.svg.png" group-title="General Streams",(PT) RTP 1 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5336.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) RTP 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/RTP2_logo.svg/1280px-RTP2_logo.svg.png" group-title="BOUQUET  PORTUGAL",(PT) RTP 2 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5337.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| HOLLYWOOD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/HWD_HD_logo.svg/1280px-HWD_HD_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| HOLLYWOOD FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/7212.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) SIC  RADICAL FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e5/Sic_radical.png/revision/latest?cb=20110703130733" group-title="General Streams",(PT) SIC  RADICAL FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5339.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) SPORT TV + FHD" tvg-logo="http://www.portaldeapoioaocliente.pt/wp-content/uploads/2018/10/sporttv.png" group-title="General Streams",(PT) SPORT TV + FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5340.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) SPORT TV 1 FHD" tvg-logo="" group-title="General Streams",(PT) SPORT TV 1 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5341.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) SPORT TV 3 FHD" tvg-logo="http://mystreans.com/imagens-lista/sptv3.png" group-title="General Streams",(PT) SPORT TV 3 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5342.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) SPORT TV 4 FHD" tvg-logo="http://mystreans.com/imagens-lista/sptv4.png" group-title="General Streams",(PT) SPORT TV 4 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5343.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) SPORT TV 5 FHD" tvg-logo="http://mystreans.com/imagens-lista/sptv5.png" group-title="General Streams",(PT) SPORT TV 5 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5344.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| BENFICA TV FHD" tvg-logo="" group-title="BOUQUET  PORTUGAL",|PT| BENFICA TV FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4269.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| 24 KITCHEN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/800px-24Kitchen.png" group-title="BOUQUET  PORTUGAL",|PT| 24 KITCHEN FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4268.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 1 FHD" tvg-logo="" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 1 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4445.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 2 FHD" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv2.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 2 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4444.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 3 FHD" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv3.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 3 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4443.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 4 FHD" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv4.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 4 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4441.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 5 FHD" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv5.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 5 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4439.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| RTP 1  FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/eb/RTP1_logo.svg/1024px-RTP1_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| RTP 1  FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4492.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) ELEVEN SPORTS 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Eleven_Sports_1.png" group-title="BOUQUET  PORTUGAL",(PT) ELEVEN SPORTS 1 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6510.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) ELEVEN SPORTS 2 FHD" tvg-logo="https://time4tv.stream/images/elevensp2.png" group-title="BOUQUET  PORTUGAL",(PT) ELEVEN SPORTS 2 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6509.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) ELEVEN SPORTS 3 FHD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/b/bd/Eleven_Sports_3_%282017-.n.v.%29.png/revision/latest/scale-to-width-down/640?cb=20180403074418" group-title="BOUQUET  PORTUGAL",(PT) ELEVEN SPORTS 3 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6511.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) ELEVEN SPORTS 5 FHD" tvg-logo="http://taksiegra.pl/wp-content/uploads/2017/12/Eleven-Sports-new-600x300.png" group-title="BOUQUET  PORTUGAL",(PT) ELEVEN SPORTS 5 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6513.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) ELEVEN SPORTS 6 FHD" tvg-logo="http://taksiegra.pl/wp-content/uploads/2017/12/Eleven-Sports-new-600x300.png" group-title="General Streams",(PT) ELEVEN SPORTS 6 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6729.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) ELEVEN SPORTS 4 FHD" tvg-logo="https://www.digitaltveurope.com/files/2018/04/Screen-Shot-2018-04-13-at-12.47.22.png" group-title="BOUQUET  PORTUGAL",(PT) ELEVEN SPORTS 4 FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6512.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="======== BOUQUET PORTUGAL========" tvg-logo="https://vignette.wikia.nocookie.net/mythology/images/1/12/Portugal.png/revision/latest?cb=20120704163845" group-title="BOUQUET  PORTUGAL",======== BOUQUET PORTUGAL========
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2746.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| RTP 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/eb/RTP1_logo.svg/1024px-RTP1_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| RTP 1 HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1727.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| RTP 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/RTP2_logo.svg/1280px-RTP2_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| RTP 2 HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1726.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| RTP 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="BOUQUET  PORTUGAL",|PT| RTP 3 HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1715.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TVI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/TVI_logo_2017.png" group-title="BOUQUET  PORTUGAL",|PT| TVI HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4493.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/TVI_logo_2017.png" group-title="BOUQUET  PORTUGAL",|PT| TVI
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1674.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TVI REALITY" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/39/TVI_Reality_2017.png/revision/latest?cb=20170221142745" group-title="BOUQUET  PORTUGAL",|PT| TVI REALITY
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1672.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TVI FICCAO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/d/d0/20170220204751%21TVI_fic%C3%A7%C3%A3o.png" group-title="BOUQUET  PORTUGAL",|PT| TVI FICCAO
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2647.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| RTP  MADEIRA" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/rdpMadeira_positivo_horiz_RGB.png" group-title="BOUQUET  PORTUGAL",|PT| RTP  MADEIRA
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2321.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| RTP ACORES" tvg-logo="https://vignette.wikia.nocookie.net/boboiboy/images/b/b3/Rtp_acores.png/revision/latest?cb=20121027113710" group-title="BOUQUET  PORTUGAL",|PT| RTP ACORES
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2649.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| RTP MEMORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/RtpMemoria_positivo_horiz_RGB.png" group-title="BOUQUET  PORTUGAL",|PT| RTP MEMORIA
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1683.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| RTP INTERNATIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/cf/RTP_Internacional_logo_2012.png" group-title="BOUQUET  PORTUGAL",|PT| RTP INTERNATIONAL
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1658.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| RTP INFORMACAO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/04/RTP_Informa%C3%A7%C3%A3o_logo_2011.png" group-title="BOUQUET  PORTUGAL",|PT| RTP INFORMACAO
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1659.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| RTP ACORESS" tvg-logo="https://vignette.wikia.nocookie.net/boboiboy/images/b/b3/Rtp_acores.png/revision/latest?cb=20121027113710" group-title="BOUQUET  PORTUGAL",|PT| RTP ACORESS
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1685.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| RTP AFRICA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4b/RTP_%C3%81frica_logo_2012.png" group-title="BOUQUET  PORTUGAL",|PT| RTP AFRICA
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1684.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SIC RADICAL" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e5/Sic_radical.png/revision/latest?cb=20110703130733" group-title="BOUQUET  PORTUGAL",|PT| SIC RADICAL
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1656.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CANAL Q" tvg-logo="https://pbs.twimg.com/profile_images/449620462612402176/sOyuVFfJ_400x400.png" group-title="BOUQUET  PORTUGAL",|PT| CANAL Q
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1704.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SIC MULHER" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/aa/Sic_mulher.png/revision/latest?cb=20110817042417" group-title="BOUQUET  PORTUGAL",|PT| SIC MULHER
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1682.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/SIC_TV_Portugal_logo.png" group-title="BOUQUET  PORTUGAL",|PT| SIC HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1725.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="======== NOTICIAS ========" tvg-logo="" group-title="BOUQUET  PORTUGAL",======== NOTICIAS ========
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3562.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| STV NOTICIAS" tvg-logo="http://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/logos/medium_stv.jpg" group-title="BOUQUET  PORTUGAL",|PT| STV NOTICIAS
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2334.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CM TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/CM_TV_logo.png" group-title="BOUQUET  PORTUGAL",|PT| CM TV HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1700.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TVI 24" tvg-logo="http://cdn.iol.pt/img/logostvi/preto/tvi24.png" group-title="BOUQUET  PORTUGAL",|PT| TVI 24
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1673.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SIC NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/SICNWhite.png" group-title="BOUQUET  PORTUGAL",|PT| SIC NOTICIAS
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1657.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| E! HD" tvg-logo="http://www.dvbxtreme.com/wp-content/uploads/2016/08/E.png" group-title="BOUQUET  PORTUGAL",|PT| E! HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1695.m3u8
+#EXTINF:-1 tvg-ID="Euronews.fr" tvg-name="|PT| EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| EURONEWS
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2335.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| FOX NEWS" tvg-logo="https://global.fncstatic.com/static/orion/styles/img/fox-news/logos/fox-news-desktop.png" group-title="BOUQUET  PORTUGAL",|PT| FOX NEWS
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2331.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="======== INFANTIL ========" tvg-logo="" group-title="BOUQUET  PORTUGAL",======== INFANTIL ========
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3568.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SIC KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/SIC_K_Portugal.png/150px-SIC_K_Portugal.png" group-title="BOUQUET  PORTUGAL",|PT| SIC KIDS
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2329.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="BOUQUET  PORTUGAL",|PT| BABY TV
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1708.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| DISNEY JUNIOR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="BOUQUET  PORTUGAL",|PT| DISNEY JUNIOR HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1696.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/87/Disney_Channel_2014.png/280px-Disney_Channel_2014.png" group-title="BOUQUET  PORTUGAL",|PT| DISNEY CHANNEL
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1697.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/1200px-Cartoon_Network_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| CARTOON NETWORK
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2330.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CANAL PANDA" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/00/Panda.png/revision/latest?cb=20141206112539" group-title="BOUQUET  PORTUGAL",|PT| CANAL PANDA
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1705.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| NICKELODEON
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1688.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| JIM JAM" tvg-logo="http://phazer.info/img/kanali-logo/jimjam-logo.png" group-title="BOUQUET  PORTUGAL",|PT| JIM JAM
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1661.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| BIGGS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Panda_Biggs_logo.png/200px-Panda_Biggs_logo.png" group-title="BOUQUET  PORTUGAL",|PT| BIGGS
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2328.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="======== CINEMA & SERIES   ========" tvg-logo="" group-title="BOUQUET  PORTUGAL",======== CINEMA & SERIES   ========
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3563.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TV CINE 1  HD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC1.png" group-title="BOUQUET  PORTUGAL",|PT| TV CINE 1  HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1716.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TV CINE 2  HD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC2.png" group-title="BOUQUET  PORTUGAL",|PT| TV CINE 2  HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1717.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TV CINE 3 HD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC3.png" group-title="BOUQUET  PORTUGAL",|PT| TV CINE 3 HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1718.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TV CINE 4 HD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/TVC4.png" group-title="BOUQUET  PORTUGAL",|PT| TV CINE 4 HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1719.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CINEMUNDO HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/c6/Cinemundo.png/revision/latest?cb=20160328182443" group-title="BOUQUET  PORTUGAL",|PT| CINEMUNDO HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1701.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TV SERIES FHD" tvg-logo="" group-title="BOUQUET  PORTUGAL",|PT| TV SERIES FHD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1675.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AMC_Networks_logo.svg/280px-AMC_Networks_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| AMC HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1709.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/HWD_HD_logo.svg/1280px-HWD_HD_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| HOLLYWOOD HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1662.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| FOX TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/FOX_Arabia_Logo.png" group-title="BOUQUET  PORTUGAL",|PT| FOX TV
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1663.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| FOX MOVIES HD" tvg-logo="https://png2.kisspng.com/20180420/alq/kisspng-fox-movies-television-channel-star-movies-logo-vector-fox-5ad9ec2d555a27.2350164115242312133496.png" group-title="BOUQUET  PORTUGAL",|PT| FOX MOVIES HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1729.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| FOX COMEDY HD" tvg-logo="http://www.lospettacolo.it/img/logos/foxco.png" group-title="BOUQUET  PORTUGAL",|PT| FOX COMEDY HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1694.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| FOX LIFE" tvg-logo="http://www.ccapcable.com/lib/upload/2018/08/fox_life_it.png" group-title="BOUQUET  PORTUGAL",|PT| FOX LIFE
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1664.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| FOX CRIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/1280px-Fox_Crime_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| FOX CRIME
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1665.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/250px-AXN_Logo_2015.png" group-title="BOUQUET  PORTUGAL",|PT| AXN HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1714.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| AXN BLACK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/AXN_Black_logo_%282015%29.svg/250px-AXN_Black_logo_%282015%29.svg.png" group-title="BOUQUET  PORTUGAL",|PT| AXN BLACK HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2140.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| AXN WHITE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/AXN_White_2015.png/200px-AXN_White_2015.png" group-title="BOUQUET  PORTUGAL",|PT| AXN WHITE HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1713.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SYFY HD" tvg-logo="http://cdn.onlinewebfonts.com/svg/img_429985.png" group-title="BOUQUET  PORTUGAL",|PT| SYFY HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1655.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| MOV HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/4/40/Mov_HD_old.png/revision/latest?cb=20140515150845" group-title="BOUQUET  PORTUGAL",|PT| MOV HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1728.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="======== DESPORTO  ========" tvg-logo="" group-title="BOUQUET  PORTUGAL",======== DESPORTO  ========
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3564.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="(PT) NBA HD" tvg-logo="" group-title="General Streams",(PT) NBA HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6730.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/AMC_Networks_logo.svg/280px-AMC_Networks_logo.svg.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV+
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2324.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 1 HD 720p" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/63219_logo_sport_tv_7.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 1 HD 720p
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4437.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 1 SD" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/63219_logo_sport_tv_7.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 1 SD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4438.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 1 HD" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/63219_logo_sport_tv_7.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 1 HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1721.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 2 HD" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv2.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 2 HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1722.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 3 HD" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv3.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 3 HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1723.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 4 HD" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv4.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 4 HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1724.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV  5 HD" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv5.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV  5 HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2139.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORT TV 5" tvg-logo="http://tvbd.live/wp-content/uploads/2018/09/sport-tv5.png" group-title="BOUQUET  PORTUGAL",|PT| SPORT TV 5
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2295.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| BENFICA TV 1" tvg-logo="" group-title="BOUQUET  PORTUGAL",|PT| BENFICA TV 1
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1670.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| BENFICA TV 2" tvg-logo="" group-title="BOUQUET  PORTUGAL",|PT| BENFICA TV 2
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1669.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| SPORTING TV" tvg-logo="https://sportingtvonline.nos.pt/static/compiled/images/sportingtv.f6a35257.png" group-title="BOUQUET  PORTUGAL",|PT| SPORTING TV
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1720.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| EUROSPORT 1" tvg-logo="https://i1.wp.com/www.mediasportif.fr/wp-content/uploads/2015/11/Logo_Eurosport_1_2015.png?ssl=1" group-title="BOUQUET  PORTUGAL",|PT| EUROSPORT 1
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1667.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| EUROSPORT 2" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/8/8b/Eurosport_2_%282015-.n.v.%29.png/revision/latest?cb=20170610122915" group-title="BOUQUET  PORTUGAL",|PT| EUROSPORT 2
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1666.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| PORTO CANAL" tvg-logo="http://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="BOUQUET  PORTUGAL",|PT| PORTO CANAL
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1660.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| PORTO  CANAL" tvg-logo="http://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="BOUQUET  PORTUGAL",|PT| PORTO  CANAL
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2772.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TOROS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Toros_TV.png" group-title="BOUQUET  PORTUGAL",|PT| TOROS TV
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1680.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| MOTORS TV" tvg-logo="https://www.universfreebox.com/UserFiles/image/unnamed-1(4).jpg" group-title="BOUQUET  PORTUGAL",|PT| MOTORS TV
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1692.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| FUEL TV" tvg-logo="http://btis4rcsfs1ywcnh1x0desvi.wpengine.netdna-cdn.com/uploads/media_content//1/images/FUEL_VECTORLG-1-2.jpg" group-title="BOUQUET  PORTUGAL",|PT| FUEL TV
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1693.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT|  A BOLA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="BOUQUET  PORTUGAL",|PT|  A BOLA TV
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1710.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| EUROSPORT  NEWS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Eurosport_news.png/revision/latest?cb=20120904171521" group-title="BOUQUET  PORTUGAL",|PT| EUROSPORT  NEWS
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2325.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| MOTORVISION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Motorvision_TV_2009.svg/revision/latest?cb=20100629184934" group-title="BOUQUET  PORTUGAL",|PT| MOTORVISION
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2327.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| PFC HD" tvg-logo="https://portalnacional.com.pt/images/icons/tv/PFC.png" group-title="BOUQUET  PORTUGAL",|PT| PFC HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1686.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="======== CULTURA  ========" tvg-logo="" group-title="BOUQUET  PORTUGAL",======== CULTURA  ========
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3565.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CRIME INVESTIGATION HD" tvg-logo="" group-title="BOUQUET  PORTUGAL",|PT| CRIME INVESTIGATION HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011151.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| MY CUISINE TV HD" tvg-logo="" group-title="General Streams",|PT| MY CUISINE TV HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9353.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| 24 KITCHEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/800px-24Kitchen.png" group-title="BOUQUET  PORTUGAL",|PT| 24 KITCHEN
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1712.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| NATIONAL GEOGRAPHIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1200px-National_Geographic_Channel.svg.png" group-title="BOUQUET  PORTUGAL",|PT| NATIONAL GEOGRAPHIC
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1690.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| NATIONAL GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1280px-Logo_Nat_Geo_Wild.svg.png" group-title="BOUQUET  PORTUGAL",|PT| NATIONAL GEO WILD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1689.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| ODISSEIA" tvg-logo="http://www.nos.pt/particulares/televisao/canais/PublishingImages/alteracoes-grelha/agosto2017/medium.jpg" group-title="BOUQUET  PORTUGAL",|PT| ODISSEIA
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1687.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| DISCOVERY HD SHOWCASE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/88/Discovery_HD_Showcase_2012.png" group-title="BOUQUET  PORTUGAL",|PT| DISCOVERY HD SHOWCASE
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1698.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| DISCOVERY CHANNEL" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png" group-title="BOUQUET  PORTUGAL",|PT| DISCOVERY CHANNEL
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1699.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CBS REALITY" tvg-logo="http://www.cbsreality.tv/grfx/stuff/cbs-reality-logo.png" group-title="BOUQUET  PORTUGAL",|PT| CBS REALITY
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1703.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CANAL HISTORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HistoryHD_Logo_2015_4C_Black_type.png/150px-HistoryHD_Logo_2015_4C_Black_type.png" group-title="BOUQUET  PORTUGAL",|PT| CANAL HISTORIA
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1706.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CACA & PESCA" tvg-logo="http://sodarca.pt/images/logo-pesca(footer).png" group-title="BOUQUET  PORTUGAL",|PT| CACA & PESCA
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1707.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CACA VISION" tvg-logo="" group-title="BOUQUET  PORTUGAL",|PT| CACA VISION
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2323.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CACA E PESCA" tvg-logo="http://sodarca.pt/images/logo-pesca(footer).png" group-title="BOUQUET  PORTUGAL",|PT| CACA E PESCA
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2322.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| A & E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/AETN_logo.png/280px-AETN_logo.png" group-title="BOUQUET  PORTUGAL",|PT| A & E
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1711.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| CANAL  TOROS" tvg-logo="http://i.imgur.com/KXZE1Qb.png" group-title="BOUQUET  PORTUGAL",|PT| CANAL  TOROS
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2554.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TLC HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/The_Learning_Channel_HD.png/revision/latest?cb=20110408023649" group-title="BOUQUET  PORTUGAL",|PT| TLC HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1681.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TRAVEL CHANNEL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Travel_Channel.png" group-title="BOUQUET  PORTUGAL",|PT| TRAVEL CHANNEL HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2773.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TPA INTERN" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d2/TPA_logo_2006.png/revision/latest?cb=20110707134110" group-title="BOUQUET  PORTUGAL",|PT| TPA INTERN
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1679.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| MTV  DANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/MTV_Dance.svg/1225px-MTV_Dance.svg.png" group-title="BOUQUET  PORTUGAL",|PT| MTV  DANCE
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2145.m3u8
+#EXTINF:-1 tvg-ID="MCMTop.fr" tvg-name="|PT| MCM TOP" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/1f/MCM_TOP_logo_2017.png/200px-MCM_TOP_logo_2017.png" group-title="BOUQUET  PORTUGAL",|PT| MCM TOP
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2146.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| VH1 CLASSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4f/Vh1_classic_europe.png" group-title="BOUQUET  PORTUGAL",|PT| VH1 CLASSIC HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3091.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| VH1 HD" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/01/vh1-logo.png" group-title="BOUQUET  PORTUGAL",|PT| VH1 HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2143.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| VH1+" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/01/vh1-logo.png" group-title="BOUQUET  PORTUGAL",|PT| VH1+
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1671.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TRACE URBAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="BOUQUET  PORTUGAL",|PT| TRACE URBAN TV
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2142.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| AFRO MUSIC" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/38/Afro_Music_Channel.png/revision/latest?cb=20171117212235" group-title="BOUQUET  PORTUGAL",|PT| AFRO MUSIC
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2141.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TV RECORD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/RecordTV_logo_2016.png/280px-RecordTV_logo_2016.png" group-title="BOUQUET  PORTUGAL",|PT| TV RECORD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1676.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TV GLOBO PREMUIM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Globo_Premium_logo_2017.png" group-title="BOUQUET  PORTUGAL",|PT| TV GLOBO PREMUIM
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1677.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| TV GLOBO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Globo-tv-internacional.png/revision/latest?cb=20140518171742" group-title="BOUQUET  PORTUGAL",|PT| TV GLOBO
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1678.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| MTV HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/e/e8/MTV_Music_HD.png/revision/latest?cb=20141023132953" group-title="BOUQUET  PORTUGAL",|PT| MTV HD
+http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1691.m3u8
