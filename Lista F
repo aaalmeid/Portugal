@@ -1,0 +1,632 @@
+#EXTM3U
+
+#EXTINF:-1,RTP 1
+http://panel.uniforce.club:8080/live/riven/riven/64386.m3u8
+#EXTINF:-1,RTP 1 HD
+http://panel.uniforce.club:8080/live/riven/riven/64387.m3u8
+#EXTINF:-1,RTP 2
+http://panel.uniforce.club:8080/live/riven/riven/64388.m3u8
+#EXTINF:-1,RTP 2 HD
+http://panel.uniforce.club:8080/live/riven/riven/64389.m3u8
+#EXTINF:-1,SIC
+http://panel.uniforce.club:8080/live/riven/riven/64390.m3u8
+#EXTINF:-1,SIC HD
+http://panel.uniforce.club:8080/live/riven/riven/64391.m3u8
+#EXTINF:-1,TVI
+http://panel.uniforce.club:8080/live/riven/riven/64392.m3u8
+#EXTINF:-1,TVI HD
+http://panel.uniforce.club:8080/live/riven/riven/64393.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://panel.uniforce.club:8080/live/riven/riven/64394.m3u8
+#EXTINF:-1,SIC Noticias HD
+http://panel.uniforce.club:8080/live/riven/riven/64395.m3u8
+#EXTINF:-1,TVI 24
+http://panel.uniforce.club:8080/live/riven/riven/64396.m3u8
+#EXTINF:-1,TVI 24 HD
+http://panel.uniforce.club:8080/live/riven/riven/64397.m3u8
+#EXTINF:-1,RTP 3
+http://panel.uniforce.club:8080/live/riven/riven/64398.m3u8
+#EXTINF:-1,RTP 3 HD
+http://panel.uniforce.club:8080/live/riven/riven/64399.m3u8
+#EXTINF:-1,PORTO CANAL
+http://panel.uniforce.club:8080/live/riven/riven/64400.m3u8
+#EXTINF:-1,Porto Canal HD
+http://panel.uniforce.club:8080/live/riven/riven/64401.m3u8
+#EXTINF:-1,CMTV
+http://panel.uniforce.club:8080/live/riven/riven/64402.m3u8
+#EXTINF:-1,CMTV HD
+http://panel.uniforce.club:8080/live/riven/riven/64403.m3u8
+#EXTINF:-1,A BOLA TV HD
+http://panel.uniforce.club:8080/live/riven/riven/64404.m3u8
+#EXTINF:-1,A BOLA TV
+http://panel.uniforce.club:8080/live/riven/riven/64405.m3u8
+#EXTINF:-1,SIC CARAS
+http://panel.uniforce.club:8080/live/riven/riven/64406.m3u8
+#EXTINF:-1,SIC Caras HD
+http://panel.uniforce.club:8080/live/riven/riven/64407.m3u8
+#EXTINF:-1,SIC MULHER
+http://panel.uniforce.club:8080/live/riven/riven/64408.m3u8
+#EXTINF:-1,SIC Mulher HD
+http://panel.uniforce.club:8080/live/riven/riven/64409.m3u8
+#EXTINF:-1,SIC RADICAL
+http://panel.uniforce.club:8080/live/riven/riven/64410.m3u8
+#EXTINF:-1,SIC Radical HD
+http://panel.uniforce.club:8080/live/riven/riven/64411.m3u8
+#EXTINF:-1,TVI FICCAO
+http://panel.uniforce.club:8080/live/riven/riven/64412.m3u8
+#EXTINF:-1,TVI FICÇÃO HD
+http://panel.uniforce.club:8080/live/riven/riven/64413.m3u8
+#EXTINF:-1,TVI REALITY
+http://panel.uniforce.club:8080/live/riven/riven/64414.m3u8
+#EXTINF:-1,GLOBO
+http://panel.uniforce.club:8080/live/riven/riven/64415.m3u8
+#EXTINF:-1,GLOBO FHD
+http://panel.uniforce.club:8080/live/riven/riven/64416.m3u8
+#EXTINF:-1,GLOBO NOW
+http://panel.uniforce.club:8080/live/riven/riven/64417.m3u8
+#EXTINF:-1,TV  RECORD
+http://panel.uniforce.club:8080/live/riven/riven/64418.m3u8
+#EXTINF:-1,SBT HD
+http://panel.uniforce.club:8080/live/riven/riven/64419.m3u8
+#EXTINF:-1,=== INFANTIL ====
+http://panel.uniforce.club:8080/live/riven/riven/64420.m3u8
+#EXTINF:-1,PANDA
+http://panel.uniforce.club:8080/live/riven/riven/64421.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://panel.uniforce.club:8080/live/riven/riven/64422.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://panel.uniforce.club:8080/live/riven/riven/64423.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://panel.uniforce.club:8080/live/riven/riven/64424.m3u8
+#EXTINF:-1,Nick Jr
+http://panel.uniforce.club:8080/live/riven/riven/64425.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://panel.uniforce.club:8080/live/riven/riven/64426.m3u8
+#EXTINF:-1,NICKELODEON
+http://panel.uniforce.club:8080/live/riven/riven/64427.m3u8
+#EXTINF:-1,JIM JAM
+http://panel.uniforce.club:8080/live/riven/riven/64428.m3u8
+#EXTINF:-1,SIC K
+http://panel.uniforce.club:8080/live/riven/riven/64429.m3u8
+#EXTINF:-1,SIC K HD
+http://panel.uniforce.club:8080/live/riven/riven/64430.m3u8
+#EXTINF:-1,BABY TV
+http://panel.uniforce.club:8080/live/riven/riven/64431.m3u8
+#EXTINF:-1,BOOMERANG
+http://panel.uniforce.club:8080/live/riven/riven/64432.m3u8
+#EXTINF:-1,KURIAKOS KIDS
+http://panel.uniforce.club:8080/live/riven/riven/64433.m3u8
+#EXTINF:-1,==== DESPORTO NACIONAL ===
+http://panel.uniforce.club:8080/live/riven/riven/64434.m3u8
+#EXTINF:-1,CANAL 11
+http://panel.uniforce.club:8080/live/riven/riven/64435.m3u8
+#EXTINF:-1,Canal 11 HQ
+http://panel.uniforce.club:8080/live/riven/riven/64436.m3u8
+#EXTINF:-1,Canal 11 FHD
+http://panel.uniforce.club:8080/live/riven/riven/64437.m3u8
+#EXTINF:-1,SPORT TV +
+http://panel.uniforce.club:8080/live/riven/riven/64438.m3u8
+#EXTINF:-1,Sport TV + HD
+http://panel.uniforce.club:8080/live/riven/riven/64439.m3u8
+#EXTINF:-1,SPORT TV 1
+http://panel.uniforce.club:8080/live/riven/riven/64440.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://panel.uniforce.club:8080/live/riven/riven/64441.m3u8
+#EXTINF:-1,SPORT TV 2
+http://panel.uniforce.club:8080/live/riven/riven/64442.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://panel.uniforce.club:8080/live/riven/riven/64443.m3u8
+#EXTINF:-1,SPORT TV 3
+http://panel.uniforce.club:8080/live/riven/riven/64444.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://panel.uniforce.club:8080/live/riven/riven/64445.m3u8
+#EXTINF:-1,SPORT TV 4
+http://panel.uniforce.club:8080/live/riven/riven/64446.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://panel.uniforce.club:8080/live/riven/riven/64447.m3u8
+#EXTINF:-1,SPORT TV 5
+http://panel.uniforce.club:8080/live/riven/riven/64448.m3u8
+#EXTINF:-1,SPORT TV 5  HD
+http://panel.uniforce.club:8080/live/riven/riven/64449.m3u8
+#EXTINF:-1,BTV
+http://panel.uniforce.club:8080/live/riven/riven/64450.m3u8
+#EXTINF:-1,BTV  HD
+http://panel.uniforce.club:8080/live/riven/riven/64451.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1
+http://panel.uniforce.club:8080/live/riven/riven/64452.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1  HD
+http://panel.uniforce.club:8080/live/riven/riven/64453.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://panel.uniforce.club:8080/live/riven/riven/64454.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2
+http://panel.uniforce.club:8080/live/riven/riven/64455.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://panel.uniforce.club:8080/live/riven/riven/64456.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3
+http://panel.uniforce.club:8080/live/riven/riven/64457.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://panel.uniforce.club:8080/live/riven/riven/64458.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4
+http://panel.uniforce.club:8080/live/riven/riven/64459.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5
+http://panel.uniforce.club:8080/live/riven/riven/64460.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://panel.uniforce.club:8080/live/riven/riven/64461.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6
+http://panel.uniforce.club:8080/live/riven/riven/64462.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://panel.uniforce.club:8080/live/riven/riven/64463.m3u8
+#EXTINF:-1,SPORT TV NBA FHD
+http://panel.uniforce.club:8080/live/riven/riven/64464.m3u8
+#EXTINF:-1,SPORTING TV
+http://panel.uniforce.club:8080/live/riven/riven/64465.m3u8
+#EXTINF:-1,SPORTING TV HD
+http://panel.uniforce.club:8080/live/riven/riven/64466.m3u8
+#EXTINF:-1,CAMPO PEQUENO TV
+http://panel.uniforce.club:8080/live/riven/riven/64467.m3u8
+#EXTINF:-1,=== DESPORTO INTERNACIONAL
+http://panel.uniforce.club:8080/live/riven/riven/64468.m3u8
+#EXTINF:-1,PFC
+http://panel.uniforce.club:8080/live/riven/riven/64469.m3u8
+#EXTINF:-1,PREMIERE CLUBES HD
+http://panel.uniforce.club:8080/live/riven/riven/64470.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://panel.uniforce.club:8080/live/riven/riven/64471.m3u8
+#EXTINF:-1,Manchester United TV
+http://panel.uniforce.club:8080/live/riven/riven/64472.m3u8
+#EXTINF:-1,Barça TV
+http://panel.uniforce.club:8080/live/riven/riven/64473.m3u8
+#EXTINF:-1,CACA E PESCA HD
+http://panel.uniforce.club:8080/live/riven/riven/64474.m3u8
+#EXTINF:-1,Cacavision
+http://panel.uniforce.club:8080/live/riven/riven/64475.m3u8
+#EXTINF:-1,TOROS TV HD
+http://panel.uniforce.club:8080/live/riven/riven/64476.m3u8
+#EXTINF:-1,Eurosport 1
+http://panel.uniforce.club:8080/live/riven/riven/64477.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://panel.uniforce.club:8080/live/riven/riven/64478.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://panel.uniforce.club:8080/live/riven/riven/64479.m3u8
+#EXTINF:-1,KOMBAT SPORTS
+http://panel.uniforce.club:8080/live/riven/riven/64480.m3u8
+#EXTINF:-1,FIGHT NETWORK HD
+http://panel.uniforce.club:8080/live/riven/riven/64481.m3u8
+#EXTINF:-1,Motorvision
+http://panel.uniforce.club:8080/live/riven/riven/64482.m3u8
+#EXTINF:-1,Fight Box
+http://panel.uniforce.club:8080/live/riven/riven/64483.m3u8
+#EXTINF:-1,FUEL TV
+http://panel.uniforce.club:8080/live/riven/riven/64484.m3u8
+#EXTINF:-1,==== TV FILMES ===
+http://panel.uniforce.club:8080/live/riven/riven/64485.m3u8
+#EXTINF:-1,TVCine Top
+http://panel.uniforce.club:8080/live/riven/riven/64486.m3u8
+#EXTINF:-1,TVCine Top HD
+http://panel.uniforce.club:8080/live/riven/riven/64487.m3u8
+#EXTINF:-1,TVCine Edition
+http://panel.uniforce.club:8080/live/riven/riven/64488.m3u8
+#EXTINF:-1,TVCine Edition HD
+http://panel.uniforce.club:8080/live/riven/riven/64489.m3u8
+#EXTINF:-1,TVCine Emotion
+http://panel.uniforce.club:8080/live/riven/riven/64490.m3u8
+#EXTINF:-1,TVCine Emotion HD
+http://panel.uniforce.club:8080/live/riven/riven/64491.m3u8
+#EXTINF:-1,TVCine Action
+http://panel.uniforce.club:8080/live/riven/riven/64492.m3u8
+#EXTINF:-1,TVCine Action HD
+http://panel.uniforce.club:8080/live/riven/riven/64493.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://panel.uniforce.club:8080/live/riven/riven/64494.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://panel.uniforce.club:8080/live/riven/riven/64495.m3u8
+#EXTINF:-1,AMC
+http://panel.uniforce.club:8080/live/riven/riven/64496.m3u8
+#EXTINF:-1,AMC HD
+http://panel.uniforce.club:8080/live/riven/riven/64497.m3u8
+#EXTINF:-1,CINEMUNDO
+http://panel.uniforce.club:8080/live/riven/riven/64498.m3u8
+#EXTINF:-1,CINEMUNDO FHD
+http://panel.uniforce.club:8080/live/riven/riven/64499.m3u8
+#EXTINF:-1,FOX MOVIES
+http://panel.uniforce.club:8080/live/riven/riven/64500.m3u8
+#EXTINF:-1,FOX MOVIES FHD
+http://panel.uniforce.club:8080/live/riven/riven/64501.m3u8
+#EXTINF:-1,SYfY
+http://panel.uniforce.club:8080/live/riven/riven/64502.m3u8
+#EXTINF:-1,SYFY FHD
+http://panel.uniforce.club:8080/live/riven/riven/64503.m3u8
+#EXTINF:-1,Eurochannel
+http://panel.uniforce.club:8080/live/riven/riven/64504.m3u8
+#EXTINF:-1,NOS Studios FHD
+http://panel.uniforce.club:8080/live/riven/riven/64505.m3u8
+#EXTINF:-1,=== TV SERIES ====
+http://panel.uniforce.club:8080/live/riven/riven/64506.m3u8
+#EXTINF:-1,NOVIDADES TVCine
+http://panel.uniforce.club:8080/live/riven/riven/64507.m3u8
+#EXTINF:-1,AXN
+http://panel.uniforce.club:8080/live/riven/riven/64508.m3u8
+#EXTINF:-1,AXN HD
+http://panel.uniforce.club:8080/live/riven/riven/64509.m3u8
+#EXTINF:-1,AXN BLACK
+http://panel.uniforce.club:8080/live/riven/riven/64510.m3u8
+#EXTINF:-1,AXN BLACK HD
+http://panel.uniforce.club:8080/live/riven/riven/64511.m3u8
+#EXTINF:-1,AXN WHITE
+http://panel.uniforce.club:8080/live/riven/riven/64512.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://panel.uniforce.club:8080/live/riven/riven/64513.m3u8
+#EXTINF:-1,FOX
+http://panel.uniforce.club:8080/live/riven/riven/64514.m3u8
+#EXTINF:-1,FOX HD
+http://panel.uniforce.club:8080/live/riven/riven/64515.m3u8
+#EXTINF:-1,FOX COMEDY
+http://panel.uniforce.club:8080/live/riven/riven/64516.m3u8
+#EXTINF:-1,FOX COMEDY HD
+http://panel.uniforce.club:8080/live/riven/riven/64517.m3u8
+#EXTINF:-1,FOX CRIME
+http://panel.uniforce.club:8080/live/riven/riven/64518.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://panel.uniforce.club:8080/live/riven/riven/64519.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://panel.uniforce.club:8080/live/riven/riven/64520.m3u8
+#EXTINF:-1,==== EXCLUSIVOS ======
+http://panel.uniforce.club:8080/live/riven/riven/64521.m3u8
+#EXTINF:-1,DRAGON BALL SUPER (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64522.m3u8
+#EXTINF:-1,Simpsons (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64523.m3u8
+#EXTINF:-1,SYLVESTER STALLONE (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64524.m3u8
+#EXTINF:-1,PT: FILMES WESTERN (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64525.m3u8
+#EXTINF:-1,PT: DC TV (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64526.m3u8
+#EXTINF:-1,PT: APANHADOS 2 (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64527.m3u8
+#EXTINF:-1,PT: APANHADOS (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64528.m3u8
+#EXTINF:-1,PT: 24/7 STARWARS (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64529.m3u8
+#EXTINF:-1,FILMES THRILLER/TERROR (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64530.m3u8
+#EXTINF:-1,FILMES DENZEL WASHINGTON (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64531.m3u8
+#EXTINF:-1,Filmes Comédia (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64532.m3u8
+#EXTINF:-1,FILMES CLÁSSICOS (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64533.m3u8
+#EXTINF:-1,FILMES ACÇÃO (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64534.m3u8
+#EXTINF:-1,FILMES ANIMAÇÃO FALADOS EM PORTUGUÊS (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64535.m3u8
+#EXTINF:-1,HBO Portugal (CANAIS 24H)
+http://panel.uniforce.club:8080/live/riven/riven/64536.m3u8
+#EXTINF:-1,==== DOCUMENTARIOS ====
+http://panel.uniforce.club:8080/live/riven/riven/64537.m3u8
+#EXTINF:-1,ID Investigation Discovery FHD
+http://panel.uniforce.club:8080/live/riven/riven/64538.m3u8
+#EXTINF:-1,BLAZE
+http://panel.uniforce.club:8080/live/riven/riven/64539.m3u8
+#EXTINF:-1,BLAZE HD
+http://panel.uniforce.club:8080/live/riven/riven/64540.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://panel.uniforce.club:8080/live/riven/riven/64541.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://panel.uniforce.club:8080/live/riven/riven/64542.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://panel.uniforce.club:8080/live/riven/riven/64543.m3u8
+#EXTINF:-1,HISTORIA
+http://panel.uniforce.club:8080/live/riven/riven/64544.m3u8
+#EXTINF:-1,ODISSEIA
+http://panel.uniforce.club:8080/live/riven/riven/64545.m3u8
+#EXTINF:-1,Odisseia  HD
+http://panel.uniforce.club:8080/live/riven/riven/64546.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://panel.uniforce.club:8080/live/riven/riven/64547.m3u8
+#EXTINF:-1,CBS Reality
+http://panel.uniforce.club:8080/live/riven/riven/64548.m3u8
+#EXTINF:-1,CRIME   INVESTIGATION
+http://panel.uniforce.club:8080/live/riven/riven/64549.m3u8
+#EXTINF:-1,TLC
+http://panel.uniforce.club:8080/live/riven/riven/64550.m3u8
+#EXTINF:-1,=== OUTROS PTS ===
+http://panel.uniforce.club:8080/live/riven/riven/64551.m3u8
+#EXTINF:-1,RTP INTERNACIONAL
+http://panel.uniforce.club:8080/live/riven/riven/64552.m3u8
+#EXTINF:-1,TVI INTERNACIONAL
+http://panel.uniforce.club:8080/live/riven/riven/64553.m3u8
+#EXTINF:-1,RTP Africa
+http://panel.uniforce.club:8080/live/riven/riven/64554.m3u8
+#EXTINF:-1,RTP Memoria
+http://panel.uniforce.club:8080/live/riven/riven/64555.m3u8
+#EXTINF:-1,RTP Madeira
+http://panel.uniforce.club:8080/live/riven/riven/64556.m3u8
+#EXTINF:-1,RTP Acores
+http://panel.uniforce.club:8080/live/riven/riven/64557.m3u8
+#EXTINF:-1,CANAL Q
+http://panel.uniforce.club:8080/live/riven/riven/64558.m3u8
+#EXTINF:-1,LOCALVISAO TV HD
+http://panel.uniforce.club:8080/live/riven/riven/64559.m3u8
+#EXTINF:-1,SAUDE +
+http://panel.uniforce.club:8080/live/riven/riven/64560.m3u8
+#EXTINF:-1,AR TV
+http://panel.uniforce.club:8080/live/riven/riven/64561.m3u8
+#EXTINF:-1,==== LIFE STYLE =====
+http://panel.uniforce.club:8080/live/riven/riven/64562.m3u8
+#EXTINF:-1,GINX
+http://panel.uniforce.club:8080/live/riven/riven/64563.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://panel.uniforce.club:8080/live/riven/riven/64564.m3u8
+#EXTINF:-1,24 KITCHEN
+http://panel.uniforce.club:8080/live/riven/riven/64565.m3u8
+#EXTINF:-1,24 Kitchen HD
+http://panel.uniforce.club:8080/live/riven/riven/64566.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://panel.uniforce.club:8080/live/riven/riven/64567.m3u8
+#EXTINF:-1,My Cuisine
+http://panel.uniforce.club:8080/live/riven/riven/64568.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+http://panel.uniforce.club:8080/live/riven/riven/64569.m3u8
+#EXTINF:-1,E! Entertainment HD
+http://panel.uniforce.club:8080/live/riven/riven/64570.m3u8
+#EXTINF:-1,FASHION TV HD
+http://panel.uniforce.club:8080/live/riven/riven/64571.m3u8
+#EXTINF:-1,LUXE TV HD
+http://panel.uniforce.club:8080/live/riven/riven/64572.m3u8
+#EXTINF:-1,MAS CHIC
+http://panel.uniforce.club:8080/live/riven/riven/64573.m3u8
+#EXTINF:-1,Deutsche Welle
+http://panel.uniforce.club:8080/live/riven/riven/64574.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL HD
+http://panel.uniforce.club:8080/live/riven/riven/64575.m3u8
+#EXTINF:-1,FINE LIVING NETWORK HD
+http://panel.uniforce.club:8080/live/riven/riven/64576.m3u8
+#EXTINF:-1,DOG TV HD
+http://panel.uniforce.club:8080/live/riven/riven/64577.m3u8
+#EXTINF:-1,FTV
+http://panel.uniforce.club:8080/live/riven/riven/64578.m3u8
+#EXTINF:-1,==== INTERNACIONAIS ====
+http://panel.uniforce.club:8080/live/riven/riven/64579.m3u8
+#EXTINF:-1,SUPER RTL
+http://panel.uniforce.club:8080/live/riven/riven/64580.m3u8
+#EXTINF:-1,TCV INTERNACIONAL
+http://panel.uniforce.club:8080/live/riven/riven/64581.m3u8
+#EXTINF:-1,TPA INTERNACIONAL
+http://panel.uniforce.club:8080/live/riven/riven/64582.m3u8
+#EXTINF:-1,ZAP Viva FHD
+http://panel.uniforce.club:8080/live/riven/riven/64583.m3u8
+#EXTINF:-1,BBC WORLD NEWS HD
+http://panel.uniforce.club:8080/live/riven/riven/64584.m3u8
+#EXTINF:-1,BBC Entertainment
+http://panel.uniforce.club:8080/live/riven/riven/64585.m3u8
+#EXTINF:-1,M6
+http://panel.uniforce.club:8080/live/riven/riven/64586.m3u8
+#EXTINF:-1,SKY NEWS
+http://panel.uniforce.club:8080/live/riven/riven/64587.m3u8
+#EXTINF:-1,TVE 24 HORAS
+http://panel.uniforce.club:8080/live/riven/riven/64588.m3u8
+#EXTINF:-1,TV5 MONDE EUROPE
+http://panel.uniforce.club:8080/live/riven/riven/64589.m3u8
+#EXTINF:-1,TVE Internacional
+http://panel.uniforce.club:8080/live/riven/riven/64590.m3u8
+#EXTINF:-1,CNN
+http://panel.uniforce.club:8080/live/riven/riven/64591.m3u8
+#EXTINF:-1,CNBC Europe
+http://panel.uniforce.club:8080/live/riven/riven/64592.m3u8
+#EXTINF:-1,Record News
+http://panel.uniforce.club:8080/live/riven/riven/64593.m3u8
+#EXTINF:-1,TV Galicia
+http://panel.uniforce.club:8080/live/riven/riven/64594.m3u8
+#EXTINF:-1,France 24
+http://panel.uniforce.club:8080/live/riven/riven/64595.m3u8
+#EXTINF:-1,Euro News
+http://panel.uniforce.club:8080/live/riven/riven/64596.m3u8
+#EXTINF:-1,Bloomberg
+http://panel.uniforce.club:8080/live/riven/riven/64597.m3u8
+#EXTINF:-1,Euronews
+http://panel.uniforce.club:8080/live/riven/riven/64598.m3u8
+#EXTINF:-1,FOX News
+http://panel.uniforce.club:8080/live/riven/riven/64599.m3u8
+#EXTINF:-1,==== MUSICA ====
+http://panel.uniforce.club:8080/live/riven/riven/64600.m3u8
+#EXTINF:-1,VH1 Classic
+http://panel.uniforce.club:8080/live/riven/riven/64601.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+http://panel.uniforce.club:8080/live/riven/riven/64602.m3u8
+#EXTINF:-1,TRACE URBAN
+http://panel.uniforce.club:8080/live/riven/riven/64603.m3u8
+#EXTINF:-1,AFRO MUSIC
+http://panel.uniforce.club:8080/live/riven/riven/64604.m3u8
+#EXTINF:-1,MCM POP
+http://panel.uniforce.club:8080/live/riven/riven/64605.m3u8
+#EXTINF:-1,MTV Rocks
+http://panel.uniforce.club:8080/live/riven/riven/64606.m3u8
+#EXTINF:-1,MTV Dance
+http://panel.uniforce.club:8080/live/riven/riven/64607.m3u8
+#EXTINF:-1,MCM TOP
+http://panel.uniforce.club:8080/live/riven/riven/64608.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://panel.uniforce.club:8080/live/riven/riven/64609.m3u8
+#EXTINF:-1,VH1
+http://panel.uniforce.club:8080/live/riven/riven/64610.m3u8
+#EXTINF:-1,TRACE TOCA
+http://panel.uniforce.club:8080/live/riven/riven/64611.m3u8
+#EXTINF:-1,Clubbing TV
+http://panel.uniforce.club:8080/live/riven/riven/64612.m3u8
+#EXTINF:-1,MTV CLASSIC
+http://panel.uniforce.club:8080/live/riven/riven/64613.m3u8
+#EXTINF:-1,MTV HITS
+http://panel.uniforce.club:8080/live/riven/riven/64614.m3u8
+#EXTINF:-1,MTV PORTUGAL HD
+http://panel.uniforce.club:8080/live/riven/riven/64615.m3u8
+#EXTINF:-1,MTV BASE
+http://panel.uniforce.club:8080/live/riven/riven/64616.m3u8
+#EXTINF:-1,TRACE TROPICAL
+http://panel.uniforce.club:8080/live/riven/riven/64617.m3u8
+#EXTINF:-1,TRACE NAIJA
+http://panel.uniforce.club:8080/live/riven/riven/64618.m3u8
+#EXTINF:-1,TRACE AFRICA HD
+http://panel.uniforce.club:8080/live/riven/riven/64619.m3u8
+#EXTINF:-1,=== RELOGIOSOS ====
+http://panel.uniforce.club:8080/live/riven/riven/64620.m3u8
+#EXTINF:-1,FATIMA TV
+http://panel.uniforce.club:8080/live/riven/riven/64621.m3u8
+#EXTINF:-1,KURIAKOS TV
+http://panel.uniforce.club:8080/live/riven/riven/64622.m3u8
+#EXTINF:-1,CANCAO NOVA
+http://panel.uniforce.club:8080/live/riven/riven/64623.m3u8
+#EXTINF:-1,Marvel "UNIFORCE"
+http://panel.uniforce.club:8080/live/riven/riven/65422.m3u8
+#EXTINF:-1,MARRADAS" Uniforce"
+http://panel.uniforce.club:8080/live/riven/riven/65423.m3u8
+#EXTINF:-1,Disney+  "Uniforce"
+http://panel.uniforce.club:8080/live/riven/riven/65424.m3u8
+#EXTINF:-1,CINEMA "UNIFORCE" 
+http://panel.uniforce.club:8080/live/riven/riven/65425.m3u8
+#EXTINF:-1,PT: RTP 1 HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64624.m3u8
+#EXTINF:-1,PT: SIC HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64625.m3u8
+#EXTINF:-1,PT: TVI HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64626.m3u8
+#EXTINF:-1,PT: CMTV HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64627.m3u8
+#EXTINF:-1,PT: RTP 3 HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64628.m3u8
+#EXTINF:-1,PT: SIC NOTICIAS HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64629.m3u8
+#EXTINF:-1,PT: PORTO CANAL HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64630.m3u8
+#EXTINF:-1,PT: SIC RADICAL HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64631.m3u8
+#EXTINF:-1,PT: SIC MULHER HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64632.m3u8
+#EXTINF:-1,PT: GLOBO PORTUGAL HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64633.m3u8
+#EXTINF:-1,PT: CANAL 11 HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64634.m3u8
+#EXTINF:-1,PT: SPORT TV   HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64635.m3u8
+#EXTINF:-1,PT: SPORT TV 1 HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64636.m3u8
+#EXTINF:-1,PT: SPORT TV 2 HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64637.m3u8
+#EXTINF:-1,PT: SPORT TV 3 HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64638.m3u8
+#EXTINF:-1,PT: SPORT TV 4 HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64639.m3u8
+#EXTINF:-1,PT: SPORT TV 5 HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64640.m3u8
+#EXTINF:-1,PT: BTV 1 HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64641.m3u8
+#EXTINF:-1,PT: TVCine Top HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64642.m3u8
+#EXTINF:-1,PT: TVCine Edition HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64643.m3u8
+#EXTINF:-1,PT: TVCine Emotion HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64644.m3u8
+#EXTINF:-1,PT: TVCine Action HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64645.m3u8
+#EXTINF:-1,PT: CINEMUNDO HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64646.m3u8
+#EXTINF:-1,PT: HOLLYWOOD HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64647.m3u8
+#EXTINF:-1,PT: NOS STUDIO HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64648.m3u8
+#EXTINF:-1,PT: FOX MOVIES HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64649.m3u8
+#EXTINF:-1,PT: AMC HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64650.m3u8
+#EXTINF:-1,PT: AXN HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64651.m3u8
+#EXTINF:-1,PT: FOX HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64652.m3u8
+#EXTINF:-1,PT: FOX LIFE HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64653.m3u8
+#EXTINF:-1,PT: FOX COMEDY HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64654.m3u8
+#EXTINF:-1,PT: AXN BLACK HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64655.m3u8
+#EXTINF:-1,PT: AXN WHITE HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64656.m3u8
+#EXTINF:-1,PT: SYFY HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64657.m3u8
+#EXTINF:-1,PT: BLAZE TV HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64658.m3u8
+#EXTINF:-1,PT: ODISSEIA HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64659.m3u8
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD ( 3_MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64660.m3u8
+#EXTINF:-1,24 Kitchen HD ( 3MEGAS)
+http://panel.uniforce.club:8080/live/riven/riven/64661.m3u8
+#EXTINF:-1,==== PORTUGAL LOW ===
+http://panel.uniforce.club:8080/live/riven/riven/64662.m3u8
+#EXTINF:-1,LOW: RTP 1
+http://panel.uniforce.club:8080/live/riven/riven/64663.m3u8
+#EXTINF:-1,LOW: RTP 2
+http://panel.uniforce.club:8080/live/riven/riven/64664.m3u8
+#EXTINF:-1,LOW: SIC
+http://panel.uniforce.club:8080/live/riven/riven/64665.m3u8
+#EXTINF:-1,LOW: TVI
+http://panel.uniforce.club:8080/live/riven/riven/64666.m3u8
+#EXTINF:-1,LOW: CM TV
+http://panel.uniforce.club:8080/live/riven/riven/64667.m3u8
+#EXTINF:-1,LOW: TVI 24
+http://panel.uniforce.club:8080/live/riven/riven/64668.m3u8
+#EXTINF:-1,LOW: Globo
+http://panel.uniforce.club:8080/live/riven/riven/64669.m3u8
+#EXTINF:-1,LOW: TVI Ficcao
+http://panel.uniforce.club:8080/live/riven/riven/64670.m3u8
+#EXTINF:-1,LOW: Canal 11
+http://panel.uniforce.club:8080/live/riven/riven/64671.m3u8
+#EXTINF:-1,LOW: Sport TV
+http://panel.uniforce.club:8080/live/riven/riven/64672.m3u8
+#EXTINF:-1,LOW: Sport TV 1
+http://panel.uniforce.club:8080/live/riven/riven/64673.m3u8
+#EXTINF:-1,LOW: Sport TV 2
+http://panel.uniforce.club:8080/live/riven/riven/64674.m3u8
+#EXTINF:-1,LOW: Sport TV 3
+http://panel.uniforce.club:8080/live/riven/riven/64675.m3u8
+#EXTINF:-1,LOW: Sport TV 4
+http://panel.uniforce.club:8080/live/riven/riven/64676.m3u8
+#EXTINF:-1,LOW: Sport TV 5
+http://panel.uniforce.club:8080/live/riven/riven/64677.m3u8
+#EXTINF:-1,LOW: BTV
+http://panel.uniforce.club:8080/live/riven/riven/64678.m3u8
+#EXTINF:-1,PT LOW: ELEVEN SPORT 1 LOW
+http://panel.uniforce.club:8080/live/riven/riven/64679.m3u8
+#EXTINF:-1,PT LOW: ELEVEN SPORT 2 LOW
+http://panel.uniforce.club:8080/live/riven/riven/64680.m3u8
+#EXTINF:-1,PT LOW: ELEVEN SPORT 3 LOW
+http://panel.uniforce.club:8080/live/riven/riven/64681.m3u8
+#EXTINF:-1,PT LOW: ELEVEN SPORT 4 LOW
+http://panel.uniforce.club:8080/live/riven/riven/64682.m3u8
+#EXTINF:-1,PT LOW: ELEVEN SPORT 5 LOW
+http://panel.uniforce.club:8080/live/riven/riven/64683.m3u8
+#EXTINF:-1,PT LOW: ELEVEN SPORT 6 LOW
+http://panel.uniforce.club:8080/live/riven/riven/64684.m3u8
+#EXTINF:-1,LOW: TVCine Top
+http://panel.uniforce.club:8080/live/riven/riven/64685.m3u8
+#EXTINF:-1,LOW: TVCine Edition
+http://panel.uniforce.club:8080/live/riven/riven/64686.m3u8
+#EXTINF:-1,LOW: TVCine Emotion
+http://panel.uniforce.club:8080/live/riven/riven/64687.m3u8
+#EXTINF:-1,LOW: TVCine Action
+http://panel.uniforce.club:8080/live/riven/riven/64688.m3u8
+#EXTINF:-1,LOW: Hollywood
+http://panel.uniforce.club:8080/live/riven/riven/64689.m3u8
+#EXTINF:-1,LOW: Fox Movies
+http://panel.uniforce.club:8080/live/riven/riven/64690.m3u8
+#EXTINF:-1,LOW: AXN
+http://panel.uniforce.club:8080/live/riven/riven/64691.m3u8
+#EXTINF:-1,LOW: AXN White
+http://panel.uniforce.club:8080/live/riven/riven/64692.m3u8
+#EXTINF:-1,LOW: AXN Black
+http://panel.uniforce.club:8080/live/riven/riven/64693.m3u8
+#EXTINF:-1,LOW: Fox Life
+http://panel.uniforce.club:8080/live/riven/riven/64694.m3u8
+#EXTINF:-1,LOW: Fox Crime
+http://panel.uniforce.club:8080/live/riven/riven/64695.m3u8
+#EXTINF:-1,LOW: Fox
+http://panel.uniforce.club:8080/live/riven/riven/64696.m3u8
