@@ -1,320 +1,281 @@
 #EXTM3U
-
-#EXTINF:-1,RTP 1 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7459
-#EXTINF:-1,RTP 1
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7496
-#EXTINF:-1,RTP 2 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7458
-#EXTINF:-1,RTP 2
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7495
-#EXTINF:-1,RTP 3
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7494
+#EXTINF:-1,RTP 1 HD
+http://94.62.112.95:9981/stream/channelid/1467881753
+#EXTINF:-1,RTP 2 HD
+http://94.62.112.95:9981/stream/channelid/892753150
 #EXTINF:-1,SIC HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7488
-#EXTINF:-1,TVI FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7464
+http://94.62.112.95:9981/stream/channelid/640336095
 #EXTINF:-1,TVI HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7455
-#EXTINF:-1,TVI
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13456
-#EXTINF:-1,TVI 24
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7463
-#EXTINF:-1,TVI Reality
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7462
-#EXTINF:-1,CM TV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7524
-#EXTINF:-1,Globo TV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8794
-#EXTINF:-1,SIC Mulher
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7485
-#EXTINF:-1,SIC Caras
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7487
-#EXTINF:-1,SIC Noticias
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7484
-#EXTINF:-1,SIC Radical
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7483
-#EXTINF:-1,Porto Canal
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7499
-#EXTINF:-1,RTP Memoria
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7489
+http://94.62.112.95:9981/stream/channelid/1327635970
+#EXTINF:-1,SIC Notícias HD
+http://94.62.112.95:9981/stream/channelid/1832217220
+#EXTINF:-1,RTP 3
+http://94.62.112.95:9981/stream/channelid/1523533499
+#EXTINF:-1,TVI 24 HD
+http://94.62.112.95:9981/stream/channelid/1345599616
 #EXTINF:-1,CMTV HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12536
-#EXTINF:-1,AXN FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7538
-#EXTINF:-1,AXN White FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7536
-#EXTINF:-1,AXN White HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/667464
-#EXTINF:-1,AXN Black
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7537
-#EXTINF:-1,AMC
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7539
-#EXTINF:-1,Fox Crime FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8810
-#EXTINF:-1,Fox Comedy
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7515
+http://94.62.112.95:9981/stream/channelid/791507654
+#EXTINF:-1,SPORT TV+
+http://94.62.112.95:9981/stream/channelid/1131797086
+#EXTINF:-1,Globo HD
+http://94.62.112.95:9981/stream/channelid/1509529119
+#EXTINF:-1,Canal 11 HD
+http://94.62.112.95:9981/stream/channelid/425506712
+#EXTINF:-1,Porto Canal HD
+http://94.62.112.95:9981/stream/channelid/1577293468
+#EXTINF:-1,SIC Caras HD
+http://94.62.112.95:9981/stream/channelid/1368201933
+#EXTINF:-1,SIC Radical HD
+http://94.62.112.95:9981/stream/channelid/1384066624
+#EXTINF:-1,SIC Mulher HD
+http://94.62.112.95:9981/stream/channelid/1027440448
 #EXTINF:-1,Canal Q
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7528
-#EXTINF:-1,TLC
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7474
-#EXTINF:-1,Fox Life FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7514
-#EXTINF:-1,Fox FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7456
-#EXTINF:-1,Fox HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7516
-#EXTINF:-1,Syfy HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7454
-#EXTINF:-1,Fox Movies FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7513
-#EXTINF:-1,Sundance
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12504
-#EXTINF:-1,24 Kitchen FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7542
-#EXTINF:-1,Food Network HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12510
-#EXTINF:-1,Fine Living Network FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12509
-#EXTINF:-1,Dog TV FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12528
-#EXTINF:-1,Eleven Sport 1 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/51927
-#EXTINF:-1,Eleven Sport 2 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/51926
-#EXTINF:-1,Eleven Sport 3 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/51925
-#EXTINF:-1,Eleven Sport 4 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/51924
-#EXTINF:-1,Eleven Sport 5 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/51923
-#EXTINF:-1,Eleven Sport 6 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/51922
-#EXTINF:-1,Sport TV + FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7477
-#EXTINF:-1,Sport TV 1 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8818
-#EXTINF:-1,Sport TV 1 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13096
+http://94.62.112.95:9981/stream/channelid/2040942515
 #EXTINF:-1,Sport TV 1
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13097
-#EXTINF:-1,Sport TV 2 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7481
-#EXTINF:-1,Sport TV 2 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8814
+http://94.62.112.95:9981/stream/channelid/1497453047
 #EXTINF:-1,Sport TV 2
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13093
-#EXTINF:-1,Sport TV 3 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8817
-#EXTINF:-1,Sport TV 3 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8813
+http://94.62.112.95:9981/stream/channelid/1507228895
 #EXTINF:-1,Sport TV 3
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13091
-#EXTINF:-1,Sport TV3 (Backup)
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7480
-#EXTINF:-1,Sport TV 4 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8816
+http://94.62.112.95:9981/stream/channelid/864653867
 #EXTINF:-1,Sport TV 4
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13089
-#EXTINF:-1,Sport TV 4 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7479
-#EXTINF:-1,Sport TV 5 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7478
-#EXTINF:-1,Sport TV 5 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8812
+http://94.62.112.95:9981/stream/channelid/1915476347
 #EXTINF:-1,Sport TV 5
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13087
-#EXTINF:-1,BTV 1 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12521
+http://94.62.112.95:9981/stream/channelid/592134063
+#EXTINF:-1,SPORT TV+ HD
+http://94.62.112.95:9981/stream/channelid/1709873187
+#EXTINF:-1,Sport TV 1 HD
+http://94.62.112.95:9981/stream/channelid/2093305418
+#EXTINF:-1,Sport TV 2 HD
+http://94.62.112.95:9981/stream/channelid/2015686630
+#EXTINF:-1,Sport TV 3 HD
+http://94.62.112.95:9981/stream/channelid/652085260
+#EXTINF:-1,Sport TV 4 HD
+http://94.62.112.95:9981/stream/channelid/1186707429
+#EXTINF:-1,Sport TV 5 HD
+http://94.62.112.95:9981/stream/channelid/842733539
 #EXTINF:-1,BTV 1
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12524
-#EXTINF:-1,Sporting TV FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7476
-#EXTINF:-1,NBA TV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8799
-#EXTINF:-1,Kombat Sports
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8793
-#EXTINF:-1,Real Madrid TV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7497
-#EXTINF:-1,Discovery Channel
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7523
-#EXTINF:-1,Discovery Showcase FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7522
-#EXTINF:-1,National Geographic FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7503
-#EXTINF:-1,Nat Geo Wild FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7504
-#EXTINF:-1,Travel Channel FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7472
-#EXTINF:-1,Odisseia
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12500
-#EXTINF:-1,Canal Historia
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7530
-#EXTINF:-1,Historia
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8789
-#EXTINF:-1,Crime Investigation
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12516
-#EXTINF:-1,A&E
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7540
+http://94.62.112.95:9981/stream/channelid/249407058
+#EXTINF:-1,BTV 1 HD
+http://94.62.112.95:9981/stream/channelid/1150492834
+#EXTINF:-1,Sporting TV
+http://94.62.112.95:9981/stream/channelid/415249766
+#EXTINF:-1,Sporting TV HD
+http://94.62.112.95:9981/stream/channelid/1932667569
+#EXTINF:-1,Sport TV NBA
+http://94.62.112.95:9981/stream/channelid/1113662562
+#EXTINF:-1,Eurosport 1
+http://94.62.112.95:9981/stream/channelid/469909893
+#EXTINF:-1,Eurosport 1 HD
+http://94.62.112.95:9981/stream/channelid/2099659710
+#EXTINF:-1,Eurosport 2
+http://94.62.112.95:9981/stream/channelid/1281329387
+#EXTINF:-1,Eurosport 2 HD
+http://94.62.112.95:9981/stream/channelid/311227869
+#EXTINF:-1,Eleven Sports 1
+http://94.62.112.95:9981/stream/channelid/983884243
+#EXTINF:-1,Eleven Sports 2
+http://94.62.112.95:9981/stream/channelid/16300508
+#EXTINF:-1,Eleven Sports 3
+http://94.62.112.95:9981/stream/channelid/626360443
+#EXTINF:-1,Eleven Sports 4
+http://94.62.112.95:9981/stream/channelid/618295846
+#EXTINF:-1,Eleven Sports 5
+http://94.62.112.95:9981/stream/channelid/1005483574
+#EXTINF:-1,Eleven Sports 6
+http://94.62.112.95:9981/stream/channelid/390625232
+#EXTINF:-1,Fuel TV HD
+http://94.62.112.95:9981/stream/channelid/1530827117
+#EXTINF:-1,Fight Network HD
+http://94.62.112.95:9981/stream/channelid/624196571
+#EXTINF:-1,Motorvision HD
+http://94.62.112.95:9981/stream/channelid/1977115684
 #EXTINF:-1,Disney Channel
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7521
-#EXTINF:-1,Disney Junior
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7520
-#EXTINF:-1,Disney JR
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8803
+http://94.62.112.95:9981/stream/channelid/631082028
 #EXTINF:-1,Nickelodeon
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7502
-#EXTINF:-1,Cartoon Network
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8804
+http://94.62.112.95:9981/stream/channelid/417357302
 #EXTINF:-1,Canal Panda
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7529
+http://94.62.112.95:9981/stream/channelid/1324730021
 #EXTINF:-1,Biggs
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7533
-#EXTINF:-1,Baby First
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12517
-#EXTINF:-1,Sic Kids
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8801
-#EXTINF:-1,Jim Jam
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7511
-#EXTINF:-1,A Bola TV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7541
+http://94.62.112.95:9981/stream/channelid/461634948
+#EXTINF:-1,Disney Junior
+http://94.62.112.95:9981/stream/channelid/404983609
+#EXTINF:-1,Cartoon Network
+http://94.62.112.95:9981/stream/channelid/431000595
+#EXTINF:-1,Nick Jr.
+http://94.62.112.95:9981/stream/channelid/1448588643
+#EXTINF:-1,SIC K HD
+http://94.62.112.95:9981/stream/channelid/1921339803
+#EXTINF:-1,Tiji
+http://94.62.112.95:9981/stream/channelid/942516130
 #EXTINF:-1,Baby TV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7535
-#EXTINF:-1,Panda Biggs
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8805
-#EXTINF:-1,TV Cine 1 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13105
-#EXTINF:-1,TV Cine 1 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13104
-#EXTINF:-1,TV Cine 1
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8809
-#EXTINF:-1,TV Cine 2 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13103
-#EXTINF:-1,TV Cine 2 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13102
-#EXTINF:-1,TV Cine 2
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8808
-#EXTINF:-1,TV Cine 3 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13101
-#EXTINF:-1,TV Cine 3 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13100
-#EXTINF:-1,TV Cine 3
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8807
-#EXTINF:-1,TV Cine 4 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13099
-#EXTINF:-1,TV Cine 4 HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/13098
-#EXTINF:-1,TV Cine 4
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8806
-#EXTINF:-1,TV Series FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7469
-#EXTINF:-1,Hollywood
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7510
-#EXTINF:-1,Eurosport 1 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7519
-#EXTINF:-1,Eurosport 2 FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7518
-#EXTINF:-1,Eurosport News
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7517
-#EXTINF:-1,Fuel TV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7512
-#EXTINF:-1,Toros TV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7473
-#EXTINF:-1,Caca e Pesca
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8791
-#EXTINF:-1,PFC
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7500
-#EXTINF:-1,MTV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7505
-#EXTINF:-1,VH1
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8785
-#EXTINF:-1,VH1 Classic
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12506
-#EXTINF:-1,MCM Pop
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7509
-#EXTINF:-1,Afro Music
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12501
-#EXTINF:-1,Trace Urban
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12505
-#EXTINF:-1,Trace Urban HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12503
-#EXTINF:-1,RTP Acores
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7493
-#EXTINF:-1,RTP Africa
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7492
-#EXTINF:-1,RTP Internacional
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7491
-#EXTINF:-1,RTP Madeira
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7490
-#EXTINF:-1,Localvisao HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12529
-#EXTINF:-1,Euronews
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8788
-#EXTINF:-1,BBC World News
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12527
-#EXTINF:-1,Fox News
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12513
-#EXTINF:-1,CNN
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12515
-#EXTINF:-1,Bloomberg
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12525
-#EXTINF:-1,TVE 24H
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12512
-#EXTINF:-1,Cine Mundo
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7525
-#EXTINF:-1,Syfy
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7475
-#EXTINF:-1,SIC K
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7486
-#EXTINF:-1,MOV FHD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7453
-#EXTINF:-1,Benfica TV1
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7534
-#EXTINF:-1,CBS Reality
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7526
-#EXTINF:-1,Cacavision
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7531
-#EXTINF:-1,Cancao Nova
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7527
-#EXTINF:-1,CAZA Y PESCA
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7532
-#EXTINF:-1,E! Entertainment
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8790
-#EXTINF:-1,MCS LifeStyle
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8798
-#EXTINF:-1,Rede TV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8797
-#EXTINF:-1,Santuario Fatima
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8972
-#EXTINF:-1,TV Globo Premium
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7470
-#EXTINF:-1,TV Record
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8811
-#EXTINF:-1,TVI Ficcao
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/7461
-#EXTINF:-1,BTV 1 FHD (ALT)
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12520
-#EXTINF:-1,TVEi
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12511
-#EXTINF:-1,CMTV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12535
-#EXTINF:-1,Fashion TV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12526
-#EXTINF:-1,Globo Premium
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12507
-#EXTINF:-1,iConcerts HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12502
-#EXTINF:-1,MCS Extreme
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/8800
+http://94.62.112.95:9981/stream/channelid/1020153963
+#EXTINF:-1,TVCine TOP
+http://94.62.112.95:9981/stream/channelid/1123367701
+#EXTINF:-1,TVCine EDITION
+http://94.62.112.95:9981/stream/channelid/28156396
+#EXTINF:-1,TVCine EMOTION
+http://94.62.112.95:9981/stream/channelid/858160181
+#EXTINF:-1,TVCine ACTION
+http://94.62.112.95:9981/stream/channelid/1570562042
+#EXTINF:-1,TVCine TOP HD
+http://94.62.112.95:9981/stream/channelid/488496454
+#EXTINF:-1,TVCine EDITION HD
+http://94.62.112.95:9981/stream/channelid/750552626
+#EXTINF:-1,TVCine EMOTION HD
+http://94.62.112.95:9981/stream/channelid/874539958
+#EXTINF:-1,TVCine ACTION HD
+http://94.62.112.95:9981/stream/channelid/173786640
 #EXTINF:-1,NOS Studios HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/658469
-#EXTINF:-1,ZAP VIVA HD
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/667814
-#EXTINF:-1,6 TV
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/16221
-#EXTINF:-1,AMC
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12075
-#EXTINF:-1,AXN
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/5330
-#EXTINF:-1,AXN White
-http://mytv.fun:8080/marceldrewsvater1/oehbkkzjgh/12073
+http://94.62.112.95:9981/stream/channelid/763327744
+#EXTINF:-1,Hollywood HD
+http://94.62.112.95:9981/stream/channelid/569307544
+#EXTINF:-1,FOX Movies HD
+http://94.62.112.95:9981/stream/channelid/1597192314
+#EXTINF:-1,FOX HD
+http://94.62.112.95:9981/stream/channelid/788793789
+#EXTINF:-1,FOX Crime HD
+http://94.62.112.95:9981/stream/channelid/322847906
+#EXTINF:-1,FOX Comedy HD
+http://94.62.112.95:9981/stream/channelid/1720555873
+#EXTINF:-1,FOX Life HD
+http://94.62.112.95:9981/stream/channelid/256340969
+#EXTINF:-1,AXN Movies HD
+http://94.62.112.95:9981/stream/channelid/305595836
+#EXTINF:-1,AXN HD
+http://94.62.112.95:9981/stream/channelid/2074094209
+#EXTINF:-1,AXN White HD
+http://94.62.112.95:9981/stream/channelid/2123171695
+#EXTINF:-1,AMC HD
+http://94.62.112.95:9981/stream/channelid/957153039
+#EXTINF:-1,SYFY HD
+http://94.62.112.95:9981/stream/channelid/691465257
+#EXTINF:-1,MTV Portugal HD
+http://94.62.112.95:9981/stream/channelid/1600746889
+#EXTINF:-1,MTV Live HD
+http://94.62.112.95:9981/stream/channelid/858325549
+#EXTINF:-1,VH1
+http://94.62.112.95:9981/stream/channelid/1401665136
+#EXTINF:-1,MCM Top
+http://94.62.112.95:9981/stream/channelid/1350033339
+#EXTINF:-1,MCM Pop
+http://94.62.112.95:9981/stream/channelid/1454444791
+#EXTINF:-1,Afro Music
+http://94.62.112.95:9981/stream/channelid/545124105
+#EXTINF:-1,Trace Toca
+http://94.62.112.95:9981/stream/channelid/572557703
+#EXTINF:-1,Trace Urban HD
+http://94.62.112.95:9981/stream/channelid/173129810
+#EXTINF:-1,Mezzo Live HD
+http://94.62.112.95:9981/stream/channelid/1923980909
+#EXTINF:-1,iConcerts HD
+http://94.62.112.95:9981/stream/channelid/927784665
+#EXTINF:-1,História HD
+http://94.62.112.95:9981/stream/channelid/1984806025
+#EXTINF:-1,National Geographic HD
+http://94.62.112.95:9981/stream/channelid/1883069975
+#EXTINF:-1,National Geographic WILD HD
+http://94.62.112.95:9981/stream/channelid/50328711
+#EXTINF:-1,Discovery HD
+http://94.62.112.95:9981/stream/channelid/1758837380
+#EXTINF:-1,Odisseia HD
+http://94.62.112.95:9981/stream/channelid/1600799321
+#EXTINF:-1,MyZen TV
+http://94.62.112.95:9981/stream/channelid/1952042699
+#EXTINF:-1,Lifestyle
+http://94.62.112.95:9981/stream/channelid/1882633005
+#EXTINF:-1,Fine Living Network HD
+http://94.62.112.95:9981/stream/channelid/891346920
+#EXTINF:-1,Crime + Investigation HD
+http://94.62.112.95:9981/stream/channelid/888010626
+#EXTINF:-1,ID Investigation Discovery
+http://94.62.112.95:9981/stream/channelid/543144849
+#EXTINF:-1,Blaze HD
+http://94.62.112.95:9981/stream/channelid/284254454
+#EXTINF:-1,E! Entertainment HD
+http://94.62.112.95:9981/stream/channelid/468991174
+#EXTINF:-1,Travel Channel HD
+http://94.62.112.95:9981/stream/channelid/812876242
+#EXTINF:-1,FTV
+http://94.62.112.95:9981/stream/channelid/930307635
+#EXTINF:-1,FTV HD
+http://94.62.112.95:9981/stream/channelid/90826538
+#EXTINF:-1,Food Network HD
+http://94.62.112.95:9981/stream/channelid/631438110
+#EXTINF:-1,24 Kitchen HD
+http://94.62.112.95:9981/stream/channelid/477483139
+#EXTINF:-1,MVM
+http://94.62.112.95:9981/stream/channelid/824964052
+#EXTINF:-1,Record News
+http://94.62.112.95:9981/stream/channelid/1343223484
+#EXTINF:-1,TV Record HD
+http://94.62.112.95:9981/stream/channelid/273172517
+#EXTINF:-1,BBC Entertainment
+http://94.62.112.95:9981/stream/channelid/453009356
+#EXTINF:-1,Euronews
+http://94.62.112.95:9981/stream/channelid/634341518
+#EXTINF:-1,CNN
+http://94.62.112.95:9981/stream/channelid/442859162
+#EXTINF:-1,BBC World News
+http://94.62.112.95:9981/stream/channelid/583941611
+#EXTINF:-1,Bloomberg
+http://94.62.112.95:9981/stream/channelid/441510178
+#EXTINF:-1,TVE 24h
+http://94.62.112.95:9981/stream/channelid/39446181
+#EXTINF:-1,M6
+http://94.62.112.95:9981/stream/channelid/738935016
+#EXTINF:-1,Caça e Pesca HD
+http://94.62.112.95:9981/stream/channelid/1745432630
+#EXTINF:-1,DogTV
+http://94.62.112.95:9981/stream/channelid/1514299252
+#EXTINF:-1,Hot HD
+http://94.62.112.95:9981/stream/channelid/417671541
+#EXTINF:-1,Playboy TV HD
+http://94.62.112.95:9981/stream/channelid/853533538
+#EXTINF:-1,Venus
+http://94.62.112.95:9981/stream/channelid/1477493523
+#EXTINF:-1,Penthouse HD1
+http://94.62.112.95:9981/stream/channelid/2045922795
+#EXTINF:-1,Sextreme
+http://94.62.112.95:9981/stream/channelid/823637154
+#EXTINF:-1,Antena 1
+http://94.62.112.95:9981/stream/channelid/451819013
+#EXTINF:-1,Antena 2
+http://94.62.112.95:9981/stream/channelid/924152299
+#EXTINF:-1,Antena 3
+http://94.62.112.95:9981/stream/channelid/553005468
+#EXTINF:-1,RDP África
+http://94.62.112.95:9981/stream/channelid/569447473
+#EXTINF:-1,Rádio Lusitânia
+http://94.62.112.95:9981/stream/channelid/1968300212
+#EXTINF:-1,Zig Zag
+http://94.62.112.95:9981/stream/channelid/400948983
+#EXTINF:-1,Cidade FM
+http://94.62.112.95:9981/stream/channelid/899450200
+#EXTINF:-1,Rádio Comercial
+http://94.62.112.95:9981/stream/channelid/1917147727
+#EXTINF:-1,Smooth FM
+http://94.62.112.95:9981/stream/channelid/1044565924
+#EXTINF:-1,M80
+http://94.62.112.95:9981/stream/channelid/725008945
+#EXTINF:-1,Mega Hits
+http://94.62.112.95:9981/stream/channelid/521651694
+#EXTINF:-1,Marginal
+http://94.62.112.95:9981/stream/channelid/1110440755
+#EXTINF:-1,Radar
+http://94.62.112.95:9981/stream/channelid/839774526
+#EXTINF:-1,Oxigénio
+http://94.62.112.95:9981/stream/channelid/1468195065
+#EXTINF:-1,Rádio Amália
+http://94.62.112.95:9981/stream/channelid/71791364
+#EXTINF:-1,RFM
+http://94.62.112.95:9981/stream/channelid/400622106
+#EXTINF:-1,Rádio Renascença
+http://94.62.112.95:9981/stream/channelid/649948867
+#EXTINF:-1,TSF
+http://94.62.112.95:9981/stream/channelid/165219239
+#EXTINF:-1,SuperFM
+http://94.62.112.95:9981/stream/channelid/1071656590
+#EXTINF:-1,SBSR
+http://94.62.112.95:9981/stream/channelid/1012140245
+#EXTINF:-1,Rádio Regional
+http://94.62.112.95:9981/stream/channelid/623916779
