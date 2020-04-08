@@ -1,796 +1,1419 @@
 #EXTM3U
 
-#EXTINF:-1,------▼|PT|-CHAINES.PORTUGAISES-|PT|▼------
-http://king365-tv.com:2103/live/tvo/1234/1103.ts
 
+#EXTINF:-1,##### Portugal #####
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1219.m3u8
 #EXTINF:-1,RTP 1
-http://vipstore.selfip.com:7500/live/vi/vi/1220.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1220.m3u8
 #EXTINF:-1,RTP 1 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1221.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1221.m3u8
 #EXTINF:-1,RTP 1 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1222.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1222.m3u8
 #EXTINF:-1,RTP 2
-http://vipstore.selfip.com:7500/live/vi/vi/1223.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1223.m3u8
 #EXTINF:-1,RTP 2 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1224.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1224.m3u8
 #EXTINF:-1,RTP 2 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1225.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1225.m3u8
 #EXTINF:-1,SIC
-http://vipstore.selfip.com:7500/live/vi/vi/1226.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1226.m3u8
 #EXTINF:-1,SIC HD
-http://vipstore.selfip.com:7500/live/vi/vi/1227.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1227.m3u8
 #EXTINF:-1,SIC FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1228.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1228.m3u8
 #EXTINF:-1,TVI
-http://vipstore.selfip.com:7500/live/vi/vi/1229.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1229.m3u8
 #EXTINF:-1,TVI HD
-http://vipstore.selfip.com:7500/live/vi/vi/1230.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1230.m3u8
 #EXTINF:-1,TVI FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1231.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1231.m3u8
 #EXTINF:-1,TVI FICÇÃO
-http://vipstore.selfip.com:7500/live/vi/vi/1232.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1232.m3u8
 #EXTINF:-1,TVI REALITY
-http://vipstore.selfip.com:7500/live/vi/vi/1233.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1233.m3u8
 #EXTINF:-1,SIC MULHER
-http://vipstore.selfip.com:7500/live/vi/vi/1234.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1234.m3u8
 #EXTINF:-1,SIC MULHER HD
-http://vipstore.selfip.com:7500/live/vi/vi/1235.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1235.m3u8
 #EXTINF:-1,SIC CARAS
-http://vipstore.selfip.com:7500/live/vi/vi/1236.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1236.m3u8
 #EXTINF:-1,SIC RADICAL
-http://vipstore.selfip.com:7500/live/vi/vi/1237.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1237.m3u8
 #EXTINF:-1,SIC RADICAL HD
-http://vipstore.selfip.com:7500/live/vi/vi/1238.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1238.m3u8
 #EXTINF:-1,CANAL Q
-http://vipstore.selfip.com:7500/live/vi/vi/1239.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1239.m3u8
 #EXTINF:-1,RTP AFRICA
-http://vipstore.selfip.com:7500/live/vi/vi/1240.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1240.m3u8
 #EXTINF:-1,RTP ACORES
-http://vipstore.selfip.com:7500/live/vi/vi/1241.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1241.m3u8
 #EXTINF:-1,RTP MEMÓRIA
-http://vipstore.selfip.com:7500/live/vi/vi/1242.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1242.m3u8
 #EXTINF:-1,RTP INTERNACIONAL
-http://vipstore.selfip.com:7500/live/vi/vi/1243.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1243.m3u8
 #EXTINF:-1,RTP MADEIRA
-http://vipstore.selfip.com:7500/live/vi/vi/1244.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1244.m3u8
 #EXTINF:-1,****** NOTICIAS ******
-http://vipstore.selfip.com:7500/live/vi/vi/1245.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1245.m3u8
 #EXTINF:-1,SIC NOTICIAS
-http://vipstore.selfip.com:7500/live/vi/vi/1246.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1246.m3u8
 #EXTINF:-1,SIC NOTICIAS HD
-http://vipstore.selfip.com:7500/live/vi/vi/1247.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1247.m3u8
 #EXTINF:-1,TVI 24
-http://vipstore.selfip.com:7500/live/vi/vi/1248.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1248.m3u8
 #EXTINF:-1,CMTV
-http://vipstore.selfip.com:7500/live/vi/vi/1249.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1249.m3u8
 #EXTINF:-1,CMTV HD
-http://vipstore.selfip.com:7500/live/vi/vi/1250.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1250.m3u8
 #EXTINF:-1,RTP 3
-http://vipstore.selfip.com:7500/live/vi/vi/1251.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1251.m3u8
 #EXTINF:-1,RTP 3 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/5501.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5501.m3u8
 #EXTINF:-1,ARTV
-http://vipstore.selfip.com:7500/live/vi/vi/1252.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1252.m3u8
 #EXTINF:-1,****** DESPORTO ******
-http://vipstore.selfip.com:7500/live/vi/vi/1253.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1253.m3u8
 #EXTINF:-1,CANAL 11 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1254.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1254.m3u8
 #EXTINF:-1,CANAL 11 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1255.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1255.m3u8
 #EXTINF:-1,SPORT TV NBA HD
-http://vipstore.selfip.com:7500/live/vi/vi/1256.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1256.m3u8
 #EXTINF:-1,SPORT TV
-http://vipstore.selfip.com:7500/live/vi/vi/1257.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1257.m3u8
 #EXTINF:-1,SPORT TV FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1258.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1258.m3u8
 #EXTINF:-1,SPORT TV 1
-http://vipstore.selfip.com:7500/live/vi/vi/1259.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1259.m3u8
 #EXTINF:-1,SPORT TV 1 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1260.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1260.m3u8
 #EXTINF:-1,SPORT TV 1 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1261.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1261.m3u8
 #EXTINF:-1,SPORT TV 2
-http://vipstore.selfip.com:7500/live/vi/vi/1262.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1262.m3u8
 #EXTINF:-1,SPORT TV 2 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1263.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1263.m3u8
 #EXTINF:-1,SPORT TV 2 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1264.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1264.m3u8
 #EXTINF:-1,SPORT TV 3
-http://vipstore.selfip.com:7500/live/vi/vi/1265.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1265.m3u8
 #EXTINF:-1,SPORT TV 3 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1266.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1266.m3u8
 #EXTINF:-1,SPORT TV 3 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1267.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1267.m3u8
 #EXTINF:-1,SPORT TV 4
-http://vipstore.selfip.com:7500/live/vi/vi/1268.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1268.m3u8
 #EXTINF:-1,SPORT TV 4 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1269.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1269.m3u8
 #EXTINF:-1,SPORT TV 5
-http://vipstore.selfip.com:7500/live/vi/vi/1270.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1270.m3u8
 #EXTINF:-1,SPORT TV 5 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1271.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1271.m3u8
 #EXTINF:-1,ELEVEN SPORT 1 LB
-http://vipstore.selfip.com:7500/live/vi/vi/1272.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1272.m3u8
 #EXTINF:-1,ELEVEN SPORT 1
-http://vipstore.selfip.com:7500/live/vi/vi/1273.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1273.m3u8
 #EXTINF:-1,ELEVEN SPORT 1 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1274.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1274.m3u8
 #EXTINF:-1,ELEVEN SPORT 2 LB
-http://vipstore.selfip.com:7500/live/vi/vi/1275.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1275.m3u8
 #EXTINF:-1,ELEVEN SPORT 2 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1276.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1276.m3u8
 #EXTINF:-1,ELEVEN SPORT 3 LB
-http://vipstore.selfip.com:7500/live/vi/vi/1277.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1277.m3u8
 #EXTINF:-1,ELEVEN SPORT 3 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1278.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1278.m3u8
 #EXTINF:-1,ELEVEN SPORT 4 LB
-http://vipstore.selfip.com:7500/live/vi/vi/1279.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1279.m3u8
 #EXTINF:-1,ELEVEN SPORT 4 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1280.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1280.m3u8
 #EXTINF:-1,ELEVEN SPORT 5 LB
-http://vipstore.selfip.com:7500/live/vi/vi/1281.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1281.m3u8
 #EXTINF:-1,ELEVEN SPORT 5 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1282.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1282.m3u8
 #EXTINF:-1,ELEVEN SPORT 6 LB
-http://vipstore.selfip.com:7500/live/vi/vi/1283.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1283.m3u8
 #EXTINF:-1,ELEVEN SPORT 6 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1284.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1284.m3u8
 #EXTINF:-1,Benfica TV
-http://vipstore.selfip.com:7500/live/vi/vi/1285.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1285.m3u8
 #EXTINF:-1,Benfica TV HD
-http://vipstore.selfip.com:7500/live/vi/vi/1286.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1286.m3u8
 #EXTINF:-1,Benfica TV FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1287.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1287.m3u8
 #EXTINF:-1,PORTO CANAL
-http://vipstore.selfip.com:7500/live/vi/vi/1288.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1288.m3u8
 #EXTINF:-1,PORTO CANAL HD
-http://vipstore.selfip.com:7500/live/vi/vi/1289.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1289.m3u8
 #EXTINF:-1,SPORTING TV
-http://vipstore.selfip.com:7500/live/vi/vi/1290.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1290.m3u8
 #EXTINF:-1,SPORTING TV HD
-http://vipstore.selfip.com:7500/live/vi/vi/1291.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1291.m3u8
 #EXTINF:-1,A BOLA TV
-http://vipstore.selfip.com:7500/live/vi/vi/1292.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1292.m3u8
 #EXTINF:-1,PFC
-http://vipstore.selfip.com:7500/live/vi/vi/1293.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1293.m3u8
 #EXTINF:-1,EUROSPORT 1
-http://vipstore.selfip.com:7500/live/vi/vi/1295.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1295.m3u8
 #EXTINF:-1,EUROSPORT 1 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1296.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1296.m3u8
 #EXTINF:-1,EUROSPORT 2
-http://vipstore.selfip.com:7500/live/vi/vi/1297.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1297.m3u8
 #EXTINF:-1,KOMBAT SPORT
-http://vipstore.selfip.com:7500/live/vi/vi/1298.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1298.m3u8
 #EXTINF:-1,FIGHT NETWORK FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1299.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1299.m3u8
 #EXTINF:-1,FUEL TV
-http://vipstore.selfip.com:7500/live/vi/vi/1300.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1300.m3u8
 #EXTINF:-1,MOTORVISION
-http://vipstore.selfip.com:7500/live/vi/vi/1301.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1301.m3u8
 #EXTINF:-1,REAL MADRID TV
-http://vipstore.selfip.com:7500/live/vi/vi/1302.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1302.m3u8
 #EXTINF:-1,****** FILMES/SERIES ******
-http://vipstore.selfip.com:7500/live/vi/vi/1303.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1303.m3u8
 #EXTINF:-1,TVCINE 1
-http://vipstore.selfip.com:7500/live/vi/vi/1304.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1304.m3u8
 #EXTINF:-1,TVCINE 1 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1305.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1305.m3u8
 #EXTINF:-1,TVCINE 1 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1306.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1306.m3u8
 #EXTINF:-1,TVCINE 2
-http://vipstore.selfip.com:7500/live/vi/vi/1307.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1307.m3u8
 #EXTINF:-1,TVCINE 2 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1308.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1308.m3u8
 #EXTINF:-1,TVCINE 2 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1309.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1309.m3u8
 #EXTINF:-1,TVCINE 3
-http://vipstore.selfip.com:7500/live/vi/vi/1310.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1310.m3u8
 #EXTINF:-1,TVCINE 3 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1311.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1311.m3u8
 #EXTINF:-1,TVCINE 3 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1312.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1312.m3u8
 #EXTINF:-1,TVCINE 4
-http://vipstore.selfip.com:7500/live/vi/vi/1313.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1313.m3u8
 #EXTINF:-1,TVCINE 4 HD
-http://vipstore.selfip.com:7500/live/vi/vi/1314.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1314.m3u8
 #EXTINF:-1,TVCINE 4 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1315.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1315.m3u8
 #EXTINF:-1,NOS STUDIO FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1316.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1316.m3u8
 #EXTINF:-1,HOLLYWOOD
-http://vipstore.selfip.com:7500/live/vi/vi/1317.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1317.m3u8
 #EXTINF:-1,HOLLYWOOD HD
-http://vipstore.selfip.com:7500/live/vi/vi/1318.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1318.m3u8
 #EXTINF:-1,CINEMUNDO
-http://vipstore.selfip.com:7500/live/vi/vi/1319.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1319.m3u8
 #EXTINF:-1,CINEMUNDO HD
-http://vipstore.selfip.com:7500/live/vi/vi/1320.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1320.m3u8
 #EXTINF:-1,AMC
-http://vipstore.selfip.com:7500/live/vi/vi/1321.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1321.m3u8
 #EXTINF:-1,AMC HD
-http://vipstore.selfip.com:7500/live/vi/vi/1322.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1322.m3u8
 #EXTINF:-1,AMC FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1323.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1323.m3u8
 #EXTINF:-1,FOX MOVIES
-http://vipstore.selfip.com:7500/live/vi/vi/1324.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1324.m3u8
 #EXTINF:-1,FOX MOVIES HD
-http://vipstore.selfip.com:7500/live/vi/vi/1325.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1325.m3u8
 #EXTINF:-1,TV SERIES
-http://vipstore.selfip.com:7500/live/vi/vi/1326.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1326.m3u8
 #EXTINF:-1,TV SERIES HD
-http://vipstore.selfip.com:7500/live/vi/vi/1327.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1327.m3u8
 #EXTINF:-1,TV SERIES FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1328.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1328.m3u8
 #EXTINF:-1,FOX
-http://vipstore.selfip.com:7500/live/vi/vi/1329.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1329.m3u8
 #EXTINF:-1,FOX HD
-http://vipstore.selfip.com:7500/live/vi/vi/1330.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1330.m3u8
 #EXTINF:-1,FOX FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1331.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1331.m3u8
 #EXTINF:-1,FOX CRIME
-http://vipstore.selfip.com:7500/live/vi/vi/1332.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1332.m3u8
 #EXTINF:-1,FOX CRIME FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1334.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1334.m3u8
 #EXTINF:-1,FOX CRIME HD
-http://vipstore.selfip.com:7500/live/vi/vi/1333.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1333.m3u8
 #EXTINF:-1,FOX LIFE
-http://vipstore.selfip.com:7500/live/vi/vi/1335.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1335.m3u8
 #EXTINF:-1,FOX LIFE HD
-http://vipstore.selfip.com:7500/live/vi/vi/1336.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1336.m3u8
 #EXTINF:-1,FOX COMEDY
-http://vipstore.selfip.com:7500/live/vi/vi/1337.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1337.m3u8
 #EXTINF:-1,FOX COMEDY HD
-http://vipstore.selfip.com:7500/live/vi/vi/1338.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1338.m3u8
 #EXTINF:-1,AXN
-http://vipstore.selfip.com:7500/live/vi/vi/1339.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1339.m3u8
 #EXTINF:-1,AXN HD
-http://vipstore.selfip.com:7500/live/vi/vi/1340.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1340.m3u8
 #EXTINF:-1,AXN FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1341.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1341.m3u8
 #EXTINF:-1,AXN WHITE
-http://vipstore.selfip.com:7500/live/vi/vi/1342.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1342.m3u8
 #EXTINF:-1,AXN WHITE HD
-http://vipstore.selfip.com:7500/live/vi/vi/1343.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1343.m3u8
 #EXTINF:-1,AXN WHITE FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1344.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1344.m3u8
 #EXTINF:-1,AXN BLACK
-http://vipstore.selfip.com:7500/live/vi/vi/1345.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1345.m3u8
 #EXTINF:-1,AXN BLACK HD
-http://vipstore.selfip.com:7500/live/vi/vi/1346.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1346.m3u8
 #EXTINF:-1,AXN BLACK FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1347.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1347.m3u8
 #EXTINF:-1,SYFY
-http://vipstore.selfip.com:7500/live/vi/vi/1348.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1348.m3u8
 #EXTINF:-1,SYFY HD
-http://vipstore.selfip.com:7500/live/vi/vi/1349.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1349.m3u8
 #EXTINF:-1,Hbo Portugal
-http://vipstore.selfip.com:7500/live/vi/vi/8522.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/8522.m3u8
 #EXTINF:-1,Netflix
-http://vipstore.selfip.com:7500/live/vi/vi/8523.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/8523.m3u8
 #EXTINF:-1,Marvel
-http://vipstore.selfip.com:7500/live/vi/vi/8524.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/8524.m3u8
 #EXTINF:-1,Marvel II
-http://vipstore.selfip.com:7500/live/vi/vi/8525.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/8525.m3u8
 #EXTINF:-1,National Geographic WILD
-http://vipstore.selfip.com:7500/live/vi/vi/1350.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1350.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://vipstore.selfip.com:7500/live/vi/vi/1351.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1351.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL
-http://vipstore.selfip.com:7500/live/vi/vi/1352.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1352.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL HD
-http://vipstore.selfip.com:7500/live/vi/vi/1353.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1353.m3u8
 #EXTINF:-1,ID INVESTIGATION DISCOVERY
-http://vipstore.selfip.com:7500/live/vi/vi/1354.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1354.m3u8
 #EXTINF:-1,HISTORIA
-http://vipstore.selfip.com:7500/live/vi/vi/1355.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1355.m3u8
 #EXTINF:-1,ODISSEIA
-http://vipstore.selfip.com:7500/live/vi/vi/1356.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1356.m3u8
 #EXTINF:-1,ODISSEIA HD
-http://vipstore.selfip.com:7500/live/vi/vi/1357.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1357.m3u8
 #EXTINF:-1,CRIME INVESTIGATION
-http://vipstore.selfip.com:7500/live/vi/vi/1358.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1358.m3u8
 #EXTINF:-1,CACA E PESCA
-http://vipstore.selfip.com:7500/live/vi/vi/1359.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1359.m3u8
 #EXTINF:-1,CAÇAVISION
-http://vipstore.selfip.com:7500/live/vi/vi/1360.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1360.m3u8
 #EXTINF:-1,TOROS TV
-http://vipstore.selfip.com:7500/live/vi/vi/1361.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1361.m3u8
 #EXTINF:-1,TRAVEL CHANNEL HD
-http://vipstore.selfip.com:7500/live/vi/vi/1362.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1362.m3u8
 #EXTINF:-1,****** INFANTIL ******
-http://vipstore.selfip.com:7500/live/vi/vi/1363.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1363.m3u8
 #EXTINF:-1,DISNEY CHANNEL
-http://vipstore.selfip.com:7500/live/vi/vi/1364.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1364.m3u8
 #EXTINF:-1,DISNEY JUNIOR
-http://vipstore.selfip.com:7500/live/vi/vi/1365.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1365.m3u8
 #EXTINF:-1,CANAL PANDA
-http://vipstore.selfip.com:7500/live/vi/vi/1366.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1366.m3u8
 #EXTINF:-1,PANDA BIGGS
-http://vipstore.selfip.com:7500/live/vi/vi/1367.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1367.m3u8
 #EXTINF:-1,JIM JAM
-http://vipstore.selfip.com:7500/live/vi/vi/1368.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1368.m3u8
 #EXTINF:-1,BABY TV
-http://vipstore.selfip.com:7500/live/vi/vi/1369.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1369.m3u8
 #EXTINF:-1,CARTOON NETWORK
-http://vipstore.selfip.com:7500/live/vi/vi/1370.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1370.m3u8
 #EXTINF:-1,NICKELODEON
-http://vipstore.selfip.com:7500/live/vi/vi/1371.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1371.m3u8
 #EXTINF:-1,NICK JR
-http://vipstore.selfip.com:7500/live/vi/vi/1372.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1372.m3u8
 #EXTINF:-1,SIC K
-http://vipstore.selfip.com:7500/live/vi/vi/1373.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1373.m3u8
 #EXTINF:-1,****** CULTURA ******
-http://vipstore.selfip.com:7500/live/vi/vi/1374.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1374.m3u8
 #EXTINF:-1,LUXE TV HD
-http://vipstore.selfip.com:7500/live/vi/vi/1375.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1375.m3u8
 #EXTINF:-1,FOX NEWS
-http://vipstore.selfip.com:7500/live/vi/vi/6149.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6149.m3u8
 #EXTINF:-1,LOCALVISAO TV HD
-http://vipstore.selfip.com:7500/live/vi/vi/6148.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6148.m3u8
 #EXTINF:-1,CANAL 180 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6147.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6147.m3u8
 #EXTINF:-1,RECORD NEW
-http://vipstore.selfip.com:7500/live/vi/vi/6146.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6146.m3u8
 #EXTINF:-1,BBC ENTERTAINEMENT
-http://vipstore.selfip.com:7500/live/vi/vi/6145.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6145.m3u8
 #EXTINF:-1,FATIMA FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6144.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6144.m3u8
 #EXTINF:-1,BLAZE TV
-http://vipstore.selfip.com:7500/live/vi/vi/1376.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1376.m3u8
 #EXTINF:-1,CBS REALITY
-http://vipstore.selfip.com:7500/live/vi/vi/1378.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1378.m3u8
 #EXTINF:-1,E! ENTERTAINMENT
-http://vipstore.selfip.com:7500/live/vi/vi/1379.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1379.m3u8
 #EXTINF:-1,KURIAKOS
-http://vipstore.selfip.com:7500/live/vi/vi/1380.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1380.m3u8
 #EXTINF:-1,MY CUISINE
-http://vipstore.selfip.com:7500/live/vi/vi/1381.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1381.m3u8
 #EXTINF:-1,TLC
-http://vipstore.selfip.com:7500/live/vi/vi/1382.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1382.m3u8
 #EXTINF:-1,EURONEWS
-http://vipstore.selfip.com:7500/live/vi/vi/1384.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1384.m3u8
 #EXTINF:-1,24 KITCHEN
-http://vipstore.selfip.com:7500/live/vi/vi/1385.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1385.m3u8
 #EXTINF:-1,DOG TV FHD
-http://vipstore.selfip.com:7500/live/vi/vi/1386.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1386.m3u8
 #EXTINF:-1,TV RECORD
-http://vipstore.selfip.com:7500/live/vi/vi/1387.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1387.m3u8
 #EXTINF:-1,CANÇÃO NOVA
-http://vipstore.selfip.com:7500/live/vi/vi/1388.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1388.m3u8
 #EXTINF:-1,****** INTERNACIONAIS ******
-http://vipstore.selfip.com:7500/live/vi/vi/1389.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1389.m3u8
 #EXTINF:-1,GLOBO
-http://vipstore.selfip.com:7500/live/vi/vi/1390.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1390.m3u8
 #EXTINF:-1,GLOBO NOW
-http://vipstore.selfip.com:7500/live/vi/vi/1392.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1392.m3u8
 #EXTINF:-1,TPA INTERNACIONAL
-http://vipstore.selfip.com:7500/live/vi/vi/1393.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1393.m3u8
 #EXTINF:-1,ZAP VIVA HD
-http://vipstore.selfip.com:7500/live/vi/vi/1394.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1394.m3u8
 #EXTINF:-1,TV5 MONDE
-http://vipstore.selfip.com:7500/live/vi/vi/1395.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1395.m3u8
 #EXTINF:-1,TVE 24h
-http://vipstore.selfip.com:7500/live/vi/vi/1396.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1396.m3u8
 #EXTINF:-1,TVE Internacional
-http://vipstore.selfip.com:7500/live/vi/vi/1397.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1397.m3u8
 #EXTINF:-1,Sky News
-http://vipstore.selfip.com:7500/live/vi/vi/1398.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1398.m3u8
 #EXTINF:-1,CNN
-http://vipstore.selfip.com:7500/live/vi/vi/1399.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1399.m3u8
 #EXTINF:-1,M6
-http://vipstore.selfip.com:7500/live/vi/vi/1400.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1400.m3u8
 #EXTINF:-1,BLOOMBERG
-http://vipstore.selfip.com:7500/live/vi/vi/1401.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1401.m3u8
 #EXTINF:-1,****** Musica ******
-http://vipstore.selfip.com:7500/live/vi/vi/1403.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1403.m3u8
 #EXTINF:-1,MCM POP
-http://vipstore.selfip.com:7500/live/vi/vi/1402.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1402.m3u8
 #EXTINF:-1,MTV PORTUGAL
-http://vipstore.selfip.com:7500/live/vi/vi/1404.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1404.m3u8
 #EXTINF:-1,VH1
-http://vipstore.selfip.com:7500/live/vi/vi/1405.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1405.m3u8
 #EXTINF:-1,AFRO MUSIC
-http://vipstore.selfip.com:7500/live/vi/vi/1406.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1406.m3u8
 #EXTINF:-1,TRACE TOCA
-http://vipstore.selfip.com:7500/live/vi/vi/1407.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1407.m3u8
 #EXTINF:-1,TRACE URBAN
-http://vipstore.selfip.com:7500/live/vi/vi/1408.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1408.m3u8
 #EXTINF:-1,MEZZO
-http://vipstore.selfip.com:7500/live/vi/vi/1409.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/1409.m3u8
 #EXTINF:-1,##### Portugal Swisscom #####
-http://vipstore.selfip.com:7500/live/vi/vi/6538.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6538.m3u8
 #EXTINF:-1,PT: RTP 1
-http://vipstore.selfip.com:7500/live/vi/vi/6539.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6539.m3u8
 #EXTINF:-1,PT: RTP 1 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6540.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6540.m3u8
 #EXTINF:-1,PT: RTP 1 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6541.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6541.m3u8
 #EXTINF:-1,PT: RTP 2
-http://vipstore.selfip.com:7500/live/vi/vi/6542.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6542.m3u8
 #EXTINF:-1,PT: RTP 2 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6543.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6543.m3u8
 #EXTINF:-1,PT: RTP 2 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6544.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6544.m3u8
 #EXTINF:-1,PT: SIC
-http://vipstore.selfip.com:7500/live/vi/vi/6545.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6545.m3u8
 #EXTINF:-1,PT: SIC HD
-http://vipstore.selfip.com:7500/live/vi/vi/6546.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6546.m3u8
 #EXTINF:-1,PT: SIC FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6547.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6547.m3u8
 #EXTINF:-1,PT: TVI
-http://vipstore.selfip.com:7500/live/vi/vi/6548.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6548.m3u8
 #EXTINF:-1,PT: TVI HD
-http://vipstore.selfip.com:7500/live/vi/vi/6549.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6549.m3u8
 #EXTINF:-1,PT: TVI FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6550.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6550.m3u8
 #EXTINF:-1,PT: TVI FICÇÃO
-http://vipstore.selfip.com:7500/live/vi/vi/6551.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6551.m3u8
 #EXTINF:-1,PT: TVI REALITY
-http://vipstore.selfip.com:7500/live/vi/vi/6552.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6552.m3u8
 #EXTINF:-1,PT: SIC MULHER
-http://vipstore.selfip.com:7500/live/vi/vi/6553.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6553.m3u8
 #EXTINF:-1,PT: SIC MULHER HD
-http://vipstore.selfip.com:7500/live/vi/vi/6554.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6554.m3u8
 #EXTINF:-1,PT: SIC CARAS
-http://vipstore.selfip.com:7500/live/vi/vi/6555.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6555.m3u8
 #EXTINF:-1,PT: SIC RADICAL
-http://vipstore.selfip.com:7500/live/vi/vi/6556.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6556.m3u8
 #EXTINF:-1,PT: SIC RADICAL HD
-http://vipstore.selfip.com:7500/live/vi/vi/6557.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6557.m3u8
 #EXTINF:-1,PT: CANAL Q
-http://vipstore.selfip.com:7500/live/vi/vi/6558.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6558.m3u8
 #EXTINF:-1,PT: RTP AFRICA
-http://vipstore.selfip.com:7500/live/vi/vi/6559.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6559.m3u8
 #EXTINF:-1,PT: RTP ACORES
-http://vipstore.selfip.com:7500/live/vi/vi/6560.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6560.m3u8
 #EXTINF:-1,PT: RTP MEMÓRIA
-http://vipstore.selfip.com:7500/live/vi/vi/6561.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6561.m3u8
 #EXTINF:-1,PT: RTP INTERNACIONAL
-http://vipstore.selfip.com:7500/live/vi/vi/6562.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6562.m3u8
 #EXTINF:-1,PT: RTP MADEIRA
-http://vipstore.selfip.com:7500/live/vi/vi/6563.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6563.m3u8
 #EXTINF:-1,PT: ****** NOTICIAS ******
-http://vipstore.selfip.com:7500/live/vi/vi/6564.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6564.m3u8
 #EXTINF:-1,PT: SIC NOTICIAS
-http://vipstore.selfip.com:7500/live/vi/vi/6565.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6565.m3u8
 #EXTINF:-1,PT: SIC NOTICIAS HD
-http://vipstore.selfip.com:7500/live/vi/vi/6566.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6566.m3u8
 #EXTINF:-1,PT: TVI 24
-http://vipstore.selfip.com:7500/live/vi/vi/6567.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6567.m3u8
 #EXTINF:-1,PT: CMTV
-http://vipstore.selfip.com:7500/live/vi/vi/6568.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6568.m3u8
 #EXTINF:-1,PT: CMTV HD
-http://vipstore.selfip.com:7500/live/vi/vi/6569.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6569.m3u8
 #EXTINF:-1,PT: RTP 3
-http://vipstore.selfip.com:7500/live/vi/vi/6570.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6570.m3u8
 #EXTINF:-1,PT: RTP 3 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6571.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6571.m3u8
 #EXTINF:-1,PT: ARTV
-http://vipstore.selfip.com:7500/live/vi/vi/6572.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6572.m3u8
 #EXTINF:-1,PT: ****** DESPORTO ******
-http://vipstore.selfip.com:7500/live/vi/vi/6573.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6573.m3u8
 #EXTINF:-1,PT: CANAL 11 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6574.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6574.m3u8
 #EXTINF:-1,PT: CANAL 11 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6575.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6575.m3u8
 #EXTINF:-1,PT: SPORT TV NBA HD
-http://vipstore.selfip.com:7500/live/vi/vi/6576.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6576.m3u8
 #EXTINF:-1,PT: SPORT TV
-http://vipstore.selfip.com:7500/live/vi/vi/6577.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6577.m3u8
 #EXTINF:-1,PT: SPORT TV FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6578.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6578.m3u8
 #EXTINF:-1,PT: SPORT TV 1
-http://vipstore.selfip.com:7500/live/vi/vi/6579.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6579.m3u8
 #EXTINF:-1,PT: SPORT TV 1 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6580.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6580.m3u8
 #EXTINF:-1,PT: SPORT TV 1 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6581.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6581.m3u8
 #EXTINF:-1,PT: SPORT TV 2
-http://vipstore.selfip.com:7500/live/vi/vi/6582.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6582.m3u8
 #EXTINF:-1,PT: SPORT TV 2 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6583.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6583.m3u8
 #EXTINF:-1,PT: SPORT TV 2 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6584.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6584.m3u8
 #EXTINF:-1,PT: SPORT TV 3
-http://vipstore.selfip.com:7500/live/vi/vi/6585.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6585.m3u8
 #EXTINF:-1,PT: SPORT TV 3 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6586.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6586.m3u8
 #EXTINF:-1,PT: SPORT TV 3 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6587.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6587.m3u8
 #EXTINF:-1,PT: SPORT TV 4
-http://vipstore.selfip.com:7500/live/vi/vi/6588.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6588.m3u8
 #EXTINF:-1,PT: SPORT TV 4 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6589.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6589.m3u8
 #EXTINF:-1,PT: SPORT TV 5
-http://vipstore.selfip.com:7500/live/vi/vi/6590.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6590.m3u8
 #EXTINF:-1,PT: SPORT TV 5 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6591.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6591.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 1 LB
-http://vipstore.selfip.com:7500/live/vi/vi/6592.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6592.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 1
-http://vipstore.selfip.com:7500/live/vi/vi/6593.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6593.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 1 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6594.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6594.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 2 LB
-http://vipstore.selfip.com:7500/live/vi/vi/6595.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6595.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 2 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6596.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6596.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 3 LB
-http://vipstore.selfip.com:7500/live/vi/vi/6597.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6597.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 3 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6598.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6598.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 4 LB
-http://vipstore.selfip.com:7500/live/vi/vi/6599.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6599.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 4 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6600.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6600.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 5 LB
-http://vipstore.selfip.com:7500/live/vi/vi/6601.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6601.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 5 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6602.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6602.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 6 LB
-http://vipstore.selfip.com:7500/live/vi/vi/6603.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6603.m3u8
 #EXTINF:-1,PT: ELEVEN SPORT 6 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6604.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6604.m3u8
 #EXTINF:-1,PT: Benfica TV
-http://vipstore.selfip.com:7500/live/vi/vi/6605.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6605.m3u8
 #EXTINF:-1,PT: Benfica TV HD
-http://vipstore.selfip.com:7500/live/vi/vi/6606.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6606.m3u8
 #EXTINF:-1,PT: Benfica TV FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6607.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6607.m3u8
 #EXTINF:-1,PT: PORTO CANAL
-http://vipstore.selfip.com:7500/live/vi/vi/6608.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6608.m3u8
 #EXTINF:-1,PT: PORTO CANAL HD
-http://vipstore.selfip.com:7500/live/vi/vi/6609.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6609.m3u8
 #EXTINF:-1,PT: SPORTING TV
-http://vipstore.selfip.com:7500/live/vi/vi/6610.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6610.m3u8
 #EXTINF:-1,PT: SPORTING TV HD
-http://vipstore.selfip.com:7500/live/vi/vi/6611.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6611.m3u8
 #EXTINF:-1,PT: A BOLA TV
-http://vipstore.selfip.com:7500/live/vi/vi/6612.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6612.m3u8
 #EXTINF:-1,PT: PFC
-http://vipstore.selfip.com:7500/live/vi/vi/6613.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6613.m3u8
 #EXTINF:-1,PT: EUROSPORT 1
-http://vipstore.selfip.com:7500/live/vi/vi/6614.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6614.m3u8
 #EXTINF:-1,PT: EUROSPORT 1 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6615.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6615.m3u8
 #EXTINF:-1,PT: EUROSPORT 2
-http://vipstore.selfip.com:7500/live/vi/vi/6616.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6616.m3u8
 #EXTINF:-1,PT: KOMBAT SPORT
-http://vipstore.selfip.com:7500/live/vi/vi/6617.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6617.m3u8
 #EXTINF:-1,PT: FIGHT NETWORK FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6618.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6618.m3u8
 #EXTINF:-1,PT: FUEL TV
-http://vipstore.selfip.com:7500/live/vi/vi/6619.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6619.m3u8
 #EXTINF:-1,PT: MOTORVISION
-http://vipstore.selfip.com:7500/live/vi/vi/6620.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6620.m3u8
 #EXTINF:-1,PT: REAL MADRID TV
-http://vipstore.selfip.com:7500/live/vi/vi/6621.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6621.m3u8
 #EXTINF:-1,PT: ****** FILMES/SERIES ******
-http://vipstore.selfip.com:7500/live/vi/vi/6622.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6622.m3u8
 #EXTINF:-1,PT: TVCINE 1
-http://vipstore.selfip.com:7500/live/vi/vi/6623.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6623.m3u8
 #EXTINF:-1,PT: TVCINE 1 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6624.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6624.m3u8
 #EXTINF:-1,PT: TVCINE 1 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6625.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6625.m3u8
 #EXTINF:-1,PT: TVCINE 2
-http://vipstore.selfip.com:7500/live/vi/vi/6626.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6626.m3u8
 #EXTINF:-1,PT: TVCINE 2 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6627.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6627.m3u8
 #EXTINF:-1,PT: TVCINE 2 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6628.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6628.m3u8
 #EXTINF:-1,PT: TVCINE 3
-http://vipstore.selfip.com:7500/live/vi/vi/6629.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6629.m3u8
 #EXTINF:-1,PT: TVCINE 3 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6630.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6630.m3u8
 #EXTINF:-1,PT: TVCINE 3 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6631.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6631.m3u8
 #EXTINF:-1,PT: TVCINE 4
-http://vipstore.selfip.com:7500/live/vi/vi/6632.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6632.m3u8
 #EXTINF:-1,PT: TVCINE 4 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6633.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6633.m3u8
 #EXTINF:-1,PT: TVCINE 4 FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6634.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6634.m3u8
 #EXTINF:-1,PT: NOS STUDIO FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6635.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6635.m3u8
 #EXTINF:-1,PT: HOLLYWOOD
-http://vipstore.selfip.com:7500/live/vi/vi/6636.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6636.m3u8
 #EXTINF:-1,PT: HOLLYWOOD HD
-http://vipstore.selfip.com:7500/live/vi/vi/6637.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6637.m3u8
 #EXTINF:-1,PT: CINEMUNDO
-http://vipstore.selfip.com:7500/live/vi/vi/6638.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6638.m3u8
 #EXTINF:-1,PT: CINEMUNDO HD
-http://vipstore.selfip.com:7500/live/vi/vi/6639.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6639.m3u8
 #EXTINF:-1,PT: AMC
-http://vipstore.selfip.com:7500/live/vi/vi/6640.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6640.m3u8
 #EXTINF:-1,PT: AMC HD
-http://vipstore.selfip.com:7500/live/vi/vi/6641.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6641.m3u8
 #EXTINF:-1,PT: AMC FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6642.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6642.m3u8
 #EXTINF:-1,PT: FOX MOVIES
-http://vipstore.selfip.com:7500/live/vi/vi/6643.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6643.m3u8
 #EXTINF:-1,PT: FOX MOVIES HD
-http://vipstore.selfip.com:7500/live/vi/vi/6644.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6644.m3u8
 #EXTINF:-1,PT: TV SERIES
-http://vipstore.selfip.com:7500/live/vi/vi/6645.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6645.m3u8
 #EXTINF:-1,PT: TV SERIES HD
-http://vipstore.selfip.com:7500/live/vi/vi/6646.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6646.m3u8
 #EXTINF:-1,PT: TV SERIES FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6647.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6647.m3u8
 #EXTINF:-1,PT: FOX
-http://vipstore.selfip.com:7500/live/vi/vi/6648.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6648.m3u8
 #EXTINF:-1,PT: FOX HD
-http://vipstore.selfip.com:7500/live/vi/vi/6649.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6649.m3u8
 #EXTINF:-1,PT: FOX FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6650.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6650.m3u8
 #EXTINF:-1,PT: FOX CRIME
-http://vipstore.selfip.com:7500/live/vi/vi/6651.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6651.m3u8
 #EXTINF:-1,PT: FOX CRIME FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6652.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6652.m3u8
 #EXTINF:-1,PT: FOX CRIME HD
-http://vipstore.selfip.com:7500/live/vi/vi/6653.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6653.m3u8
 #EXTINF:-1,PT: FOX LIFE
-http://vipstore.selfip.com:7500/live/vi/vi/6654.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6654.m3u8
 #EXTINF:-1,PT: FOX LIFE HD
-http://vipstore.selfip.com:7500/live/vi/vi/6655.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6655.m3u8
 #EXTINF:-1,PT: FOX COMEDY
-http://vipstore.selfip.com:7500/live/vi/vi/6656.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6656.m3u8
 #EXTINF:-1,PT: FOX COMEDY HD
-http://vipstore.selfip.com:7500/live/vi/vi/6657.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6657.m3u8
 #EXTINF:-1,PT: AXN
-http://vipstore.selfip.com:7500/live/vi/vi/6658.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6658.m3u8
 #EXTINF:-1,PT: AXN HD
-http://vipstore.selfip.com:7500/live/vi/vi/6659.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6659.m3u8
 #EXTINF:-1,PT: AXN FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6660.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6660.m3u8
 #EXTINF:-1,PT: AXN WHITE
-http://vipstore.selfip.com:7500/live/vi/vi/6661.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6661.m3u8
 #EXTINF:-1,PT: AXN WHITE HD
-http://vipstore.selfip.com:7500/live/vi/vi/6662.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6662.m3u8
 #EXTINF:-1,PT: AXN WHITE FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6663.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6663.m3u8
 #EXTINF:-1,PT: AXN BLACK
-http://vipstore.selfip.com:7500/live/vi/vi/6664.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6664.m3u8
 #EXTINF:-1,PT: AXN BLACK HD
-http://vipstore.selfip.com:7500/live/vi/vi/6665.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6665.m3u8
 #EXTINF:-1,PT: AXN BLACK FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6666.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6666.m3u8
 #EXTINF:-1,PT: SYFY
-http://vipstore.selfip.com:7500/live/vi/vi/6667.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6667.m3u8
 #EXTINF:-1,PT: SYFY HD
-http://vipstore.selfip.com:7500/live/vi/vi/6668.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6668.m3u8
 #EXTINF:-1,PT: Hbo Portugal
-http://vipstore.selfip.com:7500/live/vi/vi/8526.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/8526.m3u8
 #EXTINF:-1,PT: Netflix
-http://vipstore.selfip.com:7500/live/vi/vi/8527.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/8527.m3u8
 #EXTINF:-1,PT: Marvel
-http://vipstore.selfip.com:7500/live/vi/vi/8528.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/8528.m3u8
 #EXTINF:-1,PT: Marvel II
-http://vipstore.selfip.com:7500/live/vi/vi/8529.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/8529.m3u8
 #EXTINF:-1,PT: National Geographic WILD
-http://vipstore.selfip.com:7500/live/vi/vi/6669.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6669.m3u8
 #EXTINF:-1,PT: NATIONAL GEOGRAPHIC HD
-http://vipstore.selfip.com:7500/live/vi/vi/6670.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6670.m3u8
 #EXTINF:-1,PT: DISCOVERY CHANNEL
-http://vipstore.selfip.com:7500/live/vi/vi/6671.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6671.m3u8
 #EXTINF:-1,PT: DISCOVERY CHANNEL HD
-http://vipstore.selfip.com:7500/live/vi/vi/6672.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6672.m3u8
 #EXTINF:-1,PT: ID INVESTIGATION DISCOVERY
-http://vipstore.selfip.com:7500/live/vi/vi/6673.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6673.m3u8
 #EXTINF:-1,PT: HISTORIA
-http://vipstore.selfip.com:7500/live/vi/vi/6674.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6674.m3u8
 #EXTINF:-1,PT: ODISSEIA
-http://vipstore.selfip.com:7500/live/vi/vi/6675.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6675.m3u8
 #EXTINF:-1,PT: ODISSEIA HD
-http://vipstore.selfip.com:7500/live/vi/vi/6676.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6676.m3u8
 #EXTINF:-1,PT: CRIME INVESTIGATION
-http://vipstore.selfip.com:7500/live/vi/vi/6677.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6677.m3u8
 #EXTINF:-1,PT: CACA E PESCA
-http://vipstore.selfip.com:7500/live/vi/vi/6678.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6678.m3u8
 #EXTINF:-1,PT: CAÇAVISION
-http://vipstore.selfip.com:7500/live/vi/vi/6679.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6679.m3u8
 #EXTINF:-1,PT: TOROS TV
-http://vipstore.selfip.com:7500/live/vi/vi/6680.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6680.m3u8
 #EXTINF:-1,PT: TRAVEL CHANNEL HD
-http://vipstore.selfip.com:7500/live/vi/vi/6681.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6681.m3u8
 #EXTINF:-1,PT: ****** INFANTIL ******
-http://vipstore.selfip.com:7500/live/vi/vi/6682.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6682.m3u8
 #EXTINF:-1,PT: DISNEY CHANNEL
-http://vipstore.selfip.com:7500/live/vi/vi/6683.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6683.m3u8
 #EXTINF:-1,PT: DISNEY JUNIOR
-http://vipstore.selfip.com:7500/live/vi/vi/6684.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6684.m3u8
 #EXTINF:-1,PT: CANAL PANDA
-http://vipstore.selfip.com:7500/live/vi/vi/6685.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6685.m3u8
 #EXTINF:-1,PT: PANDA BIGGS
-http://vipstore.selfip.com:7500/live/vi/vi/6686.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6686.m3u8
 #EXTINF:-1,PT: JIM JAM
-http://vipstore.selfip.com:7500/live/vi/vi/6687.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6687.m3u8
 #EXTINF:-1,PT: BABY TV
-http://vipstore.selfip.com:7500/live/vi/vi/6688.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6688.m3u8
 #EXTINF:-1,PT: CARTOON NETWORK
-http://vipstore.selfip.com:7500/live/vi/vi/6689.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6689.m3u8
 #EXTINF:-1,PT: NICKELODEON
-http://vipstore.selfip.com:7500/live/vi/vi/6690.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6690.m3u8
 #EXTINF:-1,PT: NICK JR
-http://vipstore.selfip.com:7500/live/vi/vi/6691.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6691.m3u8
 #EXTINF:-1,PT: SIC K
-http://vipstore.selfip.com:7500/live/vi/vi/6692.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6692.m3u8
 #EXTINF:-1,PT: ****** CULTURA ******
-http://vipstore.selfip.com:7500/live/vi/vi/6693.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6693.m3u8
 #EXTINF:-1,PT: LUXE TV HD
-http://vipstore.selfip.com:7500/live/vi/vi/6694.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6694.m3u8
 #EXTINF:-1,PT: FOX NEWS
-http://vipstore.selfip.com:7500/live/vi/vi/6695.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6695.m3u8
 #EXTINF:-1,PT: LOCALVISAO TV HD
-http://vipstore.selfip.com:7500/live/vi/vi/6696.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6696.m3u8
 #EXTINF:-1,PT: CANAL 180 HD
-http://vipstore.selfip.com:7500/live/vi/vi/6697.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6697.m3u8
 #EXTINF:-1,PT: RECORD NEW
-http://vipstore.selfip.com:7500/live/vi/vi/6698.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6698.m3u8
 #EXTINF:-1,PT: BBC ENTERTAINEMENT
-http://vipstore.selfip.com:7500/live/vi/vi/6699.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6699.m3u8
 #EXTINF:-1,PT: FATIMA FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6700.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6700.m3u8
 #EXTINF:-1,PT: BLAZE TV
-http://vipstore.selfip.com:7500/live/vi/vi/6701.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6701.m3u8
 #EXTINF:-1,PT: CBS REALITY
-http://vipstore.selfip.com:7500/live/vi/vi/6702.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6702.m3u8
 #EXTINF:-1,PT: E! ENTERTAINMENT
-http://vipstore.selfip.com:7500/live/vi/vi/6703.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6703.m3u8
 #EXTINF:-1,PT: KURIAKOS
-http://vipstore.selfip.com:7500/live/vi/vi/6704.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6704.m3u8
 #EXTINF:-1,PT: MY CUISINE
-http://vipstore.selfip.com:7500/live/vi/vi/6705.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6705.m3u8
 #EXTINF:-1,PT: TLC
-http://vipstore.selfip.com:7500/live/vi/vi/6706.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6706.m3u8
 #EXTINF:-1,PT: EURONEWS
-http://vipstore.selfip.com:7500/live/vi/vi/6707.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6707.m3u8
 #EXTINF:-1,PT: 24 KITCHEN
-http://vipstore.selfip.com:7500/live/vi/vi/6708.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6708.m3u8
 #EXTINF:-1,PT: DOG TV FHD
-http://vipstore.selfip.com:7500/live/vi/vi/6709.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6709.m3u8
 #EXTINF:-1,PT: TV RECORD
-http://vipstore.selfip.com:7500/live/vi/vi/6710.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6710.m3u8
 #EXTINF:-1,PT: CANÇÃO NOVA
-http://vipstore.selfip.com:7500/live/vi/vi/6711.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6711.m3u8
 #EXTINF:-1,PT: ****** INTERNACIONAIS ******
-http://vipstore.selfip.com:7500/live/vi/vi/6712.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6712.m3u8
 #EXTINF:-1,PT: GLOBO
-http://vipstore.selfip.com:7500/live/vi/vi/6713.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6713.m3u8
 #EXTINF:-1,PT: GLOBO NOW
-http://vipstore.selfip.com:7500/live/vi/vi/6714.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6714.m3u8
 #EXTINF:-1,PT: TPA INTERNACIONAL
-http://vipstore.selfip.com:7500/live/vi/vi/6715.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6715.m3u8
 #EXTINF:-1,PT: ZAP VIVA HD
-http://vipstore.selfip.com:7500/live/vi/vi/6716.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6716.m3u8
 #EXTINF:-1,PT: TV5 MONDE
-http://vipstore.selfip.com:7500/live/vi/vi/6717.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6717.m3u8
 #EXTINF:-1,PT: TVE 24h
-http://vipstore.selfip.com:7500/live/vi/vi/6718.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6718.m3u8
 #EXTINF:-1,PT: TVE Internacional
-http://vipstore.selfip.com:7500/live/vi/vi/6719.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6719.m3u8
 #EXTINF:-1,PT: Sky News
-http://vipstore.selfip.com:7500/live/vi/vi/6720.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6720.m3u8
 #EXTINF:-1,PT: CNN
-http://vipstore.selfip.com:7500/live/vi/vi/6721.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6721.m3u8
 #EXTINF:-1,PT: M6
-http://vipstore.selfip.com:7500/live/vi/vi/6722.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6722.m3u8
 #EXTINF:-1,PT: BLOOMBERG
-http://vipstore.selfip.com:7500/live/vi/vi/6723.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6723.m3u8
 #EXTINF:-1,PT: ****** Musica ******
-http://vipstore.selfip.com:7500/live/vi/vi/6724.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6724.m3u8
 #EXTINF:-1,PT: MCM POP
-http://vipstore.selfip.com:7500/live/vi/vi/6725.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6725.m3u8
 #EXTINF:-1,PT: MTV PORTUGAL
-http://vipstore.selfip.com:7500/live/vi/vi/6726.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6726.m3u8
 #EXTINF:-1,PT: VH1
-http://vipstore.selfip.com:7500/live/vi/vi/6727.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6727.m3u8
 #EXTINF:-1,PT: AFRO MUSIC
-http://vipstore.selfip.com:7500/live/vi/vi/6728.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6728.m3u8
 #EXTINF:-1,PT: TRACE TOCA
-http://vipstore.selfip.com:7500/live/vi/vi/6729.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6729.m3u8
 #EXTINF:-1,PT: TRACE URBAN
-http://vipstore.selfip.com:7500/live/vi/vi/6730.m3u8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6730.m3u8
 #EXTINF:-1,PT: MEZZO
-http://vipstore.selfip.com:7500/live/vi/vi/6731.m3u8
-
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/6731.m3u8
+#EXTINF:-1,#### Brasil ####
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/4216.m3u8
+#EXTINF:-1,A FAZENDA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5639.m3u8
+#EXTINF:-1,A&E
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5640.m3u8
+#EXTINF:-1,A&E HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5641.m3u8
+#EXTINF:-1,AMC br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5642.m3u8
+#EXTINF:-1,AMC HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5643.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5644.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5645.m3u8
+#EXTINF:-1,ARTE 1
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5646.m3u8
+#EXTINF:-1,AXN br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5647.m3u8
+#EXTINF:-1,AXN HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5648.m3u8
+#EXTINF:-1,BABY TV br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5649.m3u8
+#EXTINF:-1,BAND CAMPINAS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5650.m3u8
+#EXTINF:-1,BAND NEWS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5651.m3u8
+#EXTINF:-1,BAND SP
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5652.m3u8
+#EXTINF:-1,BAND SPORTS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5653.m3u8
+#EXTINF:-1,BAND SPORTS HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5654.m3u8
+#EXTINF:-1,BIS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5655.m3u8
+#EXTINF:-1,BIS HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5656.m3u8
+#EXTINF:-1,BOOMERANG
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5657.m3u8
+#EXTINF:-1,CANAL BRASIL
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5658.m3u8
+#EXTINF:-1,CARTOON NETWORK br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5659.m3u8
+#EXTINF:-1,CARTOON NETWORK HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5660.m3u8
+#EXTINF:-1,CINEMAX
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5661.m3u8
+#EXTINF:-1,CINEMAX HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5662.m3u8
+#EXTINF:-1,CNT
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5663.m3u8
+#EXTINF:-1,COMBATE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5664.m3u8
+#EXTINF:-1,COMBATE HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5665.m3u8
+#EXTINF:-1,COMEDY CENTRAL br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5666.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5667.m3u8
+#EXTINF:-1,CULTURA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5668.m3u8
+#EXTINF:-1,CURTA!
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5669.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5670.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5671.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5672.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5673.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5674.m3u8
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5675.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5676.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5677.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5678.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5679.m3u8
+#EXTINF:-1,DISCOVERY THEATER
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5680.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5681.m3u8
+#EXTINF:-1,TLC br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5682.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5683.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5684.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5685.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5686.m3u8
+#EXTINF:-1,DISNEY CHANNEL br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5687.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5688.m3u8
+#EXTINF:-1,DISNEY JR HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5690.m3u8
+#EXTINF:-1,DISNEY XD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5691.m3u8
+#EXTINF:-1,E! br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5692.m3u8
+#EXTINF:-1,E! HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5693.m3u8
+#EXTINF:-1,ESPN PLUS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5694.m3u8
+#EXTINF:-1,ESPN PLUS HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5695.m3u8
+#EXTINF:-1,ESPN BRASIL
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5696.m3u8
+#EXTINF:-1,ESPN BRASIL HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5697.m3u8
+#EXTINF:-1,ESPN EXTRA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5698.m3u8
+#EXTINF:-1,FISH TV
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5699.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5700.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5701.m3u8
+#EXTINF:-1,FOX br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5702.m3u8
+#EXTINF:-1,FOX HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5703.m3u8
+#EXTINF:-1,FOX LIFE br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5704.m3u8
+#EXTINF:-1,FOX LIFE HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5705.m3u8
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5706.m3u8
+#EXTINF:-1,FOX PREMIUM 2
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5707.m3u8
+#EXTINF:-1,FOX SPORTS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5708.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5709.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5710.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5711.m3u8
+#EXTINF:-1,FUTURA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5712.m3u8
+#EXTINF:-1,FX
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5713.m3u8
+#EXTINF:-1,FX HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5714.m3u8
+#EXTINF:-1,GLOBO ANHANGUERA GOIANIA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5715.m3u8
+#EXTINF:-1,GLOBO BRASILIA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5716.m3u8
+#EXTINF:-1,GLOBO CUIABA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5717.m3u8
+#EXTINF:-1,GLOBO EPTV CAMPINAS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5718.m3u8
+#EXTINF:-1,GLOBO EPTV RIBEIREIRO PRETO
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5719.m3u8
+#EXTINF:-1,GLOBO EPTV SAO CARLOS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5720.m3u8
+#EXTINF:-1,GLOBO INTERTV CABUGI
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5721.m3u8
+#EXTINF:-1,GLOBO MINAS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5722.m3u8
+#EXTINF:-1,GLOBO NEWS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5723.m3u8
+#EXTINF:-1,GLOBO NEWS HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5724.m3u8
+#EXTINF:-1,GLOBO NORDESTE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5725.m3u8
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5726.m3u8
+#EXTINF:-1,GLOBO RJ
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5727.m3u8
+#EXTINF:-1,GLOBO SP
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5728.m3u8
+#EXTINF:-1,GLOBO TV BAHIA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5729.m3u8
+#EXTINF:-1,GLOBO TV BELEM
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5730.m3u8
+#EXTINF:-1,GLOBO TV TEM BAURU
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5731.m3u8
+#EXTINF:-1,GLOBOSAT HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5732.m3u8
+#EXTINF:-1,GLOOB
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5733.m3u8
+#EXTINF:-1,GLOOB HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5734.m3u8
+#EXTINF:-1,GNT
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5735.m3u8
+#EXTINF:-1,H2
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5736.m3u8
+#EXTINF:-1,HBO
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5737.m3u8
+#EXTINF:-1,HBO HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5738.m3u8
+#EXTINF:-1,HBO 2
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5739.m3u8
+#EXTINF:-1,HBO 2 HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5740.m3u8
+#EXTINF:-1,HBO FAMILY
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5741.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5742.m3u8
+#EXTINF:-1,HBO PLUS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5743.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5744.m3u8
+#EXTINF:-1,HBO PLUS*E
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5745.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5746.m3u8
+#EXTINF:-1,HBO SIGNATURE HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5747.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5748.m3u8
+#EXTINF:-1,HISTORY CHANNEL HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5749.m3u8
+#EXTINF:-1,INVESTIGAÇÃO DISCOVERY
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5750.m3u8
+#EXTINF:-1,LIFETIME
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5751.m3u8
+#EXTINF:-1,MAX
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5752.m3u8
+#EXTINF:-1,MAX HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5753.m3u8
+#EXTINF:-1,MAX PRIME
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5754.m3u8
+#EXTINF:-1,MAX PRIME HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5755.m3u8
+#EXTINF:-1,MAX UP
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5756.m3u8
+#EXTINF:-1,MAX UP HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5757.m3u8
+#EXTINF:-1,MEGAPIX
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5758.m3u8
+#EXTINF:-1,MEGAPIX HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5759.m3u8
+#EXTINF:-1,MTV br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5760.m3u8
+#EXTINF:-1,MTV LIVE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5761.m3u8
+#EXTINF:-1,MULTISHOW
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5762.m3u8
+#EXTINF:-1,NATGEO KIDS HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5763.m3u8
+#EXTINF:-1,NATGEO FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5764.m3u8
+#EXTINF:-1,NATGEO WILD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5765.m3u8
+#EXTINF:-1,NICK JR br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5766.m3u8
+#EXTINF:-1,NICKELODEON br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5767.m3u8
+#EXTINF:-1,NOVO TEMPO
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5768.m3u8
+#EXTINF:-1,OFF
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5769.m3u8
+#EXTINF:-1,OFF HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5770.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5771.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5772.m3u8
+#EXTINF:-1,PLAY TV
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5773.m3u8
+#EXTINF:-1,PREMIERE 1
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5774.m3u8
+#EXTINF:-1,PREMIERE 2 HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5775.m3u8
+#EXTINF:-1,PREMIERE 3 HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5776.m3u8
+#EXTINF:-1,PREMIERE 4 HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5777.m3u8
+#EXTINF:-1,PREMIERE 5 HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5778.m3u8
+#EXTINF:-1,PREMIERE 6
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5779.m3u8
+#EXTINF:-1,PREMIERE 7
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5780.m3u8
+#EXTINF:-1,PREMIERE 8
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5781.m3u8
+#EXTINF:-1,PREMIERE CLUBES
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5782.m3u8
+#EXTINF:-1,RECORD NEWS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5783.m3u8
+#EXTINF:-1,RECORD RJ
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5784.m3u8
+#EXTINF:-1,RECORD SP
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5785.m3u8
+#EXTINF:-1,REDE TV
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5786.m3u8
+#EXTINF:-1,REDE VIDA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5787.m3u8
+#EXTINF:-1,SBT
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5788.m3u8
+#EXTINF:-1,SONY
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5789.m3u8
+#EXTINF:-1,SONY HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5790.m3u8
+#EXTINF:-1,SPACE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5791.m3u8
+#EXTINF:-1,SPORTV
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5792.m3u8
+#EXTINF:-1,SPORTV HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5793.m3u8
+#EXTINF:-1,SPORTV 2
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5794.m3u8
+#EXTINF:-1,SPORTV 2 HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5795.m3u8
+#EXTINF:-1,SPORTV 3
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5796.m3u8
+#EXTINF:-1,SPORTV 3 HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5797.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5798.m3u8
+#EXTINF:-1,SYFY br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5799.m3u8
+#EXTINF:-1,SYFY HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5800.m3u8
+#EXTINF:-1,TBS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5801.m3u8
+#EXTINF:-1,TCM br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5802.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5803.m3u8
+#EXTINF:-1,TELECINE CULT
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5804.m3u8
+#EXTINF:-1,TELECINE FUN
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5805.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5806.m3u8
+#EXTINF:-1,TELECINE PREMIUM
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5807.m3u8
+#EXTINF:-1,TELECINE TOUCH
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5808.m3u8
+#EXTINF:-1,TNT br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5809.m3u8
+#EXTINF:-1,TNT HD br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5810.m3u8
+#EXTINF:-1,TNT SERIES
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5811.m3u8
+#EXTINF:-1,TNT SERIES HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5812.m3u8
+#EXTINF:-1,TOONCAST
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5813.m3u8
+#EXTINF:-1,TV GAZETA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5814.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5815.m3u8
+#EXTINF:-1,VH1 br
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5816.m3u8
+#EXTINF:-1,VIVA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5817.m3u8
+#EXTINF:-1,VIVA HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5818.m3u8
+#EXTINF:-1,WARNER CHANNEL
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5819.m3u8
+#EXTINF:-1,WARNER CHANNEL HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5820.m3u8
+#EXTINF:-1,WOOHOO
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5821.m3u8
+#EXTINF:-1,ZOOMOO
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5822.m3u8
+#EXTINF:-1,##### Spain #####
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/634.m3u8
+#EXTINF:-1,LA 1
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5514.m3u8
+#EXTINF:-1,LA 1 FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5502.m3u8
+#EXTINF:-1,LA 2
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5503.m3u8
+#EXTINF:-1,LA 2 FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5504.m3u8
+#EXTINF:-1,ANTENA 3
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5505.m3u8
+#EXTINF:-1,ANTENA 3 FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5506.m3u8
+#EXTINF:-1,CUATRO
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5507.m3u8
+#EXTINF:-1,CUATRO FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5508.m3u8
+#EXTINF:-1,TELECINCO FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5510.m3u8
+#EXTINF:-1,TELECINCO
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5509.m3u8
+#EXTINF:-1,LA SEXTA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5511.m3u8
+#EXTINF:-1,LA SEXTA  FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5512.m3u8
+#EXTINF:-1,24 HORAS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5513.m3u8
+#EXTINF:-1,ANDALUCIA TV
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5515.m3u8
+#EXTINF:-1,ARAGON TV
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5516.m3u8
+#EXTINF:-1,SOL Music
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5517.m3u8
+#EXTINF:-1,MEZZO LIVE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5518.m3u8
+#EXTINF:-1,MOVISTAR DISNEY
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5519.m3u8
+#EXTINF:-1,DISNEY  XD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5520.m3u8
+#EXTINF:-1,DISNEY JR
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5521.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5522.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5523.m3u8
+#EXTINF:-1,CLAN
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5524.m3u8
+#EXTINF:-1,BOING
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5525.m3u8
+#EXTINF:-1,CANAL PANDA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5526.m3u8
+#EXTINF:-1,BABY TV
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5527.m3u8
+#EXTINF:-1,NICKELODEON es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5528.m3u8
+#EXTINF:-1,NICK JRs
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5529.m3u8
+#EXTINF:-1,MOVISTAR VAMOS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5530.m3u8
+#EXTINF:-1,LIGA TV BAR
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5531.m3u8
+#EXTINF:-1,LIGATV BAR FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5532.m3u8
+#EXTINF:-1,MOVISTAR LA LIGA FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5533.m3u8
+#EXTINF:-1,MOVISTAR LIGA CAMPEONES
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5534.m3u8
+#EXTINF:-1,MOVISTAR  DEPORTE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5535.m3u8
+#EXTINF:-1,MOVISTAR DEPORTE FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5536.m3u8
+#EXTINF:-1,EUROSPORT
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5537.m3u8
+#EXTINF:-1,Eurosport  2
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5538.m3u8
+#EXTINF:-1,MOVISTAR  F1
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5539.m3u8
+#EXTINF:-1,MOVISTAR F1 FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5540.m3u8
+#EXTINF:-1,MOVISTAR  GOLF
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5541.m3u8
+#EXTINF:-1,MOVISTAR GOLF FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5542.m3u8
+#EXTINF:-1,BARCA TV
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5543.m3u8
+#EXTINF:-1,REAL MADRID TV es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5544.m3u8
+#EXTINF:-1,GOL TV
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5545.m3u8
+#EXTINF:-1,TELEDEPORTE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5546.m3u8
+#EXTINF:-1,TELEDEPORTE FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5547.m3u8
+#EXTINF:-1,MOVISTAR  TOROS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5548.m3u8
+#EXTINF:-1,HISTORIA es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5549.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5550.m3u8
+#EXTINF:-1,ODISEA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5551.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5552.m3u8
+#EXTINF:-1,NATIONAL GEOGRAFIC WILD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5553.m3u8
+#EXTINF:-1,DMAX
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5554.m3u8
+#EXTINF:-1,TEN
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5555.m3u8
+#EXTINF:-1,BLAZE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5556.m3u8
+#EXTINF:-1,Viajar
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5557.m3u8
+#EXTINF:-1,VIAJAR FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5558.m3u8
+#EXTINF:-1,CAZA  Y PESCA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5559.m3u8
+#EXTINF:-1,CAZA Y PESCA FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5560.m3u8
+#EXTINF:-1,Iberalia
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5561.m3u8
+#EXTINF:-1,0# FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5562.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5563.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5564.m3u8
+#EXTINF:-1,MOVISTAR  ACCION
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5565.m3u8
+#EXTINF:-1,MOVISTAR ACCION FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5566.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5567.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5568.m3u8
+#EXTINF:-1,MOVISTAR DRAMA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5569.m3u8
+#EXTINF:-1,MOVISTAR DCINE
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5570.m3u8
+#EXTINF:-1,MOVISTAR CINEDOC&ROLL
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5571.m3u8
+#EXTINF:-1,HOLLYWOOD es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5572.m3u8
+#EXTINF:-1,HOLLYWOOD FHD es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5573.m3u8
+#EXTINF:-1,TCM
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5574.m3u8
+#EXTINF:-1,TCM FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5575.m3u8
+#EXTINF:-1,SUNDANCE es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5576.m3u8
+#EXTINF:-1,SUNDANCE FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5577.m3u8
+#EXTINF:-1,DARK
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5578.m3u8
+#EXTINF:-1,XTREM
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5579.m3u8
+#EXTINF:-1,SOMOS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5580.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5581.m3u8
+#EXTINF:-1,TAQUILLA 1
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5582.m3u8
+#EXTINF:-1,TAQUILLA 2
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5583.m3u8
+#EXTINF:-1,TAQUILLA 3
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5584.m3u8
+#EXTINF:-1,TAQUILLA 4
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5585.m3u8
+#EXTINF:-1,TAQUILLA 5
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5586.m3u8
+#EXTINF:-1,TAQUILLA 6
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5587.m3u8
+#EXTINF:-1,MOVISTAR SERIES
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5588.m3u8
+#EXTINF:-1,MOVISTAR SERIESMANIA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5589.m3u8
+#EXTINF:-1,CALLE 13
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5590.m3u8
+#EXTINF:-1,CALLE 13 FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5591.m3u8
+#EXTINF:-1,FOX es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5592.m3u8
+#EXTINF:-1,FOX FHD es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5593.m3u8
+#EXTINF:-1,FOX LIFE es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5594.m3u8
+#EXTINF:-1,FOX LIFE FHD es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5595.m3u8
+#EXTINF:-1,AXN es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5596.m3u8
+#EXTINF:-1,AXN FHD es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5597.m3u8
+#EXTINF:-1,AXN WHITE es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5598.m3u8
+#EXTINF:-1,AXN WHITE FHD es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5599.m3u8
+#EXTINF:-1,AMC es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5600.m3u8
+#EXTINF:-1,AMC FHD es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5601.m3u8
+#EXTINF:-1,TNT
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5602.m3u8
+#EXTINF:-1,TNT FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5603.m3u8
+#EXTINF:-1,SYFY es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5604.m3u8
+#EXTINF:-1,SYFY FHD es
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5605.m3u8
+#EXTINF:-1,COSMOS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5606.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5607.m3u8
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5608.m3u8
+#EXTINF:-1,MTV
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5609.m3u8
+#EXTINF:-1,FDF
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5610.m3u8
+#EXTINF:-1,DKISS
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5611.m3u8
+#EXTINF:-1,A3SERIES
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5612.m3u8
+#EXTINF:-1,MEGA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5613.m3u8
+#EXTINF:-1,ENERGY
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5614.m3u8
+#EXTINF:-1,DIVINITY
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5615.m3u8
+#EXTINF:-1,CRIMEN + INVESTIGACION
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5616.m3u8
+#EXTINF:-1,DECASA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5617.m3u8
+#EXTINF:-1,CANAL COCINA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5618.m3u8
+#EXTINF:-1,CANAL COCINA FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5619.m3u8
+#EXTINF:-1,BE MAD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5620.m3u8
+#EXTINF:-1,NEOX
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5621.m3u8
+#EXTINF:-1,NOVA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5622.m3u8
+#EXTINF:-1,CANAL SUR FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5623.m3u8
+#EXTINF:-1,CMM FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5624.m3u8
+#EXTINF:-1,LA OTRA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5625.m3u8
+#EXTINF:-1,TELEMADRID FHD
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5626.m3u8
+#EXTINF:-1,CANAL ORBE21
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5627.m3u8
+#EXTINF:-1,CLASSICA
+http://vipstore.selfip.com:7500/live/elizabete/elizabete123/5628.m3u8
