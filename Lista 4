@@ -1,162 +1,110 @@
 #EXTM3U
 #EXTINF:-1 ,RTP 1
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/172.ts
-#EXTINF:-1 ,RTP 1 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/616.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/739.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,RTP 2
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/173.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/738.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,SIC
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/174.ts
-#EXTINF:-1 ,SIC HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/638.ts
+
 #EXTINF:-1 ,TVI
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/175.ts
-#EXTINF:-1 ,TVI HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/889.ts
+
 #EXTINF:-1 ,CMTV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/176.ts
-#EXTINF:-1 ,CMTV HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/669.ts
+
 #EXTINF:-1 ,TVI 24
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/304.ts
+
 #EXTINF:-1 ,RTP 3
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/422.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/737.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,SIC NOTICIAS
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/220.ts
-#EXTINF:-1 ,SIC NOTICIAS HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/668.ts
+
 #EXTINF:-1 ,SIC RADICAL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/215.ts
+
 #EXTINF:-1 ,SIC MULHER
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/308.ts
+
 #EXTINF:-1 ,SIC CARAS
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/600.ts
+
 #EXTINF:-1 ,TVI FICCAO
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/302.ts
+
 #EXTINF:-1 ,TVI REALITY
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1049.ts
+
 #EXTINF:-1 ,FATIMA TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/771.ts
+https://streamer-b02.videos.sapo.pt/live/santuario.stream/livestream.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,SPORT TV 1
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/177.ts
-#EXTINF:-1 ,SPORT TV 1 LB
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/359.ts
-#EXTINF:-1 ,SPORT TV 1 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/355.ts
-#EXTINF:-1 ,SPORT TV 1 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/189.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/878.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,SPORT TV 2
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/178.ts
-#EXTINF:-1 ,SPORT TV 2 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/683.ts
-#EXTINF:-1 ,SPORT TV 2 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/351.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/877.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,SPORT TV 3
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/179.ts
-#EXTINF:-1 ,SPORT TV 3 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/684.ts
-#EXTINF:-1 ,SPORT TV 3 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/352.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/876.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,SPORT TV 4
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/180.ts
-#EXTINF:-1 ,SPORT TV 4 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/685.ts
-#EXTINF:-1 ,SPORT TV 4 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/566.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/875.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,SPORT TV 5
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/181.ts
-#EXTINF:-1 ,SPORT TV 5 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/686.ts
-#EXTINF:-1 ,SPORT TV 5 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/567.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/874.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,SPORT TV +
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/219.ts
-#EXTINF:-1 ,ELEVEN SPORts 1 SD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/748.ts
-#EXTINF:-1 ,ELEVEN SPORts 1 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/705.ts
-#EXTINF:-1 ,ELEVEN SPORts 2 SD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/749.ts
-#EXTINF:-1 ,ELEVEN SPORts 2 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/706.ts
-#EXTINF:-1 ,ELEVEN SPORts 3 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/718.ts
-#EXTINF:-1 ,ELEVEN SPORts 4 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/765.ts
-#EXTINF:-1 ,ELEVEN SPORts 5 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/766.ts
-#EXTINF:-1 ,ELEVEN SPORts 6 FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/767.ts
+
+#EXTINF:-1 ,ELEVEN SPORts 1 
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/871.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,ELEVEN SPORts 2 
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/870.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,ELEVEN SPORts 3 
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/869.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,ELEVEN SPORts 4
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/868.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,ELEVEN SPORts 5 
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/867.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,ELEVEN SPORts 6
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/866.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,BENFICA TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/354.ts
-#EXTINF:-1 ,BENFICA TV LB
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/360.ts
-#EXTINF:-1 ,BENFICA TV HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/342.ts
-#EXTINF:-1 ,BENFICA TV FULL HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/187.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/872.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,PORTO CANAL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/190.ts
+https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,SPORTING TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/221.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/879.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,CANAL 11 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/975.ts
+
 #EXTINF:-1 ,A BOLA TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/222.ts
+
 #EXTINF:-1 ,NBA TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/858.ts
+
 #EXTINF:-1 ,EUROSPORT 1
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/216.ts
-#EXTINF:-1 ,EUROSPORT 1 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/617.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/865.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,EUROSPORT 2
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/217.ts
+
 #EXTINF:-1 ,MOTORVISION
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/783.ts
+
 #EXTINF:-1 ,KOMBAT SPORT
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/666.ts
+http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/873.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,CACA E PESCA
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/410.ts
+
 #EXTINF:-1 ,CACAVISION
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/350.ts
+https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,TOROS TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/533.ts
+
 #EXTINF:-1 ,PFC
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/229.ts
+
 #EXTINF:-1 ,TVCINE 1
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/183.ts
-#EXTINF:-1 ,TVCINE 1 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/408.ts
+
 #EXTINF:-1 ,TVCINE 2
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/184.ts
-#EXTINF:-1 ,TVCINE 2 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/406.ts
+
 #EXTINF:-1 ,TVCINE 3
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/185.ts
-#EXTINF:-1 ,TVCINE 3 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/407.ts
+
 #EXTINF:-1 ,TVCINE 4
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/186.ts
-#EXTINF:-1 ,TVCINE 4 HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/409.ts
+
 #EXTINF:-1 ,TV SERIES
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/223.ts
+
 #EXTINF:-1 ,TV SERIES HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/730.ts
+
 #EXTINF:-1 ,NOS STUDIOS HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/962.ts
+
 #EXTINF:-1 ,NETFLIX PORTUGAL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1047.ts
+
 #EXTINF:-1 ,HBO PORTUGAL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/1048.ts
+
 #EXTINF:-1 ,AXN HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/296.ts
+
 #EXTINF:-1 ,AXN WHITE HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/399.ts
+
 #EXTINF:-1 ,AXN BLACK HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/400.ts
+
 #EXTINF:-1 ,FOX HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/297.ts
+
 #EXTINF:-1 ,FOX LIFE HD
 http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/599.ts
 #EXTINF:-1 ,FOX CRIME HD
