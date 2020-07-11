@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,RTP 1
-
+http://team2.live:8000/marcelo/sHhDRwG4/138031
 #EXTINF:-1 ,RTP 2
-
+http://team2.live:8000/marcelo/sHhDRwG4/138033
 #EXTINF:-1 ,SIC
 
 #EXTINF:-1 ,TVI
@@ -12,15 +12,15 @@
 #EXTINF:-1 ,TVI 24
 
 #EXTINF:-1 ,RTP 3
-
+http://team2.live:8000/marcelo/sHhDRwG4/13804
 #EXTINF:-1 ,SIC NOTICIAS
 
 #EXTINF:-1 ,SIC RADICAL
-
+http://team2.live:8000/marcelo/sHhDRwG4/138051
 #EXTINF:-1 ,SIC MULHER
 http://85.244.70.140:8000/play/a013
 #EXTINF:-1 ,SIC CARAS
-
+http://team2.live:8000/marcelo/sHhDRwG4/138052
 #EXTINF:-1 ,TVI FICCAO
 
 #EXTINF:-1 ,TVI REALITY
