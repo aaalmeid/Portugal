@@ -79,14 +79,10 @@ https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 ,PFC
 
-#EXTINF:-1 ,TVCINE 1
-
-#EXTINF:-1 ,TVCINE 2
-
-#EXTINF:-1 ,TVCINE 3
-
-#EXTINF:-1 ,TVCINE 4
-
+#EXTINF:-1 ,TVCine ACTION
+#EXTINF:-1 ,TVCine EDITION
+#EXTINF:-1 ,TVCine EMOTION
+#EXTINF:-1 ,TVCine TOP 
 #EXTINF:-1 ,TV SERIES
 
 #EXTINF:-1 ,TV SERIES HD
