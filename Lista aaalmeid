@@ -78,13 +78,13 @@ https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,PFC
 
 #EXTINF:-1 ,TVCine ACTION 
-http://85.244.70.140:8000/play/a00u
+http://brasiltv.pro:8080/live/7462223781&/2351913941&/25060.ts
 #EXTINF:-1 ,TVCine EDITION
-
+http://brasiltv.pro:8080/live/7462223781&/2351913941&/25062.ts
 #EXTINF:-1 ,TVCine EMOTION
-
+http://brasiltv.pro:8080/live/7462223781&/2351913941&/25064.ts
 #EXTINF:-1 ,TVCine TOP 
-http://85.244.70.140:8000/play/a00y
+http://brasiltv.pro:8080/live/7462223781&/2351913941&/25066.ts
 #EXTINF:-1 ,TV SERIES
 
 #EXTINF:-1 ,TV SERIES HD
