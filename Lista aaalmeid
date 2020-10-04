@@ -1,181 +1,457 @@
 #EXTM3U
-#EXTINF:-1 ,RTP 1
-http://team2.live:8000/marcelo/sHhDRwG4/138031
-#EXTINF:-1 ,RTP 2
-http://team2.live:8000/marcelo/sHhDRwG4/138033
-#EXTINF:-1 ,SIC
-
-#EXTINF:-1 ,TVI
-
-#EXTINF:-1 ,CMTV
-
-#EXTINF:-1 ,TVI 24
-
-#EXTINF:-1 ,RTP 3
-http://team2.live:8000/marcelo/sHhDRwG4/13804
-#EXTINF:-1 ,SIC NOTICIAS
-
-#EXTINF:-1 ,SIC RADICAL
-http://team2.live:8000/marcelo/sHhDRwG4/138051
-#EXTINF:-1 ,SIC MULHER
-http://85.244.70.140:8000/play/a013
-#EXTINF:-1 ,SIC CARAS
-http://team2.live:8000/marcelo/sHhDRwG4/138052
-#EXTINF:-1 ,TVI FICCAO
-
-#EXTINF:-1 ,TVI REALITY
-http://85.244.70.140:8000/play/a01x
-#EXTINF:-1 ,SPORT TV 1
-http://85.244.70.140:8000/play/a00r
-#EXTINF:-1 ,SPORT TV 2
-http://85.244.70.140:8000/play/a00m
-#EXTINF:-1 ,SPORT TV 3
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/876.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,SPORT TV 4
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/875.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,SPORT TV 5
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/874.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,SPORT TV +
-http://85.244.70.140:8000/play/a015
-#EXTINF:-1 ,ELEVEN SPORts 1 
-http://85.244.70.140:8000/play/a01j
-#EXTINF:-1 ,ELEVEN SPORts 2 
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/870.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,ELEVEN SPORts 3 
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/869.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,ELEVEN SPORts 4
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/868.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,ELEVEN SPORts 5 
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/867.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,ELEVEN SPORts 6
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/866.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,BENFICA TV
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/872.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,PORTO CANAL
-https://streamer-b02.videos.sapo.pt/live/portocanal/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,SPORTING TV
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/879.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,CANAL 11 HD
-
-#EXTINF:-1 ,A BOLA TV
-http://85.244.70.140:8000/play/a00z
-#EXTINF:-1 ,NBA TV
-
-#EXTINF:-1 ,EUROSPORT 1
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/865.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,EUROSPORT 2
-
-#EXTINF:-1 ,MOTORVISION
-
-#EXTINF:-1 ,KOMBAT SPORT
-http://serverxiptv.ownip.net:8888/live/star7/ahmedax2020/873.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,CACA E PESCA
-http://85.244.70.140:8000/play/a00v
-#EXTINF:-1 ,CACAVISION
-https://cdn039.fractalmedia.es/hls/caz_pt_med.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,TOROS TV
-
-#EXTINF:-1 ,PFC
-
-#EXTINF:-1 ,TVCine ACTION 
-http://brasiltv.pro:8080/live/7462223781&/2351913941&/25060.ts
-#EXTINF:-1 ,TVCine EDITION
-http://brasiltv.pro:8080/live/7462223781&/2351913941&/25062.ts
-#EXTINF:-1 ,TVCine EMOTION
-http://brasiltv.pro:8080/live/7462223781&/2351913941&/25064.ts
-#EXTINF:-1 ,TVCine TOP 
-http://brasiltv.pro:8080/live/7462223781&/2351913941&/25066.ts
-#EXTINF:-1 ,TV SERIES
-
-#EXTINF:-1 ,TV SERIES HD
-
-#EXTINF:-1 ,NOS STUDIOS HD
-http://85.244.70.140:8000/play/a011
-#EXTINF:-1 ,NETFLIX PORTUGAL
-
-#EXTINF:-1 ,HBO PORTUGAL
-
-#EXTINF:-1 ,AXN HD
-
-#EXTINF:-1 ,AXN WHITE HD
-
-#EXTINF:-1 ,AXN BLACK HD
-
-#EXTINF:-1 ,FOX HD
-
-#EXTINF:-1 ,FOX LIFE HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/599.ts
-#EXTINF:-1 ,FOX CRIME HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/475.ts
-#EXTINF:-1 ,FOX MOVIES HD
-http://85.244.70.140:8000/play/a014
-#EXTINF:-1 ,FOX COMEDY
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/307.ts
-#EXTINF:-1 ,FOX COMEDY HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/729.ts
-#EXTINF:-1 ,HOLLYWOOD HD
-http://85.244.70.140:8000/play/a00q
-#EXTINF:-1 ,CINEMUNDO
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/398.ts
-#EXTINF:-1 ,SYFY
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/300.ts
-#EXTINF:-1 ,AMC
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/306.ts
-#EXTINF:-1 ,MTV PORTUGAL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/301.ts
-#EXTINF:-1 ,TRACE TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/344.ts
-#EXTINF:-1 ,VH1
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/348.ts
-#EXTINF:-1 ,DISNEY CHANNEL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/703.ts
-#EXTINF:-1 ,DISNEY JUNIOR
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/191.ts
-#EXTINF:-1 ,CANAL PANDA
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/224.ts
-#EXTINF:-1 ,PANDA BIGGS
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/309.ts
-#EXTINF:-1 ,NICKELODEON
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/455.ts
-#EXTINF:-1 ,NICK JUNIOR
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/495.ts
-#EXTINF:-1 ,CARTOON NETWORK
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/236.ts
-#EXTINF:-1 ,JIM JAM
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/305.ts
-#EXTINF:-1 ,SIC K
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/789.ts
-#EXTINF:-1 ,BABY TV
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/601.ts
-#EXTINF:-1 ,NATIONAL GEOGRAPHIC HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/298.ts
-#EXTINF:-1 ,NAT GEO WILD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/238.ts
-#EXTINF:-1 ,DISCOVERY CHANNEL
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/237.ts
-#EXTINF:-1 ,ID INVESTIGATION DISCOVERY
-http://85.244.70.140:8000/play/a01i
-#EXTINF:-1 ,ODISSEIA
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/239.ts
-#EXTINF:-1 ,CANAL HISTORIA
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/240.ts
-#EXTINF:-1 ,CBS REALITY
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/303.ts
-#EXTINF:-1 ,BLAZE
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/242.ts
-#EXTINF:-1 ,TLC
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/543.ts
-#EXTINF:-1 ,24 KITCHEN HD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/610.ts
-#EXTINF:-1 ,MY CUISINE
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/938.ts
-#EXTINF:-1 ,TV RECORD
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/412.ts
-#EXTINF:-1 ,TV GLOBO
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/544.ts
-#EXTINF:-1 ,GLOBO NOW
-http://tugatek.ddns.net:61982/live/WlmFvb8IfO/4zKpEYBMEc/233.ts
-
-http://srvx.io:80/get.php?username=W3afr&password=8Rhhr&type=m3u
-http://srvx.io:80/get.php?username=kDVQ2&password=56771&type=m3u
-http://srvx.io:80/get.php?username=Kr6fp&password=U7NYf&type=m3u
+#EXTINF:-1,PT: 24 Kitchen FHD
+http://srvx.io:80/kDVQ2/56771/74798
+#EXTINF:-1,PT: 24 Kitchen FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74799
+#EXTINF:-1,PT: A Bola TV
+http://srvx.io:80/kDVQ2/56771/74800
+#EXTINF:-1,PT: A Bola TV FHD
+http://srvx.io:80/kDVQ2/56771/74801
+#EXTINF:-1,PT: Afro Music Channel
+http://srvx.io:80/kDVQ2/56771/74802
+#EXTINF:-1,PT: AMC
+http://srvx.io:80/kDVQ2/56771/74803
+#EXTINF:-1,PT: AMC FHD
+http://srvx.io:80/kDVQ2/56771/74804
+#EXTINF:-1,PT: AMC H265
+http://srvx.io:80/kDVQ2/56771/74805
+#EXTINF:-1,PT: ARTV Parlamento
+http://srvx.io:80/kDVQ2/56771/74806
+#EXTINF:-1,PT: AXN Black
+http://srvx.io:80/kDVQ2/56771/74807
+#EXTINF:-1,PT: AXN Black FHD
+http://srvx.io:80/kDVQ2/56771/74808
+#EXTINF:-1,PT: AXN Black FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74809
+#EXTINF:-1,PT: AXN FHD
+http://srvx.io:80/kDVQ2/56771/74810
+#EXTINF:-1,PT: AXN FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74811
+#EXTINF:-1,PT: AXN White
+http://srvx.io:80/kDVQ2/56771/74812
+#EXTINF:-1,PT: AXN White FHD
+http://srvx.io:80/kDVQ2/56771/74813
+#EXTINF:-1,PT: AXN White FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74814
+#EXTINF:-1,PT: Baby TV
+http://srvx.io:80/kDVQ2/56771/74815
+#EXTINF:-1,PT: BBC World News
+http://srvx.io:80/kDVQ2/56771/74816
+#EXTINF:-1,PT: Blaze
+http://srvx.io:80/kDVQ2/56771/74817
+#EXTINF:-1,PT: Blaze FHD
+http://srvx.io:80/kDVQ2/56771/74818
+#EXTINF:-1,PT: Bloomberg
+http://srvx.io:80/kDVQ2/56771/74819
+#EXTINF:-1,PT: Boomerang
+http://srvx.io:80/kDVQ2/56771/74820
+#EXTINF:-1,PT: BTV
+http://srvx.io:80/kDVQ2/56771/74821
+#EXTINF:-1,PT: BTV SD
+http://srvx.io:80/kDVQ2/56771/74822
+#EXTINF:-1,PT: BTV FHD
+http://srvx.io:80/kDVQ2/56771/74823
+#EXTINF:-1,PT: BTV FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74824
+#EXTINF:-1,PT: BTV HD
+http://srvx.io:80/kDVQ2/56771/74825
+#EXTINF:-1,PT: Cacavision
+http://srvx.io:80/kDVQ2/56771/74826
+#EXTINF:-1,PT: Canal 11
+http://srvx.io:80/kDVQ2/56771/74827
+#EXTINF:-1,PT: Canal 11 FHD
+http://srvx.io:80/kDVQ2/56771/74828
+#EXTINF:-1,PT: Canal 11 FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74829
+#EXTINF:-1,PT: Canal Historia
+http://srvx.io:80/kDVQ2/56771/74830
+#EXTINF:-1,PT: Canal Panda
+http://srvx.io:80/kDVQ2/56771/74831
+#EXTINF:-1,PT: Canal Q
+http://srvx.io:80/kDVQ2/56771/74832
+#EXTINF:-1,PT: CANCAO NOVA
+http://srvx.io:80/kDVQ2/56771/74833
+#EXTINF:-1,PT: Cartoon Network
+http://srvx.io:80/kDVQ2/56771/74834
+#EXTINF:-1,PT: Caza e Pesca
+http://srvx.io:80/kDVQ2/56771/74835
+#EXTINF:-1,PT: CBS Reality
+http://srvx.io:80/kDVQ2/56771/74836
+#EXTINF:-1,PT: CineMundo
+http://srvx.io:80/kDVQ2/56771/74837
+#EXTINF:-1,PT: CineMundo FHD
+http://srvx.io:80/kDVQ2/56771/74838
+#EXTINF:-1,PT: Clubbing TV
+http://srvx.io:80/kDVQ2/56771/74839
+#EXTINF:-1,PT: CMTV
+http://srvx.io:80/kDVQ2/56771/74840
+#EXTINF:-1,PT: CMTV FHD
+http://srvx.io:80/kDVQ2/56771/74841
+#EXTINF:-1,PT: CNBC
+http://srvx.io:80/kDVQ2/56771/74842
+#EXTINF:-1,PT: CNN
+http://srvx.io:80/kDVQ2/56771/74843
+#EXTINF:-1,PT: Crime Investigation
+http://srvx.io:80/kDVQ2/56771/74844
+#EXTINF:-1,PT: Discovery Channel
+http://srvx.io:80/kDVQ2/56771/74845
+#EXTINF:-1,PT: Discovery Channel FHD
+http://srvx.io:80/kDVQ2/56771/74846
+#EXTINF:-1,PT: Discovery FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74847
+#EXTINF:-1,PT: Disney Channel
+http://srvx.io:80/kDVQ2/56771/74848
+#EXTINF:-1,PT: Disney Junior
+http://srvx.io:80/kDVQ2/56771/74849
+#EXTINF:-1,PT: Dog TV FHD
+http://srvx.io:80/kDVQ2/56771/74850
+#EXTINF:-1,PT: E! Entertainment
+http://srvx.io:80/kDVQ2/56771/74851
+#EXTINF:-1,PT: Eleven Sports 1 SD
+http://srvx.io:80/kDVQ2/56771/74852
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://srvx.io:80/kDVQ2/56771/74853
+#EXTINF:-1,PT: Eleven Sports 1 FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74854
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://srvx.io:80/kDVQ2/56771/74855
+#EXTINF:-1,PT: Eleven Sports 2 SD
+http://srvx.io:80/kDVQ2/56771/74856
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://srvx.io:80/kDVQ2/56771/74857
+#EXTINF:-1,PT: Eleven Sports 2 FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74858
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://srvx.io:80/kDVQ2/56771/74859
+#EXTINF:-1,PT: Eleven Sports 3 SD
+http://srvx.io:80/kDVQ2/56771/74860
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://srvx.io:80/kDVQ2/56771/74861
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://srvx.io:80/kDVQ2/56771/74862
+#EXTINF:-1,PT: Eleven Sports 4 SD
+http://srvx.io:80/kDVQ2/56771/74863
+#EXTINF:-1,PT: Eleven Sports 4 FHD
+http://srvx.io:80/kDVQ2/56771/74864
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://srvx.io:80/kDVQ2/56771/74865
+#EXTINF:-1,PT: Eleven Sports 5 SD
+http://srvx.io:80/kDVQ2/56771/74866
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://srvx.io:80/kDVQ2/56771/74867
+#EXTINF:-1,PT: Eleven Sports 5 HD
+http://srvx.io:80/kDVQ2/56771/74868
+#EXTINF:-1,PT: Eleven Sports 6 SD
+http://srvx.io:80/kDVQ2/56771/74869
+#EXTINF:-1,PT: Eleven Sports 6 FHD
+http://srvx.io:80/kDVQ2/56771/74870
+#EXTINF:-1,PT: Euronews
+http://srvx.io:80/kDVQ2/56771/74871
+#EXTINF:-1,PT: Eurosport 1 FHD
+http://srvx.io:80/kDVQ2/56771/74872
+#EXTINF:-1,PT: EuroSport 1 FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74873
+#EXTINF:-1,PT: Eurosport 2
+http://srvx.io:80/kDVQ2/56771/74874
+#EXTINF:-1,PT: Fashion TV
+http://srvx.io:80/kDVQ2/56771/74875
+#EXTINF:-1,PT: Fight Network FHD
+http://srvx.io:80/kDVQ2/56771/74876
+#EXTINF:-1,PT: Fine Living Network FHD
+http://srvx.io:80/kDVQ2/56771/74877
+#EXTINF:-1,PT: Food Network FHD
+http://srvx.io:80/kDVQ2/56771/74878
+#EXTINF:-1,PT: Fox
+http://srvx.io:80/kDVQ2/56771/74879
+#EXTINF:-1,PT: Fox Comedy
+http://srvx.io:80/kDVQ2/56771/74880
+#EXTINF:-1,PT: Fox Comedy FHD
+http://srvx.io:80/kDVQ2/56771/74881
+#EXTINF:-1,PT: Fox Crime
+http://srvx.io:80/kDVQ2/56771/74882
+#EXTINF:-1,PT: Fox Crime FHD
+http://srvx.io:80/kDVQ2/56771/74883
+#EXTINF:-1,PT: FOX Crime FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74884
+#EXTINF:-1,PT: Fox FHD
+http://srvx.io:80/kDVQ2/56771/74885
+#EXTINF:-1,PT: FOX FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74886
+#EXTINF:-1,PT: Fox Life
+http://srvx.io:80/kDVQ2/56771/74887
+#EXTINF:-1,PT: Fox Life FHD
+http://srvx.io:80/kDVQ2/56771/74888
+#EXTINF:-1,PT: FOX Life FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74889
+#EXTINF:-1,PT: Fox Movies
+http://srvx.io:80/kDVQ2/56771/74890
+#EXTINF:-1,PT: Fox Movies FHD
+http://srvx.io:80/kDVQ2/56771/74891
+#EXTINF:-1,PT: Fox News
+http://srvx.io:80/kDVQ2/56771/74892
+#EXTINF:-1,PT: Fuel TV
+http://srvx.io:80/kDVQ2/56771/74893
+#EXTINF:-1,PT: Fuel TV FHD
+http://srvx.io:80/kDVQ2/56771/74894
+#EXTINF:-1,PT: Hollywood
+http://srvx.io:80/kDVQ2/56771/74895
+#EXTINF:-1,PT: Hollywood FHD
+http://srvx.io:80/kDVQ2/56771/74896
+#EXTINF:-1,PT: Hollywood FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74897
+#EXTINF:-1,PT: IConcerts FHD
+http://srvx.io:80/kDVQ2/56771/74898
+#EXTINF:-1,PT: ID Investigation Discovery FHD
+http://srvx.io:80/kDVQ2/56771/74899
+#EXTINF:-1,PT: Jim Jam
+http://srvx.io:80/kDVQ2/56771/74900
+#EXTINF:-1,PT: Kombat Sport
+http://srvx.io:80/kDVQ2/56771/74901
+#EXTINF:-1,PT: LocalVisao HD
+http://srvx.io:80/kDVQ2/56771/74902
+#EXTINF:-1,PT: Luxe.TV FHD
+http://srvx.io:80/kDVQ2/56771/74903
+#EXTINF:-1,PT: MCM Pop
+http://srvx.io:80/kDVQ2/56771/74904
+#EXTINF:-1,PT: MCM Top
+http://srvx.io:80/kDVQ2/56771/74905
+#EXTINF:-1,PT: Mezzo
+http://srvx.io:80/kDVQ2/56771/74906
+#EXTINF:-1,PT: Motorvision
+http://srvx.io:80/kDVQ2/56771/74907
+#EXTINF:-1,PT: MTV Portugal
+http://srvx.io:80/kDVQ2/56771/74908
+#EXTINF:-1,PT: MTV Portugal FHD
+http://srvx.io:80/kDVQ2/56771/74909
+#EXTINF:-1,PT: MVM TV
+http://srvx.io:80/kDVQ2/56771/74910
+#EXTINF:-1,PT: My Cuisinne
+http://srvx.io:80/kDVQ2/56771/74911
+#EXTINF:-1,PT: Nat Geo
+http://srvx.io:80/kDVQ2/56771/74912
+#EXTINF:-1,PT: Nat Geo FHD
+http://srvx.io:80/kDVQ2/56771/74913
+#EXTINF:-1,PT: Nat Geo FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74914
+#EXTINF:-1,PT: Nat Geo Wild
+http://srvx.io:80/kDVQ2/56771/74915
+#EXTINF:-1,PT: Nat Geo Wild FHD
+http://srvx.io:80/kDVQ2/56771/74916
+#EXTINF:-1,PT: NBA
+http://srvx.io:80/kDVQ2/56771/74917
+#EXTINF:-1,PT: NBA FHD
+http://srvx.io:80/kDVQ2/56771/74918
+#EXTINF:-1,PT: Nick JR.
+http://srvx.io:80/kDVQ2/56771/74919
+#EXTINF:-1,PT: Nickelodeon
+http://srvx.io:80/kDVQ2/56771/74920
+#EXTINF:-1,PT: NOS Studios
+http://srvx.io:80/kDVQ2/56771/74921
+#EXTINF:-1,PT: NOS Studios FHD
+http://srvx.io:80/kDVQ2/56771/74922
+#EXTINF:-1,PT: NOS Studios FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74923
+#EXTINF:-1,PT: Odisseia
+http://srvx.io:80/kDVQ2/56771/74924
+#EXTINF:-1,PT: Odisseia FHD
+http://srvx.io:80/kDVQ2/56771/74925
+#EXTINF:-1,PT: Panda Biggs
+http://srvx.io:80/kDVQ2/56771/74926
+#EXTINF:-1,PT: PFC
+http://srvx.io:80/kDVQ2/56771/74927
+#EXTINF:-1,PT: Porto Canal
+http://srvx.io:80/kDVQ2/56771/74928
+#EXTINF:-1,PT: Porto Canal FHD
+http://srvx.io:80/kDVQ2/56771/74929
+#EXTINF:-1,PT: RECORD TV (NA)
+http://srvx.io:80/kDVQ2/56771/74930
+#EXTINF:-1,PT: RTP 1
+http://srvx.io:80/kDVQ2/56771/74931
+#EXTINF:-1,PT: RTP 1 FHD
+http://srvx.io:80/kDVQ2/56771/74932
+#EXTINF:-1,PT: RTP 1 FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74933
+#EXTINF:-1,PT: RTP 2
+http://srvx.io:80/kDVQ2/56771/74934
+#EXTINF:-1,PT: RTP 2 FHD
+http://srvx.io:80/kDVQ2/56771/74935
+#EXTINF:-1,PT: RTP 2 FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74936
+#EXTINF:-1,PT: RTP 3
+http://srvx.io:80/kDVQ2/56771/74937
+#EXTINF:-1,PT: RTP 3 FHD
+http://srvx.io:80/kDVQ2/56771/74938
+#EXTINF:-1,PT: RTP Acores
+http://srvx.io:80/kDVQ2/56771/74939
+#EXTINF:-1,PT: RTP Africa
+http://srvx.io:80/kDVQ2/56771/74940
+#EXTINF:-1,PT: RTP Madeira
+http://srvx.io:80/kDVQ2/56771/74941
+#EXTINF:-1,PT: RTP Memoria
+http://srvx.io:80/kDVQ2/56771/74942
+#EXTINF:-1,PT: Santuario Fatima
+http://srvx.io:80/kDVQ2/56771/74943
+#EXTINF:-1,PT: Saude FHD
+http://srvx.io:80/kDVQ2/56771/74944
+#EXTINF:-1,PT: SIC
+http://srvx.io:80/kDVQ2/56771/74945
+#EXTINF:-1,PT: SIC Caras
+http://srvx.io:80/kDVQ2/56771/74946
+#EXTINF:-1,PT: SIC Caras FHD
+http://srvx.io:80/kDVQ2/56771/74947
+#EXTINF:-1,PT: SIC FHD
+http://srvx.io:80/kDVQ2/56771/74948
+#EXTINF:-1,PT: SIC FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74949
+#EXTINF:-1,PT: Sic Kids FHD
+http://srvx.io:80/kDVQ2/56771/74950
+#EXTINF:-1,PT: SIC Mulher
+http://srvx.io:80/kDVQ2/56771/74951
+#EXTINF:-1,PT: SIC Mulher FHD
+http://srvx.io:80/kDVQ2/56771/74952
+#EXTINF:-1,PT: SIC Noticias
+http://srvx.io:80/kDVQ2/56771/74953
+#EXTINF:-1,PT: SIC Noticias FHD
+http://srvx.io:80/kDVQ2/56771/74954
+#EXTINF:-1,PT: SIC Radical
+http://srvx.io:80/kDVQ2/56771/74955
+#EXTINF:-1,PT: SIC Radical FHD
+http://srvx.io:80/kDVQ2/56771/74956
+#EXTINF:-1,PT: Sky News
+http://srvx.io:80/kDVQ2/56771/74957
+#EXTINF:-1,PT: Sport TV 1
+http://srvx.io:80/kDVQ2/56771/74958
+#EXTINF:-1,PT: Sport TV 1 SD
+http://srvx.io:80/kDVQ2/56771/74959
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://srvx.io:80/kDVQ2/56771/74960
+#EXTINF:-1,PT: Sport TV 1 FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74961
+#EXTINF:-1,PT: Sport TV 1 HD
+http://srvx.io:80/kDVQ2/56771/74962
+#EXTINF:-1,PT: Sport TV 2
+http://srvx.io:80/kDVQ2/56771/74963
+#EXTINF:-1,PT: Sport TV 2 SD
+http://srvx.io:80/kDVQ2/56771/74964
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://srvx.io:80/kDVQ2/56771/74965
+#EXTINF:-1,PT: Sport TV 2 FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74966
+#EXTINF:-1,PT: Sport TV 2 HD
+http://srvx.io:80/kDVQ2/56771/74967
+#EXTINF:-1,PT: Sport TV 3
+http://srvx.io:80/kDVQ2/56771/74968
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://srvx.io:80/kDVQ2/56771/74969
+#EXTINF:-1,PT: Sport TV 3 FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74970
+#EXTINF:-1,PT: Sport TV 3 HD
+http://srvx.io:80/kDVQ2/56771/74971
+#EXTINF:-1,PT: Sport TV 4
+http://srvx.io:80/kDVQ2/56771/74972
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://srvx.io:80/kDVQ2/56771/74973
+#EXTINF:-1,PT: Sport TV 4 HD
+http://srvx.io:80/kDVQ2/56771/74974
+#EXTINF:-1,PT: Sport TV 5
+http://srvx.io:80/kDVQ2/56771/74975
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://srvx.io:80/kDVQ2/56771/74976
+#EXTINF:-1,PT: Sport TV 5 HD
+http://srvx.io:80/kDVQ2/56771/74977
+#EXTINF:-1,PT: Sport TV NBA FHD [H265]
+http://srvx.io:80/kDVQ2/56771/74978
+#EXTINF:-1,PT: Sport TV+
+http://srvx.io:80/kDVQ2/56771/74979
+#EXTINF:-1,PT: Sport TV+ FHD
+http://srvx.io:80/kDVQ2/56771/74980
+#EXTINF:-1,PT: Sporting TV
+http://srvx.io:80/kDVQ2/56771/74981
+#EXTINF:-1,PT: Sporting TV FHD
+http://srvx.io:80/kDVQ2/56771/74982
+#EXTINF:-1,PT: SyFy
+http://srvx.io:80/kDVQ2/56771/74983
+#EXTINF:-1,PT: SyFy FHD
+http://srvx.io:80/kDVQ2/56771/74984
+#EXTINF:-1,PT: TCV Internacional
+http://srvx.io:80/kDVQ2/56771/74985
+#EXTINF:-1,PT: TLC
+http://srvx.io:80/kDVQ2/56771/74986
+#EXTINF:-1,PT: Toros TV
+http://srvx.io:80/kDVQ2/56771/74987
+#EXTINF:-1,PT: TPA
+http://srvx.io:80/kDVQ2/56771/74988
+#EXTINF:-1,PT: TPA Internacional
+http://srvx.io:80/kDVQ2/56771/74989
+#EXTINF:-1,PT: Trace & Urban
+http://srvx.io:80/kDVQ2/56771/74990
+#EXTINF:-1,PT: Trace & Urban FHD
+http://srvx.io:80/kDVQ2/56771/74991
+#EXTINF:-1,PT: Trace Toca
+http://srvx.io:80/kDVQ2/56771/74992
+#EXTINF:-1,PT: Travel Channel
+http://srvx.io:80/kDVQ2/56771/74993
+#EXTINF:-1,PT: Travel Channel FHD
+http://srvx.io:80/kDVQ2/56771/74994
+#EXTINF:-1,PT: TV Globo
+http://srvx.io:80/kDVQ2/56771/74995
+#EXTINF:-1,PT: TV Globo FHD
+http://srvx.io:80/kDVQ2/56771/74996
+#EXTINF:-1,PT: TV Globo NOW
+http://srvx.io:80/kDVQ2/56771/74997
+#EXTINF:-1,PT: TV RECORD
+http://srvx.io:80/kDVQ2/56771/74998
+#EXTINF:-1,PT: TV Record FHD
+http://srvx.io:80/kDVQ2/56771/74999
+#EXTINF:-1,PT: TV Series FHD [H265]
+http://srvx.io:80/kDVQ2/56771/75000
+#EXTINF:-1,PT: TVC News
+http://srvx.io:80/kDVQ2/56771/75001
+#EXTINF:-1,PT: TVCine ACTION
+http://srvx.io:80/kDVQ2/56771/75002
+#EXTINF:-1,PT: TVCine ACTION FHD
+http://srvx.io:80/kDVQ2/56771/75003
+#EXTINF:-1,PT: TVCine Action FHD [H265]
+http://srvx.io:80/kDVQ2/56771/75004
+#EXTINF:-1,PT: TVCine EDITION
+http://srvx.io:80/kDVQ2/56771/75005
+#EXTINF:-1,PT: TVCine EDITION FHD
+http://srvx.io:80/kDVQ2/56771/75006
+#EXTINF:-1,PT: TVCine Edition FHD [H265]
+http://srvx.io:80/kDVQ2/56771/75007
+#EXTINF:-1,PT: TVCine EMOTION
+http://srvx.io:80/kDVQ2/56771/75008
+#EXTINF:-1,PT: TVCine EMOTION FHD
+http://srvx.io:80/kDVQ2/56771/75009
+#EXTINF:-1,PT: TVCine Emotion FHD [H265]
+http://srvx.io:80/kDVQ2/56771/75010
+#EXTINF:-1,PT: TVCine TOP
+http://srvx.io:80/kDVQ2/56771/75011
+#EXTINF:-1,PT: TVCine TOP FHD
+http://srvx.io:80/kDVQ2/56771/75012
+#EXTINF:-1,PT: TVCine Top FHD [H265]
+http://srvx.io:80/kDVQ2/56771/75013
+#EXTINF:-1,PT: TVI
+http://srvx.io:80/kDVQ2/56771/75014
+#EXTINF:-1,PT: TVI 24
+http://srvx.io:80/kDVQ2/56771/75015
+#EXTINF:-1,PT: TVI 24 FHD
+http://srvx.io:80/kDVQ2/56771/75016
+#EXTINF:-1,PT: TVI FHD
+http://srvx.io:80/kDVQ2/56771/75017
+#EXTINF:-1,PT: TVI Ficcao
+http://srvx.io:80/kDVQ2/56771/75018
+#EXTINF:-1,PT: TVI Ficcao FHD
+http://srvx.io:80/kDVQ2/56771/75019
+#EXTINF:-1,PT: TVI FHD [H265]
+http://srvx.io:80/kDVQ2/56771/75020
+#EXTINF:-1,PT: TVI Reality
+http://srvx.io:80/kDVQ2/56771/75021
+#EXTINF:-1,PT: TVI Reality FHD
+http://srvx.io:80/kDVQ2/56771/75022
+#EXTINF:-1,PT: VH1
+http://srvx.io:80/kDVQ2/56771/75023
+#EXTINF:-1,PT: VH1 Classic
+http://srvx.io:80/kDVQ2/56771/75024
+#EXTINF:-1,PT: ZAP Viva FHD
+http://srvx.io:80/kDVQ2/56771/75025
