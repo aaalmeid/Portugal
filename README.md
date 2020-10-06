@@ -1,3 +1,3 @@
-Todas as listas m3u, são de pesquisas,
-Para uso pessoal, sem fins lucrativos, compartilhadas gratuitamente.
+Todas as listas m3u, são pesquisas na net,
+para uso pessoal, sem fins lucrativos, sem servidor próprio, compartilhadas gratuitamente.
 
