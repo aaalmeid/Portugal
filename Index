@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 catchup="default" catchup-source="https://ptiptv.tk/catchup/RTP1?t=${start}&bkiFrupueUwhIVBUN2KqkZCT_O8",RTP 1
+#EXTINF:-1,RTP 1 
 https://ptiptv.tk/rtp1.m3u8|user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F85.0.4183.121+Safari%2F537.36
 #EXTINF:-1,RTP 2
 http://77.58.176.165:8080/play/a05b/index.m3u8
