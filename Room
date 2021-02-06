@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 type="stream" tvg-id="AXN HD [Leg]" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="Portugal André",AXN HD [Leg]
+#EXTINF:-1 type="stream" tvg-id="AXN HD [Leg]" tvg-logo="https://i.ibb.co/Lx7T6Ls/axnhdb.png" group-title="ANDRÉ",AXN HD [Leg]
 http://lb.kstream.org/aovivo/HD_AXN_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
+#EXTINF:-1 type="stream" tvg-id="Fox HD [Leg]" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="ANDRÉ",Fox HD [Leg]
+http://lb.kstream.org/aovivo/HD_FOX_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
