@@ -3,3 +3,7 @@
 http://lb.kstream.org/aovivo/HD_AXN_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
 #EXTINF:-1 type="stream" tvg-id="Fox HD [Leg]" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="ANDRÉ",Fox HD [Leg]
 http://lb.kstream.org/aovivo/HD_FOX_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
+#EXTINF:-1 type="stream" tvg-id="Fox Premium 1 HD [Leg]" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="ANDRÉ",Fox Premium 1 HD [Leg]
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
+#EXTINF:-1 type="stream" tvg-id="Fox Premium 2 HD [Leg]" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title="ANDRÉ",Fox Premium 2 HD [Leg]
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
