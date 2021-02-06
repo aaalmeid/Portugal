@@ -3,7 +3,19 @@
 http://lb.kstream.org/aovivo/HD_AXN_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
 #EXTINF:-1 type="stream" tvg-id="Fox HD [Leg]" tvg-logo="https://i.ibb.co/zQwKGNk/foxchannel.png" group-title="ANDRÉ",Fox HD [Leg]
 http://lb.kstream.org/aovivo/HD_FOX_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
-#EXTINF:-1 type="stream" tvg-id="Fox Premium 1 HD [Leg]" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="ANDRÉ",Fox Premium 1 HD [Leg]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
-#EXTINF:-1 type="stream" tvg-id="Fox Premium 2 HD [Leg]" tvg-logo="https://i.ibb.co/ygC4V8r/foxpremium2b.png" group-title="ANDRÉ",Fox Premium 2 HD [Leg]
-http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
+#EXTINF:-1 type="stream" tvg-id="HBO Plus HD [Leg]" tvg-logo="https://i.ibb.co/JHzz2yN/hboplus.png" group-title="ANDRÉ",HBO Plus HD [Leg]
+http://lb.kstream.org/aovivo/HD_HBO_PLUS_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
+#EXTINF:-1 type="stream" tvg-id="HBO Signature FHD [Leg]" tvg-logo="https://i.ibb.co/bQp2cq4/hbosignatureb.png" group-title="ANDRÉ",HBO Signature FHD [Leg]
+http://lb.kstream.org/aovivo/FHD_HBO_SIGNATURE_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
+#EXTINF:-1 type="stream" tvg-id="Telecine Action HD [Leg]" tvg-logo="https://i.ibb.co/LY4HPS3/tcactionb.png" group-title="ANDRÉ",Telecine Action HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_ACTION_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
+#EXTINF:-1 type="stream" tvg-id="Telecine Cult HD [Leg]" tvg-logo="https://i.ibb.co/jvGkYnG/tccultb.png" group-title="ANDRÉ",Telecine Cult HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_CULT_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
+#EXTINF:-1 type="stream" tvg-id="Telecine Fun HD [Leg]" tvg-logo="https://i.ibb.co/cc4HPVH/tcfunb.png" group-title="ANDRÉ",Telecine Fun HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_FUN_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
+#EXTINF:-1 type="stream" tvg-id="Telecine Pipoca HD [Leg]" tvg-logo="https://i.ibb.co/2cxgKRj/tcpipocab.png" group-title="ANDRÉ",Telecine Pipoca HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_PIPOCA_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
+#EXTINF:-1 type="stream" tvg-id="Telecine Premium HD [Leg]" tvg-logo="https://i.ibb.co/r2YxHDW/tcpremiumb.png" group-title="ANDRÉ",Telecine Premium HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_PREMIUM_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
+#EXTINF:-1 type="stream" tvg-id="Telecine Touch HD [Leg]" tvg-logo="https://i.ibb.co/2P8hGVv/tctouchb.png" group-title="ANDRÉ",Telecine Touch HD [Leg]
+http://lb.kstream.org/aovivo/HD_TC_TOUCH_LEG/video.m3u8?token=90e44cbeb916e0eb83cb79b867c1f699
