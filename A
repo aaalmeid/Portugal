@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF: -1 tvg-id = "" tvg-name = "- - - - PORTUGAL - - - -" tvg-logo = "http://media.cxc.media/picons/PT/portugal.png" grupo -title = "PORTUGAL", - - - - PORTUGAL - - - -
 #EXTINF:-1 logo="http://85.241.140.156:9981/imagecache/321" tvg-id="c9357205c7de88272af935609a54fed5",24 Kitchen HD
 http://85.241.140.156:9981/stream/channelid/91370953?ticket=DDC25B33A2C51B2EF01F10CEEC17055F096C61A3&profile=pass
 #EXTINF:-1 logo="http://85.241.140.156:9981/imagecache/325" tvg-id="87fb022a54a56878cbb7b68dd24521d5",AMC
